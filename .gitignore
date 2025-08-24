@@ -1,0 +1,55 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Selenium WebDriver binaries (if stored locally)
+chromedriver
+geckodriver
+msedgedriver
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+
+# Selenium artifacts
+*.log
+selenium-screenshot*.png
+reports/
+test-output/
+
+# Test / coverage
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Local data / cache
+.cache/
+*.db
+*.sqlite
+*.csv
+*.json
