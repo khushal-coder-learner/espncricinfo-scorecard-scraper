@@ -9,8 +9,8 @@ Thanks for checking out this project! This scraper is built for **educational pu
 1. **Fork the repo** and clone your fork:
 
    ```bash
-   git clone https://github.com/<your-username>/cricscraper.git
-   cd cricscraper
+   git clone https://github.com/khushal-coder-learner/espncricinfo-scorecard-scraper.git
+   cd espncricinfo-scorecard-scraper
    ```
 
 2. **Set up a virtual environment**:
@@ -30,7 +30,7 @@ Thanks for checking out this project! This scraper is built for **educational pu
 4. **Run a test scrape**:
 
    ```bash
-   python -m cricscraper --url <scorecard-url>
+   python -m scraper.main
    ```
 
 Outputs will appear under `data/`.
@@ -39,7 +39,7 @@ Outputs will appear under `data/`.
 
 ## 🚀 How to Contribute
 
-* **Bug Fixes** → Example: parsing fails for Super Overs, or player roles leak into `match_info`.
+* **Bug Fixes** → Example: parsing fails for Super Overs, missing bowling or fall of wickets and messy formatting.
 * **Features** → Example: CSV/Excel export, caching, retries, or better logging.
 * **Docs** → Improve README, add examples, or explain tricky selectors.
 * **Examples** → Add JSON outputs from more matches so others can see edge cases.
@@ -54,17 +54,13 @@ Outputs will appear under `data/`.
    git checkout -b fix/fow-parsing
    ```
 2. Make your changes and test them.
-3. Run basic checks:
 
-   ```bash
-   pytest -q
-   ```
-4. Commit with a clear message (try `feat:`, `fix:`, or `docs:`):
+3. Commit with a clear message (try `feat:`, `fix:`, or `docs:`):
 
    ```bash
    git commit -m "fix: handle NaN in Super Over totals"
    ```
-5. Push your branch and open a Pull Request. 🎉
+4. Push your branch and open a Pull Request. 🎉
 
 ---
 
