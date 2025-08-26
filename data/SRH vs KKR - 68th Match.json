@@ -1,0 +1,315 @@
+{
+    "teams": {
+        "Sunrisers Hyderabad": {
+            "batting": [
+                {
+                    "batsman": "Abhishek Sharma",
+                    "dismissal": "c Singh b Narine",
+                    "runs": 32,
+                    "balls": 16,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Travis Head",
+                    "dismissal": "c Russell b Narine",
+                    "runs": 76,
+                    "balls": 40,
+                    "fours": 6,
+                    "sixes": 6,
+                    "strike_rate": 190.0
+                },
+                {
+                    "batsman": "Heinrich Klaasen",
+                    "dismissal": "not out",
+                    "runs": 105,
+                    "balls": 39,
+                    "fours": 7,
+                    "sixes": 9,
+                    "strike_rate": 269.23
+                },
+                {
+                    "batsman": "Ishan Kishan †",
+                    "dismissal": "c Nortje b Arora",
+                    "runs": 29,
+                    "balls": 20,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strike_rate": 145.0
+                },
+                {
+                    "batsman": "Aniket Verma",
+                    "dismissal": "not out",
+                    "runs": 12,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                }
+            ],
+            "extras": {
+                "total": 24,
+                "detail": "(b 2, lb 7, nb 1, w 14)"
+            },
+            "total": {
+                "runs": "278/3",
+                "detail": "20 Ov (RR: 13.90)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-92",
+                    "player": "Abhishek Sharma",
+                    "over": "6.5"
+                },
+                {
+                    "score": "2-175",
+                    "player": "Travis Head",
+                    "over": "12.4"
+                },
+                {
+                    "score": "3-258",
+                    "player": "Ishan Kishan",
+                    "over": "18.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Vaibhav Arora",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "1",
+                    "economy": "9.75"
+                },
+                {
+                    "bowler": "Anrich Nortje",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "60",
+                    "wickets": "0",
+                    "economy": "15.00"
+                },
+                {
+                    "bowler": "Harshit Rana",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "40",
+                    "wickets": "0",
+                    "economy": "13.33"
+                },
+                {
+                    "bowler": "Sunil Narine",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "2",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Varun Chakravarthy",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "54",
+                    "wickets": "0",
+                    "economy": "18.00"
+                },
+                {
+                    "bowler": "Andre Russell",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "34",
+                    "wickets": "0",
+                    "economy": "17.00"
+                }
+            ]
+        },
+        "Kolkata Knight Riders": {
+            "batting": [
+                {
+                    "batsman": "Quinton de Kock †",
+                    "dismissal": "c Manohar b Malinga",
+                    "runs": 9,
+                    "balls": 13,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 69.23
+                },
+                {
+                    "batsman": "Sunil Narine",
+                    "dismissal": "b Unadkat",
+                    "runs": 31,
+                    "balls": 16,
+                    "fours": 3,
+                    "sixes": 3,
+                    "strike_rate": 193.75
+                },
+                {
+                    "batsman": "Ajinkya Rahane (c)",
+                    "dismissal": "c Abhishek Sharma b Unadkat",
+                    "runs": 15,
+                    "balls": 8,
+                    "fours": 3,
+                    "sixes": 0,
+                    "strike_rate": 187.5
+                },
+                {
+                    "batsman": "Angkrish Raghuvanshi",
+                    "dismissal": "c Nitish Kumar Reddy b Malinga",
+                    "runs": 14,
+                    "balls": 18,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 77.77
+                },
+                {
+                    "batsman": "Rinku Singh",
+                    "dismissal": "c Nitish Kumar Reddy b Dubey",
+                    "runs": 9,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Andre Russell",
+                    "dismissal": "lbw b Dubey",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Manish Pandey",
+                    "dismissal": "c Manohar b Unadkat",
+                    "runs": 37,
+                    "balls": 23,
+                    "fours": 2,
+                    "sixes": 3,
+                    "strike_rate": 160.86
+                },
+                {
+                    "batsman": "Ramandeep Singh",
+                    "dismissal": "b Dubey",
+                    "runs": 13,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 260.0
+                },
+                {
+                    "batsman": "Harshit Rana",
+                    "dismissal": "c & b Malinga",
+                    "runs": 34,
+                    "balls": 21,
+                    "fours": 2,
+                    "sixes": 3,
+                    "strike_rate": 161.9
+                },
+                {
+                    "batsman": "Vaibhav Arora",
+                    "dismissal": "run out (Unadkat)",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Anrich Nortje",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 6,
+                "detail": "(b 1, lb 1, w 4)"
+            },
+            "total": {
+                "runs": "168",
+                "detail": "18.4 Ov (RR: 9.00)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "PJ Cummins",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 25,
+                    "wickets": 0,
+                    "economy": 12.5
+                },
+                {
+                    "bowler": "JD Unadkat",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 24,
+                    "wickets": 3,
+                    "economy": 6.0
+                },
+                {
+                    "bowler": "HV Patel",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 21,
+                    "wickets": 0,
+                    "economy": 10.5
+                },
+                {
+                    "bowler": "E Malinga",
+                    "overs": 3.4,
+                    "maidens": 0,
+                    "runs": 31,
+                    "wickets": 3,
+                    "economy": 8.45
+                },
+                {
+                    "bowler": "HS Dubey",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 34,
+                    "wickets": 3,
+                    "economy": 8.5
+                },
+                {
+                    "bowler": "K Nitish Kumar Reddy",
+                    "overs": 1.0,
+                    "maidens": 0,
+                    "runs": 6,
+                    "wickets": 0,
+                    "economy": 6.0
+                },
+                {
+                    "bowler": "Abhishek Sharma",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 25,
+                    "wickets": 0,
+                    "economy": 12.5
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Sunrisers Hyderabad, elected to bat first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Heinrich Klaasen",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.15, Second Session 21.15-22.45",
+        "match_days": "25 May 2025 - night (20-over match)",
+        "kkr_player_replacement": "Impact player:  Angkrish Raghuvanshi in,  Varun Chakravarthy  out (2nd innings, 5.3 ov)",
+        "srh_player_replacement": "Impact player:  Harsh Dubey in,  Travis Head  out (2nd innings, 6.5 ov)",
+        "umpires": "Adrian Holdstock DRS Keyur Kelkar DRS",
+        "tv_umpire": "Rohan Pandit",
+        "reserve_umpire": "Amit Rana",
+        "match_referee": "Arjan Kripal Singh",
+        "points": "Sunrisers Hyderabad 2, Kolkata Knight Riders 0",
+        "extras": "(b 1, lb 1, w 4)",
+        "total": "168(10 wkts; 18.4 ovs)"
+    }
+}

@@ -1,0 +1,305 @@
+{
+    "teams": {
+        "Mumbai Indians": {
+            "batting": [
+                {
+                    "batsman": "Rohit Sharma",
+                    "dismissal": "c Vyshak b Stoinis",
+                    "runs": 8,
+                    "balls": 7,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 114.28
+                },
+                {
+                    "batsman": "Jonny Bairstow †",
+                    "dismissal": "c †Inglis b Vyshak",
+                    "runs": 38,
+                    "balls": 24,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 158.33
+                },
+                {
+                    "batsman": "Tilak Varma",
+                    "dismissal": "c Arya b Jamieson",
+                    "runs": 44,
+                    "balls": 29,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 151.72
+                },
+                {
+                    "batsman": "Suryakumar Yadav",
+                    "dismissal": "c Wadhera b Chahal",
+                    "runs": 44,
+                    "balls": 26,
+                    "fours": 4,
+                    "sixes": 3,
+                    "strike_rate": 169.23
+                },
+                {
+                    "batsman": "Hardik Pandya (c)",
+                    "dismissal": "c †Inglis b Azmatullah Omarzai",
+                    "runs": 15,
+                    "balls": 13,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 115.38
+                },
+                {
+                    "batsman": "Naman Dhir",
+                    "dismissal": "c Stoinis b Azmatullah Omarzai",
+                    "runs": 37,
+                    "balls": 18,
+                    "fours": 7,
+                    "sixes": 0,
+                    "strike_rate": 205.55
+                },
+                {
+                    "batsman": "Raj Bawa",
+                    "dismissal": "not out",
+                    "runs": 8,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Mitchell Santner",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 9,
+                "detail": "(lb 3, nb 2, w 4)"
+            },
+            "total": {
+                "runs": "203/6",
+                "detail": "20 Ov (RR: 10.15)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-19",
+                    "player": "Rohit Sharma",
+                    "over": "2.2"
+                },
+                {
+                    "score": "2-70",
+                    "player": "Jonny Bairstow",
+                    "over": "6.6"
+                },
+                {
+                    "score": "3-142",
+                    "player": "Suryakumar Yadav",
+                    "over": "13.5"
+                },
+                {
+                    "score": "4-142",
+                    "player": "Tilak Varma",
+                    "over": "14.1"
+                },
+                {
+                    "score": "5-180",
+                    "player": "Hardik Pandya",
+                    "over": "17.6"
+                },
+                {
+                    "score": "6-197",
+                    "player": "Naman Dhir",
+                    "over": "19.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Arshdeep Singh",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "44",
+                    "wickets": "0",
+                    "economy": "11.00"
+                },
+                {
+                    "bowler": "Kyle Jamieson",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "30",
+                    "wickets": "1",
+                    "economy": "7.50"
+                },
+                {
+                    "bowler": "Marcus Stoinis",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "14",
+                    "wickets": "1",
+                    "economy": "14.00"
+                },
+                {
+                    "bowler": "Azmatullah Omarzai",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "43",
+                    "wickets": "2",
+                    "economy": "10.75"
+                },
+                {
+                    "bowler": "Vijaykumar Vyshak",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "30",
+                    "wickets": "1",
+                    "economy": "10.00"
+                },
+                {
+                    "bowler": "Yuzvendra Chahal",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "1",
+                    "economy": "9.75"
+                }
+            ]
+        },
+        "Punjab Kings": {
+            "batting": [
+                {
+                    "batsman": "Priyansh Arya",
+                    "dismissal": "c Pandya b Ashwani Kumar",
+                    "runs": 20,
+                    "balls": 10,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Prabhsimran Singh",
+                    "dismissal": "c Topley b Boult",
+                    "runs": 6,
+                    "balls": 9,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Josh Inglis †",
+                    "dismissal": "c †Bairstow b Pandya",
+                    "runs": 38,
+                    "balls": 21,
+                    "fours": 5,
+                    "sixes": 2,
+                    "strike_rate": 180.95
+                },
+                {
+                    "batsman": "Shreyas Iyer (c)",
+                    "dismissal": "not out",
+                    "runs": 87,
+                    "balls": 41,
+                    "fours": 5,
+                    "sixes": 8,
+                    "strike_rate": 212.19
+                },
+                {
+                    "batsman": "Nehal Wadhera",
+                    "dismissal": "c Santner b Ashwani Kumar",
+                    "runs": 48,
+                    "balls": 29,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 165.51
+                },
+                {
+                    "batsman": "Shashank Singh",
+                    "dismissal": "run out (Pandya)",
+                    "runs": 2,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Marcus Stoinis",
+                    "dismissal": "not out",
+                    "runs": 2,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 4,
+                "detail": "(nb 1, w 3)"
+            },
+            "total": {
+                "runs": "207/5",
+                "detail": "19 Ov (RR: 10.89)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "TA Boult",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 38,
+                    "wickets": 1,
+                    "economy": "9.5"
+                },
+                {
+                    "bowler": "RJW Topley",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 40,
+                    "wickets": 0,
+                    "economy": "13.33"
+                },
+                {
+                    "bowler": "JJ Bumrah",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 40,
+                    "wickets": 0,
+                    "economy": "10"
+                },
+                {
+                    "bowler": "MJ Santner",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 15,
+                    "wickets": 0,
+                    "economy": "7.5"
+                },
+                {
+                    "bowler": "HH Pandya",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 19,
+                    "wickets": 1,
+                    "economy": "9.5"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Punjab Kings, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Shreyas Iyer",
+        "series_result": "Punjab Kings advanced",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.15, Second Session 21.15-22.45",
+        "match_days": "1 June 2025 - night (20-over match)",
+        "mi_player_replacement": "Impact player:  Ashwani Kumar in,  Rohit Sharma  out (1st innings, 19.6 ov)",
+        "pbks_player_replacement": "Impact player:  Prabhsimran Singh in,  Yuzvendra Chahal  out (1st innings, 16.6 ov)",
+        "umpires": "Chris Gaffaney DRS Nitin Menon DRS",
+        "tv_umpire": "KN Ananthapadmanabhan",
+        "reserve_umpire": "Jayaraman Madanagopal",
+        "match_referee": "Javagal Srinath",
+        "extras": "(nb 1, w 3)",
+        "total": "207(5 wkts; 19 ovs)"
+    }
+}

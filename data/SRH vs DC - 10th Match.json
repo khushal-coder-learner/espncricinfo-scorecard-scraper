@@ -1,0 +1,341 @@
+{
+    "teams": {
+        "Sunrisers Hyderabad": {
+            "batting": [
+                {
+                    "batsman": "Abhishek Sharma",
+                    "dismissal": "run out (Nigam)",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Travis Head",
+                    "dismissal": "c †Rahul b Starc",
+                    "runs": 22,
+                    "balls": 12,
+                    "fours": 4,
+                    "sixes": 0,
+                    "strike_rate": 183.33
+                },
+                {
+                    "batsman": "Ishan Kishan",
+                    "dismissal": "c Stubbs b Starc",
+                    "runs": 2,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 40.0
+                },
+                {
+                    "batsman": "Nitish Kumar Reddy",
+                    "dismissal": "c Patel b Starc",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Aniket Verma",
+                    "dismissal": "c Fraser-McGurk b Kuldeep Yadav",
+                    "runs": 74,
+                    "balls": 41,
+                    "fours": 5,
+                    "sixes": 6,
+                    "strike_rate": 180.48
+                },
+                {
+                    "batsman": "Heinrich Klaasen †",
+                    "dismissal": "c Nigam b Sharma",
+                    "runs": 32,
+                    "balls": 19,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 168.42
+                },
+                {
+                    "batsman": "Abhinav Manohar",
+                    "dismissal": "c du Plessis b Kuldeep Yadav",
+                    "runs": 4,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Pat Cummins (c)",
+                    "dismissal": "c Fraser-McGurk b Kuldeep Yadav",
+                    "runs": 2,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 28.57
+                },
+                {
+                    "batsman": "Wiaan Mulder",
+                    "dismissal": "c du Plessis b Starc",
+                    "runs": 9,
+                    "balls": 11,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 81.81
+                },
+                {
+                    "batsman": "Harshal Patel",
+                    "dismissal": "c Patel b Starc",
+                    "runs": 5,
+                    "balls": 9,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 55.55
+                },
+                {
+                    "batsman": "Mohammed Shami",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 11,
+                "detail": "(nb 2, w 9)"
+            },
+            "total": {
+                "runs": "163",
+                "detail": "18.4 Ov (RR: 8.73)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-11",
+                    "player": "Abhishek Sharma",
+                    "over": "0.5"
+                },
+                {
+                    "score": "2-20",
+                    "player": "Ishan Kishan",
+                    "over": "2.1"
+                },
+                {
+                    "score": "3-25",
+                    "player": "Nitish Kumar Reddy",
+                    "over": "2.3"
+                },
+                {
+                    "score": "4-37",
+                    "player": "Travis Head",
+                    "over": "4.1"
+                },
+                {
+                    "score": "5-114",
+                    "player": "Heinrich Klaasen",
+                    "over": "10.5"
+                },
+                {
+                    "score": "6-119",
+                    "player": "Abhinav Manohar",
+                    "over": "11.6"
+                },
+                {
+                    "score": "7-123",
+                    "player": "Pat Cummins",
+                    "over": "13.6"
+                },
+                {
+                    "score": "8-148",
+                    "player": "Aniket Verma",
+                    "over": "15.5"
+                },
+                {
+                    "score": "9-162",
+                    "player": "Harshal Patel",
+                    "over": "18.2"
+                },
+                {
+                    "score": "10-163",
+                    "player": "Wiaan Mulder",
+                    "over": "18.4"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mitchell Starc",
+                    "overs": "3.4",
+                    "maidens": "0",
+                    "runs": "35",
+                    "wickets": "5",
+                    "economy": "9.54"
+                },
+                {
+                    "bowler": "Mukesh Kumar",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "17",
+                    "wickets": "0",
+                    "economy": "8.50"
+                },
+                {
+                    "bowler": "Axar Patel",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "43",
+                    "wickets": "0",
+                    "economy": "10.75"
+                },
+                {
+                    "bowler": "Vipraj Nigam",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "21",
+                    "wickets": "0",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Mohit Sharma",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "25",
+                    "wickets": "1",
+                    "economy": "8.33"
+                },
+                {
+                    "bowler": "Kuldeep Yadav",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "22",
+                    "wickets": "3",
+                    "economy": "5.50"
+                }
+            ]
+        },
+        "Delhi Capitals": {
+            "batting": [
+                {
+                    "batsman": "Jake Fraser-McGurk",
+                    "dismissal": "c & b Zeeshan Ansari",
+                    "runs": 38,
+                    "balls": 32,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 118.75
+                },
+                {
+                    "batsman": "Faf du Plessis",
+                    "dismissal": "c Mulder b Zeeshan Ansari",
+                    "runs": 50,
+                    "balls": 27,
+                    "fours": 3,
+                    "sixes": 3,
+                    "strike_rate": 185.18
+                },
+                {
+                    "batsman": "Abishek Porel",
+                    "dismissal": "not out",
+                    "runs": 34,
+                    "balls": 18,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 188.88
+                },
+                {
+                    "batsman": "KL Rahul †",
+                    "dismissal": "b Zeeshan Ansari",
+                    "runs": 15,
+                    "balls": 5,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 300.0
+                },
+                {
+                    "batsman": "Tristan Stubbs",
+                    "dismissal": "not out",
+                    "runs": 21,
+                    "balls": 14,
+                    "fours": 3,
+                    "sixes": 0,
+                    "strike_rate": 150.0
+                }
+            ],
+            "extras": {
+                "total": 8,
+                "detail": "(b 2, lb 4, w 2)"
+            },
+            "total": {
+                "runs": "166/3",
+                "detail": "16 Ov (RR: 10.37)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Shami",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 31,
+                    "wickets": 0,
+                    "economy": 10.33
+                },
+                {
+                    "bowler": "Abhishek Sharma",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 27,
+                    "wickets": 0,
+                    "economy": 9.0
+                },
+                {
+                    "bowler": "PJ Cummins",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 27,
+                    "wickets": 0,
+                    "economy": 13.5
+                },
+                {
+                    "bowler": "HV Patel",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 17,
+                    "wickets": 0,
+                    "economy": 5.66
+                },
+                {
+                    "bowler": "Zeeshan Ansari",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 42,
+                    "wickets": 3,
+                    "economy": 10.5
+                },
+                {
+                    "bowler": "PWA Mulder",
+                    "overs": 1,
+                    "maidens": 0,
+                    "runs": 16,
+                    "wickets": 0,
+                    "economy": 16.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Sunrisers Hyderabad, elected to bat first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Mitchell Starc",
+        "hours_of_play_local_time": "15.30 start, First Session 15.30-17.00, Interval 17.00-17.20, Second Session 17.20-18.50",
+        "match_days": "30 March 2025 - daynight (20-over match)",
+        "srh_player_replacement": "Impact player:  Wiaan Mulder in,  Travis Head  out (1st innings, 13.6 ov)",
+        "umpires": "Abhijit Bhattacharya DRS Ulhas Gandhe DRS",
+        "tv_umpire": "Virender Sharma",
+        "reserve_umpire": "Ajitesh Argal",
+        "match_referee": "Narayanan Kutty",
+        "points": "Delhi Capitals 2, Sunrisers Hyderabad 0",
+        "extras": "(b 2, lb 4, w 2)",
+        "total": "166(3 wkts; 16 ovs)"
+    }
+}

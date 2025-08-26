@@ -1,0 +1,342 @@
+{
+    "teams": {
+        "Chennai Super Kings": {
+            "batting": [
+                {
+                    "batsman": "Ayush Mhatre",
+                    "dismissal": "c Mohammed Siraj b Prasidh Krishna",
+                    "runs": 34,
+                    "balls": 17,
+                    "fours": 3,
+                    "sixes": 3,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Devon Conway",
+                    "dismissal": "b Rashid Khan",
+                    "runs": 52,
+                    "balls": 35,
+                    "fours": 6,
+                    "sixes": 2,
+                    "strike_rate": 148.57
+                },
+                {
+                    "batsman": "Urvil Patel",
+                    "dismissal": "c Shubman Gill b Sai Kishore",
+                    "runs": 37,
+                    "balls": 19,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 194.73
+                },
+                {
+                    "batsman": "Shivam Dube",
+                    "dismissal": "c Coetzee b Shahrukh Khan",
+                    "runs": 17,
+                    "balls": 8,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 212.5
+                },
+                {
+                    "batsman": "Dewald Brevis",
+                    "dismissal": "c †Buttler b Prasidh Krishna",
+                    "runs": 57,
+                    "balls": 23,
+                    "fours": 4,
+                    "sixes": 5,
+                    "strike_rate": 247.82
+                },
+                {
+                    "batsman": "Ravindra Jadeja",
+                    "dismissal": "not out",
+                    "runs": 21,
+                    "balls": 18,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 116.66
+                }
+            ],
+            "extras": {
+                "total": 12,
+                "detail": "(lb 7, w 5)"
+            },
+            "total": {
+                "runs": "230/5",
+                "detail": "20 Ov (RR: 11.50)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-44",
+                    "player": "Ayush Mhatre",
+                    "over": "3.4"
+                },
+                {
+                    "score": "2-107",
+                    "player": "Urvil Patel",
+                    "over": "9.2"
+                },
+                {
+                    "score": "3-144",
+                    "player": "Shivam Dube",
+                    "over": "12.3"
+                },
+                {
+                    "score": "4-156",
+                    "player": "Devon Conway",
+                    "over": "13.3"
+                },
+                {
+                    "score": "5-230",
+                    "player": "Dewald Brevis",
+                    "over": "19.6"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Siraj",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "47",
+                    "wickets": "0",
+                    "economy": "11.75"
+                },
+                {
+                    "bowler": "Arshad Khan",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "0",
+                    "economy": "21.00"
+                },
+                {
+                    "bowler": "Prasidh Krishna",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "22",
+                    "wickets": "2",
+                    "economy": "5.50"
+                },
+                {
+                    "bowler": "Gerald Coetzee",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "34",
+                    "wickets": "0",
+                    "economy": "11.33"
+                },
+                {
+                    "bowler": "Sai Kishore",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "23",
+                    "wickets": "1",
+                    "economy": "11.50"
+                },
+                {
+                    "bowler": "Rashid Khan",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "1",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "M Shahrukh Khan",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "13",
+                    "wickets": "1",
+                    "economy": "13.00"
+                }
+            ]
+        },
+        "Gujarat Titans": {
+            "batting": [
+                {
+                    "batsman": "Sai Sudharsan",
+                    "dismissal": "c Dube b Jadeja",
+                    "runs": 41,
+                    "balls": 28,
+                    "fours": 6,
+                    "sixes": 0,
+                    "strike_rate": 146.42
+                },
+                {
+                    "batsman": "Shubman Gill (c)",
+                    "dismissal": "c Patel b Kamboj",
+                    "runs": 13,
+                    "balls": 9,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 144.44
+                },
+                {
+                    "batsman": "Jos Buttler †",
+                    "dismissal": "c Kamboj b Ahmed",
+                    "runs": 5,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 71.42
+                },
+                {
+                    "batsman": "Sherfane Rutherford",
+                    "dismissal": "c Mhatre b Kamboj",
+                    "runs": 0,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "M Shahrukh Khan",
+                    "dismissal": "c Pathirana b Jadeja",
+                    "runs": 19,
+                    "balls": 15,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 126.66
+                },
+                {
+                    "batsman": "Rahul Tewatia",
+                    "dismissal": "c Dube b Noor Ahmad",
+                    "runs": 14,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 140.0
+                },
+                {
+                    "batsman": "Rashid Khan",
+                    "dismissal": "c Patel b Noor Ahmad",
+                    "runs": 12,
+                    "balls": 8,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Gerald Coetzee",
+                    "dismissal": "b Pathirana",
+                    "runs": 5,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Arshad Khan",
+                    "dismissal": "b Noor Ahmad",
+                    "runs": 20,
+                    "balls": 14,
+                    "fours": 0,
+                    "sixes": 3,
+                    "strike_rate": 142.85
+                },
+                {
+                    "batsman": "Sai Kishore",
+                    "dismissal": "c †Dhoni b Kamboj",
+                    "runs": 3,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 42.85
+                },
+                {
+                    "batsman": "Mohammed Siraj",
+                    "dismissal": "not out",
+                    "runs": 3,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 75.0
+                }
+            ],
+            "extras": {
+                "total": 12,
+                "detail": "(lb 2, w 10)"
+            },
+            "total": {
+                "runs": "147",
+                "detail": "18.3 Ov (RR: 7.94)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "RA Jadeja",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 17,
+                    "wickets": 2,
+                    "economy": 5.66
+                },
+                {
+                    "bowler": "KK Ahmed",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 17,
+                    "wickets": 1,
+                    "economy": 5.66
+                },
+                {
+                    "bowler": "A Kamboj",
+                    "overs": 2.3,
+                    "maidens": 0,
+                    "runs": 13,
+                    "wickets": 3,
+                    "economy": 5.2
+                },
+                {
+                    "bowler": "S Dube",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 33,
+                    "wickets": 0,
+                    "economy": 16.5
+                },
+                {
+                    "bowler": "Noor Ahmad",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 21,
+                    "wickets": 3,
+                    "economy": 5.25
+                },
+                {
+                    "bowler": "M Pathirana",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 29,
+                    "wickets": 1,
+                    "economy": 9.66
+                },
+                {
+                    "bowler": "DJ Hooda",
+                    "overs": 1.0,
+                    "maidens": 0,
+                    "runs": 15,
+                    "wickets": 0,
+                    "economy": 15.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Chennai Super Kings, elected to bat first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Dewald Brevis",
+        "hours_of_play_local_time": "15.30 start, First Session 15.30-17.00, Interval 17.00-17.15, Second Session 17.15-18.45",
+        "match_days": "25 May 2025 - daynight (20-over match)",
+        "csk_player_replacement": "Impact player:  Matheesha Pathirana in,  Devon Conway  out (1st innings, 19.6 ov)",
+        "gt_player_replacement": "Impact player:  Sai Sudharsan in,  Prasidh Krishna  out (1st innings, 19.6 ov)",
+        "umpires": "Kaushik Gandhi KN Ananthapadmanabhan",
+        "tv_umpire": "Nitin Menon",
+        "reserve_umpire": "Mohit Krishnadas",
+        "match_referee": "Amit Sharma",
+        "points": "Chennai Super Kings 2, Gujarat Titans 0",
+        "extras": "(lb 2, w 10)",
+        "total": "147(10 wkts; 18.3 ovs)"
+    }
+}

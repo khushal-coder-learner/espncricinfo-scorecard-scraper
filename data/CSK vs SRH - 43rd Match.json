@@ -1,0 +1,352 @@
+{
+    "teams": {
+        "Chennai Super Kings": {
+            "batting": [
+                {
+                    "batsman": "Shaik Rasheed",
+                    "dismissal": "c Abhishek Sharma b Mohammed Shami",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Ayush Mhatre",
+                    "dismissal": "c Ishan Kishan b Cummins",
+                    "runs": 30,
+                    "balls": 19,
+                    "fours": 6,
+                    "sixes": 0,
+                    "strike_rate": 157.89
+                },
+                {
+                    "batsman": "Sam Curran",
+                    "dismissal": "c Verma b Patel",
+                    "runs": 9,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 90.0
+                },
+                {
+                    "batsman": "Ravindra Jadeja",
+                    "dismissal": "b Mendis",
+                    "runs": 21,
+                    "balls": 17,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 123.52
+                },
+                {
+                    "batsman": "Dewald Brevis",
+                    "dismissal": "c Mendis b Patel",
+                    "runs": 42,
+                    "balls": 25,
+                    "fours": 1,
+                    "sixes": 4,
+                    "strike_rate": 168.0
+                },
+                {
+                    "batsman": "Shivam Dube",
+                    "dismissal": "c Abhishek Sharma b Unadkat",
+                    "runs": 12,
+                    "balls": 9,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 133.33
+                },
+                {
+                    "batsman": "Deepak Hooda",
+                    "dismissal": "c Abhishek Sharma b Unadkat",
+                    "runs": 22,
+                    "balls": 21,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 104.76
+                },
+                {
+                    "batsman": "MS Dhoni (c)†",
+                    "dismissal": "c Abhishek Sharma b Patel",
+                    "runs": 6,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 60.0
+                },
+                {
+                    "batsman": "Anshul Kamboj",
+                    "dismissal": "c †Klaasen b Cummins",
+                    "runs": 2,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Noor Ahmad",
+                    "dismissal": "c Mohammed Shami b Patel",
+                    "runs": 2,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Khaleel Ahmed",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                }
+            ],
+            "extras": {
+                "total": 7,
+                "detail": "(lb 3, nb 2, w 2)"
+            },
+            "total": {
+                "runs": "154",
+                "detail": "19.5 Ov (RR: 7.76)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-0",
+                    "player": "Shaik Rasheed",
+                    "over": "0.1"
+                },
+                {
+                    "score": "2-39",
+                    "player": "Sam Curran",
+                    "over": "4.3"
+                },
+                {
+                    "score": "3-47",
+                    "player": "Ayush Mhatre",
+                    "over": "5.3"
+                },
+                {
+                    "score": "4-74",
+                    "player": "Ravindra Jadeja",
+                    "over": "9.3"
+                },
+                {
+                    "score": "5-114",
+                    "player": "Dewald Brevis",
+                    "over": "12.5"
+                },
+                {
+                    "score": "6-118",
+                    "player": "Shivam Dube",
+                    "over": "13.5"
+                },
+                {
+                    "score": "7-131",
+                    "player": "MS Dhoni",
+                    "over": "16.3"
+                },
+                {
+                    "score": "8-134",
+                    "player": "Anshul Kamboj",
+                    "over": "17.3"
+                },
+                {
+                    "score": "9-137",
+                    "player": "Noor Ahmad",
+                    "over": "18.1"
+                },
+                {
+                    "score": "10-154",
+                    "player": "Deepak Hooda",
+                    "over": "19.5"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Shami",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "28",
+                    "wickets": "1",
+                    "economy": "9.33"
+                },
+                {
+                    "bowler": "Pat Cummins",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "21",
+                    "wickets": "2",
+                    "economy": "5.25"
+                },
+                {
+                    "bowler": "Jaydev Unadkat",
+                    "overs": "2.5",
+                    "maidens": "0",
+                    "runs": "21",
+                    "wickets": "2",
+                    "economy": "7.41"
+                },
+                {
+                    "bowler": "Harshal Patel",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "28",
+                    "wickets": "4",
+                    "economy": "7.00"
+                },
+                {
+                    "bowler": "Zeeshan Ansari",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "27",
+                    "wickets": "0",
+                    "economy": "9.00"
+                },
+                {
+                    "bowler": "Kamindu Mendis",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "26",
+                    "wickets": "1",
+                    "economy": "8.66"
+                }
+            ]
+        },
+        "Sunrisers Hyderabad": {
+            "batting": [
+                {
+                    "batsman": "Abhishek Sharma",
+                    "dismissal": "c Mhatre b Ahmed",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Travis Head",
+                    "dismissal": "b Kamboj",
+                    "runs": 19,
+                    "balls": 16,
+                    "fours": 4,
+                    "sixes": 0,
+                    "strike_rate": 118.75
+                },
+                {
+                    "batsman": "Ishan Kishan",
+                    "dismissal": "c Curran b Noor Ahmad",
+                    "runs": 44,
+                    "balls": 34,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 129.41
+                },
+                {
+                    "batsman": "Heinrich Klaasen †",
+                    "dismissal": "c Hooda b Jadeja",
+                    "runs": 7,
+                    "balls": 8,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 87.5
+                },
+                {
+                    "batsman": "Aniket Verma",
+                    "dismissal": "c Hooda b Noor Ahmad",
+                    "runs": 19,
+                    "balls": 19,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Kamindu Mendis",
+                    "dismissal": "not out",
+                    "runs": 32,
+                    "balls": 22,
+                    "fours": 3,
+                    "sixes": 0,
+                    "strike_rate": 145.45
+                },
+                {
+                    "batsman": "Nitish Kumar Reddy",
+                    "dismissal": "not out",
+                    "runs": 19,
+                    "balls": 13,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 146.15
+                }
+            ],
+            "extras": {
+                "total": 15,
+                "detail": "(lb 2, nb 2, w 11)"
+            },
+            "total": {
+                "runs": "155/5",
+                "detail": "18.4 Ov (RR: 8.30)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "KK Ahmed",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 21,
+                    "wickets": 1,
+                    "economy": "7"
+                },
+                {
+                    "bowler": "A Kamboj",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 16,
+                    "wickets": 1,
+                    "economy": "5.33"
+                },
+                {
+                    "bowler": "RA Jadeja",
+                    "overs": 3.4,
+                    "maidens": 0,
+                    "runs": 22,
+                    "wickets": 1,
+                    "economy": "6"
+                },
+                {
+                    "bowler": "SM Curran",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 25,
+                    "wickets": 0,
+                    "economy": "12.5"
+                },
+                {
+                    "bowler": "M Pathirana",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 27,
+                    "wickets": 0,
+                    "economy": "9"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Sunrisers Hyderabad, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Harshal Patel",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "25 April 2025 - night (20-over match)",
+        "csk_player_replacement": "Impact player:  Anshul Kamboj in,  Shivam Dube  out (1st innings, 16.3 ov)",
+        "srh_player_replacement": "Impact player:  Travis Head in,  Zeeshan Ansari  out (1st innings, 19.5 ov)",
+        "umpires": "Mohit Krishnadas DRS Nitin Menon DRS",
+        "tv_umpire": "KN Ananthapadmanabhan",
+        "reserve_umpire": "Kaushik Gandhi",
+        "match_referee": "Javagal Srinath",
+        "points": "Sunrisers Hyderabad 2, Chennai Super Kings 0",
+        "extras": "(lb 2, nb 2, w 11)",
+        "total": "155(5 wkts; 18.4 ovs)"
+    }
+}

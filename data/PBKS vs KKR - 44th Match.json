@@ -1,0 +1,208 @@
+{
+    "teams": {
+        "Punjab Kings": {
+            "batting": [
+                {
+                    "batsman": "Priyansh Arya",
+                    "dismissal": "c Arora b Russell",
+                    "runs": 69,
+                    "balls": 35,
+                    "fours": 8,
+                    "sixes": 4,
+                    "strike_rate": 197.14
+                },
+                {
+                    "batsman": "Prabhsimran Singh",
+                    "dismissal": "c Powell b Arora",
+                    "runs": 83,
+                    "balls": 49,
+                    "fours": 6,
+                    "sixes": 6,
+                    "strike_rate": 169.38
+                },
+                {
+                    "batsman": "Shreyas Iyer (c)",
+                    "dismissal": "not out",
+                    "runs": 25,
+                    "balls": 16,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 156.25
+                },
+                {
+                    "batsman": "Glenn Maxwell",
+                    "dismissal": "b Varun",
+                    "runs": 7,
+                    "balls": 8,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 87.5
+                },
+                {
+                    "batsman": "Marco Jansen",
+                    "dismissal": "c Iyer b Arora",
+                    "runs": 3,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 42.85
+                },
+                {
+                    "batsman": "Josh Inglis †",
+                    "dismissal": "not out",
+                    "runs": 11,
+                    "balls": 6,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 183.33
+                }
+            ],
+            "extras": {
+                "total": 3,
+                "detail": "(nb 1, w 2)"
+            },
+            "total": {
+                "runs": "201/4",
+                "detail": "20 Ov (RR: 10.05)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-120",
+                    "player": "Priyansh Arya",
+                    "over": "11.5"
+                },
+                {
+                    "score": "2-160",
+                    "player": "Prabhsimran Singh",
+                    "over": "14.3"
+                },
+                {
+                    "score": "3-172",
+                    "player": "Glenn Maxwell",
+                    "over": "16.4"
+                },
+                {
+                    "score": "4-184",
+                    "player": "Marco Jansen",
+                    "over": "18.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Vaibhav Arora",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "34",
+                    "wickets": "2",
+                    "economy": "8.50"
+                },
+                {
+                    "bowler": "Chetan Sakariya",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "0",
+                    "economy": "13.00"
+                },
+                {
+                    "bowler": "Harshit Rana",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "27",
+                    "wickets": "0",
+                    "economy": "13.50"
+                },
+                {
+                    "bowler": "Varun Chakravarthy",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "1",
+                    "economy": "9.75"
+                },
+                {
+                    "bowler": "Sunil Narine",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "35",
+                    "wickets": "0",
+                    "economy": "8.75"
+                },
+                {
+                    "bowler": "Andre Russell",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "27",
+                    "wickets": "1",
+                    "economy": "9.00"
+                }
+            ]
+        },
+        "Kolkata Knight Riders": {
+            "batting": [
+                {
+                    "batsman": "Rahmanullah Gurbaz †",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Sunil Narine",
+                    "dismissal": "not out",
+                    "runs": 4,
+                    "balls": 3,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 133.33
+                },
+                {
+                    "batsman": "DRS",
+                    "dismissal": "DRS",
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 2,
+                "detail": "(lb 1, w 1)"
+            },
+            "total": {
+                "runs": "7/0",
+                "detail": "1 Ov (RR: 7.00)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "M Jansen",
+                    "overs": 1,
+                    "maidens": 0,
+                    "runs": 6,
+                    "wickets": 0,
+                    "economy": 6
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Punjab Kings, elected to bat first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "26 April 2025 - night (20-over match)",
+        "kkr_player_replacement": "Impact player:  Angkrish Raghuvanshi in,  Chetan Sakariya  out (1st innings, 18.6 ov)",
+        "pbks_player_replacement": "Impact player:  Harpreet Brar in,  Prabhsimran Singh  out (1st innings, 19.6 ov)",
+        "umpires": "Adrian Holdstock DRS Anish Sahasrabudhe DRS",
+        "tv_umpire": "Akshay Totre",
+        "reserve_umpire": "Amit Rana",
+        "match_referee": "Rajiv Seth",
+        "points": "Punjab Kings 1, Kolkata Knight Riders 1",
+        "extras": "(lb 1, w 1)",
+        "total": "7(0 wkts; 1 ovs)"
+    }
+}

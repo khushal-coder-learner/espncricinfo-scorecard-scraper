@@ -1,0 +1,369 @@
+{
+    "teams": {
+        "Chennai Super Kings": {
+            "batting": [
+                {
+                    "batsman": "Shaik Rasheed",
+                    "dismissal": "c Shashank Singh b Arshdeep Singh",
+                    "runs": 11,
+                    "balls": 12,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 91.66
+                },
+                {
+                    "batsman": "Ayush Mhatre",
+                    "dismissal": "c Iyer b Jansen",
+                    "runs": 7,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 116.66
+                },
+                {
+                    "batsman": "Sam Curran",
+                    "dismissal": "c †Inglis b Jansen",
+                    "runs": 88,
+                    "balls": 47,
+                    "fours": 9,
+                    "sixes": 4,
+                    "strike_rate": 187.23
+                },
+                {
+                    "batsman": "Ravindra Jadeja",
+                    "dismissal": "c †Inglis b Harpreet Brar",
+                    "runs": 17,
+                    "balls": 12,
+                    "fours": 4,
+                    "sixes": 0,
+                    "strike_rate": 141.66
+                },
+                {
+                    "batsman": "Dewald Brevis",
+                    "dismissal": "b Azmatullah Omarzai",
+                    "runs": 32,
+                    "balls": 26,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 123.07
+                },
+                {
+                    "batsman": "Shivam Dube",
+                    "dismissal": "c Shashank Singh b Arshdeep Singh",
+                    "runs": 6,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "MS Dhoni (c)†",
+                    "dismissal": "c Wadhera b Chahal",
+                    "runs": 11,
+                    "balls": 4,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 275.0
+                },
+                {
+                    "batsman": "Deepak Hooda",
+                    "dismissal": "c Arya b Chahal",
+                    "runs": 2,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Anshul Kamboj",
+                    "dismissal": "b Chahal",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Noor Ahmad",
+                    "dismissal": "c Jansen b Chahal",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Khaleel Ahmed",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 16,
+                "detail": "(lb 3, nb 1, w 12)"
+            },
+            "total": {
+                "runs": "190",
+                "detail": "19.2 Ov (RR: 9.82)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-21",
+                    "player": "Shaik Rasheed",
+                    "over": "2.5"
+                },
+                {
+                    "score": "2-22",
+                    "player": "Ayush Mhatre",
+                    "over": "3.1"
+                },
+                {
+                    "score": "3-48",
+                    "player": "Ravindra Jadeja",
+                    "over": "5.5"
+                },
+                {
+                    "score": "4-126",
+                    "player": "Dewald Brevis",
+                    "over": "14.1"
+                },
+                {
+                    "score": "5-172",
+                    "player": "Sam Curran",
+                    "over": "17.4"
+                },
+                {
+                    "score": "6-184",
+                    "player": "MS Dhoni",
+                    "over": "18.2"
+                },
+                {
+                    "score": "7-186",
+                    "player": "Deepak Hooda",
+                    "over": "18.4"
+                },
+                {
+                    "score": "8-186",
+                    "player": "Anshul Kamboj",
+                    "over": "18.5"
+                },
+                {
+                    "score": "9-186",
+                    "player": "Noor Ahmad",
+                    "over": "18.6"
+                },
+                {
+                    "score": "10-190",
+                    "player": "Shivam Dube",
+                    "over": "19.2"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Arshdeep Singh",
+                    "overs": "3.2",
+                    "maidens": "0",
+                    "runs": "25",
+                    "wickets": "2",
+                    "economy": "7.50"
+                },
+                {
+                    "bowler": "Marco Jansen",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "30",
+                    "wickets": "2",
+                    "economy": "7.50"
+                },
+                {
+                    "bowler": "Azmatullah Omarzai",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "1",
+                    "economy": "9.75"
+                },
+                {
+                    "bowler": "Harpreet Brar",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "21",
+                    "wickets": "1",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Yuzvendra Chahal",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "32",
+                    "wickets": "4",
+                    "economy": "10.66"
+                },
+                {
+                    "bowler": "Suryansh Shedge",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "40",
+                    "wickets": "0",
+                    "economy": "13.33"
+                }
+            ]
+        },
+        "Punjab Kings": {
+            "batting": [
+                {
+                    "batsman": "Priyansh Arya",
+                    "dismissal": "c †Dhoni b Ahmed",
+                    "runs": 23,
+                    "balls": 15,
+                    "fours": 5,
+                    "sixes": 0,
+                    "strike_rate": 153.33
+                },
+                {
+                    "batsman": "Prabhsimran Singh",
+                    "dismissal": "c Brevis b Noor Ahmad",
+                    "runs": 54,
+                    "balls": 36,
+                    "fours": 5,
+                    "sixes": 3,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Shreyas Iyer (c)",
+                    "dismissal": "b Pathirana",
+                    "runs": 72,
+                    "balls": 41,
+                    "fours": 5,
+                    "sixes": 4,
+                    "strike_rate": 175.6
+                },
+                {
+                    "batsman": "Nehal Wadhera",
+                    "dismissal": "c Jadeja b Pathirana",
+                    "runs": 5,
+                    "balls": 3,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 166.66
+                },
+                {
+                    "batsman": "Shashank Singh",
+                    "dismissal": "c Brevis b Jadeja",
+                    "runs": 23,
+                    "balls": 12,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strike_rate": 191.66
+                },
+                {
+                    "batsman": "Josh Inglis †",
+                    "dismissal": "not out",
+                    "runs": 6,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Suryansh Shedge",
+                    "dismissal": "c Noor Ahmad b Ahmed",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Marco Jansen",
+                    "dismissal": "not out",
+                    "runs": 4,
+                    "balls": 2,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 200.0
+                }
+            ],
+            "extras": {
+                "total": 6,
+                "detail": "(lb 3, w 3)"
+            },
+            "total": {
+                "runs": "194/6",
+                "detail": "19.4 Ov (RR: 9.86)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "KK Ahmed",
+                    "overs": 3.4,
+                    "maidens": 0,
+                    "runs": 28,
+                    "wickets": 2,
+                    "economy": 7.63
+                },
+                {
+                    "bowler": "A Kamboj",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 20,
+                    "wickets": 0,
+                    "economy": 10.0
+                },
+                {
+                    "bowler": "RA Jadeja",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 32,
+                    "wickets": 1,
+                    "economy": 10.66
+                },
+                {
+                    "bowler": "Noor Ahmad",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 39,
+                    "wickets": 1,
+                    "economy": 9.75
+                },
+                {
+                    "bowler": "SM Curran",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 27,
+                    "wickets": 0,
+                    "economy": 9.0
+                },
+                {
+                    "bowler": "M Pathirana",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 45,
+                    "wickets": 2,
+                    "economy": 11.25
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Punjab Kings, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Shreyas Iyer",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "30 April 2025 - night (20-over match)",
+        "csk_player_replacement": "Impact player:  Anshul Kamboj in,  Ayush Mhatre  out (1st innings, 18.4 ov)",
+        "pbks_player_replacement": "Impact player:  Prabhsimran Singh in,  Yuzvendra Chahal  out (1st innings, 19.2 ov)",
+        "umpires": "Akshay Totre DRS Anish Sahasrabudhe DRS",
+        "tv_umpire": "Rohan Pandit",
+        "reserve_umpire": "Amit Rana",
+        "match_referee": "Amit Sharma",
+        "points": "Punjab Kings 2, Chennai Super Kings 0",
+        "extras": "(lb 3, w 3)",
+        "total": "194(6 wkts; 19.4 ovs)"
+    }
+}

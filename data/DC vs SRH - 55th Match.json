@@ -1,0 +1,200 @@
+{
+    "teams": {
+        "Delhi Capitals": {
+            "batting": [
+                {
+                    "batsman": "Karun Nair",
+                    "dismissal": "c †Ishan Kishan b Cummins",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Faf du Plessis",
+                    "dismissal": "c †Ishan Kishan b Cummins",
+                    "runs": 3,
+                    "balls": 8,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 37.5
+                },
+                {
+                    "batsman": "Abishek Porel",
+                    "dismissal": "c †Ishan Kishan b Cummins",
+                    "runs": 8,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 80.0
+                },
+                {
+                    "batsman": "KL Rahul †",
+                    "dismissal": "c †Ishan Kishan b Unadkat",
+                    "runs": 10,
+                    "balls": 14,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 71.42
+                },
+                {
+                    "batsman": "Axar Patel (c)",
+                    "dismissal": "c Cummins b Patel",
+                    "runs": 6,
+                    "balls": 7,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 85.71
+                },
+                {
+                    "batsman": "Tristan Stubbs",
+                    "dismissal": "not out",
+                    "runs": 41,
+                    "balls": 36,
+                    "fours": 4,
+                    "sixes": 0,
+                    "strike_rate": 113.88
+                },
+                {
+                    "batsman": "Vipraj Nigam",
+                    "dismissal": "run out (Verma/Zeeshan Ansari)",
+                    "runs": 18,
+                    "balls": 17,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 105.88
+                },
+                {
+                    "batsman": "Ashutosh Sharma",
+                    "dismissal": "c Manohar b Malinga",
+                    "runs": 41,
+                    "balls": 26,
+                    "fours": 2,
+                    "sixes": 3,
+                    "strike_rate": 157.69
+                },
+                {
+                    "batsman": "Mitchell Starc",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 5,
+                "detail": "(lb 2, w 3)"
+            },
+            "total": {
+                "runs": "133/7",
+                "detail": "20 Ov (RR: 6.65)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-0",
+                    "player": "Karun Nair",
+                    "over": "0.1"
+                },
+                {
+                    "score": "2-6",
+                    "player": "Faf du Plessis",
+                    "over": "2.1"
+                },
+                {
+                    "score": "3-15",
+                    "player": "Abishek Porel",
+                    "over": "4.1"
+                },
+                {
+                    "score": "4-26",
+                    "player": "Axar Patel",
+                    "over": "5.5"
+                },
+                {
+                    "score": "5-29",
+                    "player": "KL Rahul",
+                    "over": "7.1"
+                },
+                {
+                    "score": "6-62",
+                    "player": "Vipraj Nigam",
+                    "over": "12.1"
+                },
+                {
+                    "score": "7-128",
+                    "player": "Ashutosh Sharma",
+                    "over": "19.4"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "PJ Cummins",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 19,
+                    "wickets": 3,
+                    "economy": 4.75
+                },
+                {
+                    "bowler": "JD Unadkat",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 13,
+                    "wickets": 1,
+                    "economy": 3.25
+                },
+                {
+                    "bowler": "HV Patel",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 36,
+                    "wickets": 1,
+                    "economy": 9.0
+                },
+                {
+                    "bowler": "E Malinga",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 28,
+                    "wickets": 1,
+                    "economy": 7.0
+                },
+                {
+                    "bowler": "Zeeshan Ansari",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 30,
+                    "wickets": 0,
+                    "economy": 10.0
+                },
+                {
+                    "bowler": "Abhishek Sharma",
+                    "overs": 1,
+                    "maidens": 0,
+                    "runs": 5,
+                    "wickets": 0,
+                    "economy": 5.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Sunrisers Hyderabad, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "05 May 2025 - night (20-over match)",
+        "dc_player_replacement": "Impact player:  Ashutosh Sharma in,  Abishek Porel  out (1st innings, 12.1 ov)",
+        "srh_player_replacement": "Impact player:  Travis Head in,  Jaydev Unadkat  out (1st innings, 13.6 ov)",
+        "umpires": "Kannur Swaroopanand Virender Sharma",
+        "tv_umpire": "Michael Gough",
+        "reserve_umpire": "Abhijit Bhattacharya",
+        "match_referee": "Pankaj Dharmani",
+        "points": "Delhi Capitals 1, Sunrisers Hyderabad 1",
+        "extras": "(lb 2, w 3)",
+        "total": "133(7 wkts; 20 ovs)"
+    }
+}

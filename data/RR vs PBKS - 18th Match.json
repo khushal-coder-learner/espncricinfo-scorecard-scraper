@@ -1,0 +1,321 @@
+{
+    "teams": {
+        "Rajasthan Royals": {
+            "batting": [
+                {
+                    "batsman": "Yashasvi Jaiswal",
+                    "dismissal": "b Ferguson",
+                    "runs": 67,
+                    "balls": 45,
+                    "fours": 3,
+                    "sixes": 5,
+                    "strike_rate": 148.88
+                },
+                {
+                    "batsman": "Sanju Samson (c)†",
+                    "dismissal": "c Iyer b Ferguson",
+                    "runs": 38,
+                    "balls": 26,
+                    "fours": 6,
+                    "sixes": 0,
+                    "strike_rate": 146.15
+                },
+                {
+                    "batsman": "Riyan Parag",
+                    "dismissal": "not out",
+                    "runs": 43,
+                    "balls": 25,
+                    "fours": 3,
+                    "sixes": 3,
+                    "strike_rate": 172.0
+                },
+                {
+                    "batsman": "Nitish Rana",
+                    "dismissal": "c Maxwell b Jansen",
+                    "runs": 12,
+                    "balls": 7,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 171.42
+                },
+                {
+                    "batsman": "Shimron Hetmyer",
+                    "dismissal": "c Maxwell b Arshdeep Singh",
+                    "runs": 20,
+                    "balls": 12,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 166.66
+                },
+                {
+                    "batsman": "Dhruv Jurel",
+                    "dismissal": "not out",
+                    "runs": 13,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 260.0
+                }
+            ],
+            "extras": {
+                "total": 12,
+                "detail": "(lb 2, w 10)"
+            },
+            "total": {
+                "runs": "205/4",
+                "detail": "20 Ov (RR: 10.25)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-89",
+                    "player": "Sanju Samson",
+                    "over": "10.2"
+                },
+                {
+                    "score": "2-123",
+                    "player": "Yashasvi Jaiswal",
+                    "over": "13.2"
+                },
+                {
+                    "score": "3-138",
+                    "player": "Nitish Rana",
+                    "over": "14.4"
+                },
+                {
+                    "score": "4-185",
+                    "player": "Shimron Hetmyer",
+                    "over": "18.5"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Arshdeep Singh",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "35",
+                    "wickets": "1",
+                    "economy": "8.75"
+                },
+                {
+                    "bowler": "Marco Jansen",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "45",
+                    "wickets": "1",
+                    "economy": "11.25"
+                },
+                {
+                    "bowler": "Lockie Ferguson",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "37",
+                    "wickets": "2",
+                    "economy": "9.25"
+                },
+                {
+                    "bowler": "Glenn Maxwell",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "6",
+                    "wickets": "0",
+                    "economy": "6.00"
+                },
+                {
+                    "bowler": "Yuzvendra Chahal",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "32",
+                    "wickets": "0",
+                    "economy": "10.66"
+                },
+                {
+                    "bowler": "Marcus Stoinis",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "48",
+                    "wickets": "0",
+                    "economy": "12.00"
+                }
+            ]
+        },
+        "Punjab Kings": {
+            "batting": [
+                {
+                    "batsman": "Priyansh Arya",
+                    "dismissal": "b Archer",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Prabhsimran Singh †",
+                    "dismissal": "c Hasaranga b Kartikeya",
+                    "runs": 17,
+                    "balls": 16,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 106.25
+                },
+                {
+                    "batsman": "Shreyas Iyer (c)",
+                    "dismissal": "b Archer",
+                    "runs": 10,
+                    "balls": 5,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Marcus Stoinis",
+                    "dismissal": "c & b Sandeep Sharma",
+                    "runs": 1,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 14.28
+                },
+                {
+                    "batsman": "Nehal Wadhera",
+                    "dismissal": "c Jurel b Hasaranga",
+                    "runs": 62,
+                    "balls": 41,
+                    "fours": 4,
+                    "sixes": 3,
+                    "strike_rate": 151.21
+                },
+                {
+                    "batsman": "Glenn Maxwell",
+                    "dismissal": "c Jaiswal b Theekshana",
+                    "runs": 30,
+                    "balls": 21,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 142.85
+                },
+                {
+                    "batsman": "Shashank Singh",
+                    "dismissal": "not out",
+                    "runs": 10,
+                    "balls": 13,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 76.92
+                },
+                {
+                    "batsman": "Suryansh Shedge",
+                    "dismissal": "c Hetmyer b Sandeep Sharma",
+                    "runs": 2,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Marco Jansen",
+                    "dismissal": "c Hetmyer b Theekshana",
+                    "runs": 3,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Arshdeep Singh",
+                    "dismissal": "c Hasaranga b Archer",
+                    "runs": 1,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 20.0
+                },
+                {
+                    "batsman": "Lockie Ferguson",
+                    "dismissal": "not out",
+                    "runs": 4,
+                    "balls": 1,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 400.0
+                }
+            ],
+            "extras": {
+                "total": 15,
+                "detail": "(b 5, lb 1, w 9)"
+            },
+            "total": {
+                "runs": "155/9",
+                "detail": "20 Ov (RR: 7.75)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "JC Archer",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 25,
+                    "wickets": 3,
+                    "economy": 6.25
+                },
+                {
+                    "bowler": "Yudhvir Singh",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 20,
+                    "wickets": 0,
+                    "economy": 10.0
+                },
+                {
+                    "bowler": "Sandeep Sharma",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 21,
+                    "wickets": 2,
+                    "economy": 5.25
+                },
+                {
+                    "bowler": "M Theekshana",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 26,
+                    "wickets": 2,
+                    "economy": 6.5
+                },
+                {
+                    "bowler": "K Kartikeya",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 21,
+                    "wickets": 1,
+                    "economy": 10.5
+                },
+                {
+                    "bowler": "PW Hasaranga",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 36,
+                    "wickets": 1,
+                    "economy": 9.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Punjab Kings, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Jofra Archer",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "05 April 2025 - night (20-over match)",
+        "rr_player_replacement": "Impact player:  Kumar Kartikeya in,  Nitish Rana  out (2nd innings, 3.3 ov)",
+        "pbks_player_replacement": "Impact player:  Priyansh Arya in,  Yuzvendra Chahal  out (1st innings, 17.6 ov)",
+        "umpires": "Kannur Swaroopanand DRS Ulhas Gandhe DRS",
+        "tv_umpire": "Virender Sharma",
+        "reserve_umpire": "Ajitesh Argal",
+        "match_referee": "Narayanan Kutty",
+        "points": "Rajasthan Royals 2, Punjab Kings 0",
+        "extras": "(b 5, lb 1, w 9)",
+        "total": "155(9 wkts; 20 ovs)"
+    }
+}

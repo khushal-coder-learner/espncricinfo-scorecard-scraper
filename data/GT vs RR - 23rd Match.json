@@ -1,0 +1,341 @@
+{
+    "teams": {
+        "Gujarat Titans": {
+            "batting": [
+                {
+                    "batsman": "Sai Sudharsan",
+                    "dismissal": "c †Samson b Deshpande",
+                    "runs": 82,
+                    "balls": 53,
+                    "fours": 8,
+                    "sixes": 3,
+                    "strike_rate": 154.71
+                },
+                {
+                    "batsman": "Shubman Gill (c)",
+                    "dismissal": "b Archer",
+                    "runs": 2,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Jos Buttler †",
+                    "dismissal": "lbw b Theekshana",
+                    "runs": 36,
+                    "balls": 25,
+                    "fours": 5,
+                    "sixes": 0,
+                    "strike_rate": 144.0
+                },
+                {
+                    "batsman": "M Shahrukh Khan",
+                    "dismissal": "st †Samson b Theekshana",
+                    "runs": 36,
+                    "balls": 20,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 180.0
+                },
+                {
+                    "batsman": "Sherfane Rutherford",
+                    "dismissal": "c †Samson b Sandeep Sharma",
+                    "runs": 7,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 233.33
+                },
+                {
+                    "batsman": "Rahul Tewatia",
+                    "dismissal": "not out",
+                    "runs": 24,
+                    "balls": 12,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Rashid Khan",
+                    "dismissal": "c Jaiswal b Deshpande",
+                    "runs": 12,
+                    "balls": 4,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 300.0
+                },
+                {
+                    "batsman": "Arshad Khan",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 18,
+                "detail": "(b 1, w 17)"
+            },
+            "total": {
+                "runs": "217/6",
+                "detail": "20 Ov (RR: 10.85)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-14",
+                    "player": "Shubman Gill",
+                    "over": "2.1"
+                },
+                {
+                    "score": "2-94",
+                    "player": "Jos Buttler",
+                    "over": "9.6"
+                },
+                {
+                    "score": "3-156",
+                    "player": "M Shahrukh Khan",
+                    "over": "15.4"
+                },
+                {
+                    "score": "4-163",
+                    "player": "Sherfane Rutherford",
+                    "over": "16.1"
+                },
+                {
+                    "score": "5-187",
+                    "player": "Sai Sudharsan",
+                    "over": "18.2"
+                },
+                {
+                    "score": "6-201",
+                    "player": "Rashid Khan",
+                    "over": "18.6"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Jofra Archer",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "30",
+                    "wickets": "1",
+                    "economy": "7.50"
+                },
+                {
+                    "bowler": "Fazalhaq Farooqi",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "38",
+                    "wickets": "0",
+                    "economy": "9.50"
+                },
+                {
+                    "bowler": "Tushar Deshpande",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "53",
+                    "wickets": "2",
+                    "economy": "13.25"
+                },
+                {
+                    "bowler": "Sandeep Sharma",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "41",
+                    "wickets": "1",
+                    "economy": "10.25"
+                },
+                {
+                    "bowler": "Maheesh Theekshana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "54",
+                    "wickets": "2",
+                    "economy": "13.50"
+                }
+            ]
+        },
+        "Rajasthan Royals": {
+            "batting": [
+                {
+                    "batsman": "Yashasvi Jaiswal",
+                    "dismissal": "c Rashid Khan b Arshad Khan",
+                    "runs": 6,
+                    "balls": 7,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 85.71
+                },
+                {
+                    "batsman": "Sanju Samson (c)†",
+                    "dismissal": "c Sai Kishore b Prasidh Krishna",
+                    "runs": 41,
+                    "balls": 28,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 146.42
+                },
+                {
+                    "batsman": "Nitish Rana",
+                    "dismissal": "c Khejroliya b Mohammed Siraj",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Riyan Parag",
+                    "dismissal": "c †Buttler b Khejroliya",
+                    "runs": 26,
+                    "balls": 14,
+                    "fours": 1,
+                    "sixes": 3,
+                    "strike_rate": 185.71
+                },
+                {
+                    "batsman": "Dhruv Jurel",
+                    "dismissal": "c Sai Sudharsan b Rashid Khan",
+                    "runs": 5,
+                    "balls": 4,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 125.0
+                },
+                {
+                    "batsman": "Shimron Hetmyer",
+                    "dismissal": "c Sai Kishore b Prasidh Krishna",
+                    "runs": 52,
+                    "balls": 32,
+                    "fours": 4,
+                    "sixes": 3,
+                    "strike_rate": 162.5
+                },
+                {
+                    "batsman": "Shubham Dubey",
+                    "dismissal": "lbw b Rashid Khan",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Jofra Archer",
+                    "dismissal": "c Shubman Gill b Prasidh Krishna",
+                    "runs": 4,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Maheesh Theekshana",
+                    "dismissal": "c Sai Sudharsan b Sai Kishore",
+                    "runs": 5,
+                    "balls": 13,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 38.46
+                },
+                {
+                    "batsman": "Tushar Deshpande",
+                    "dismissal": "c Rashid Khan b Sai Kishore",
+                    "runs": 3,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Sandeep Sharma",
+                    "dismissal": "not out",
+                    "runs": 6,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 120.0
+                }
+            ],
+            "extras": {
+                "total": 9,
+                "detail": "(w 9)"
+            },
+            "total": {
+                "runs": "159",
+                "detail": "19.2 Ov (RR: 8.22)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Siraj",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 30,
+                    "wickets": 1,
+                    "economy": 7.5
+                },
+                {
+                    "bowler": "Arshad Khan",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 19,
+                    "wickets": 1,
+                    "economy": 9.5
+                },
+                {
+                    "bowler": "M Prasidh Krishna",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 24,
+                    "wickets": 3,
+                    "economy": 6.0
+                },
+                {
+                    "bowler": "K Khejroliya",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 29,
+                    "wickets": 1,
+                    "economy": 9.66
+                },
+                {
+                    "bowler": "Rashid Khan",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 37,
+                    "wickets": 2,
+                    "economy": 9.25
+                },
+                {
+                    "bowler": "R Sai Kishore",
+                    "overs": 2.2,
+                    "maidens": 0,
+                    "runs": 20,
+                    "wickets": 2,
+                    "economy": 8.57
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Rajasthan Royals, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Sai Sudharsan",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "09 April 2025 - night (20-over match)",
+        "gt_player_replacement": "Impact player:  Kulwant Khejroliya in,  Sherfane Rutherford  out (1st innings, 19.6 ov)",
+        "rr_player_replacement": "Impact player:  Shubham Dubey in,  Fazalhaq Farooqi  out (1st innings, 12.6 ov)",
+        "umpires": "Akshay Totre DRS Rohan Pandit DRS",
+        "tv_umpire": "Adrian Holdstock",
+        "reserve_umpire": "Anish Sahasrabudhe",
+        "match_referee": "Shakti Singh",
+        "points": "Gujarat Titans 2, Rajasthan Royals 0",
+        "extras": "(w 9)",
+        "total": "159(10 wkts; 19.2 ovs)"
+    }
+}

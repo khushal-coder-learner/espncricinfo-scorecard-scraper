@@ -1,0 +1,295 @@
+{
+    "teams": {
+        "Kolkata Knight Riders": {
+            "batting": [
+                {
+                    "batsman": "Rahmanullah Gurbaz †",
+                    "dismissal": "c Hetmyer b Theekshana",
+                    "runs": 35,
+                    "balls": 25,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strike_rate": 140.0
+                },
+                {
+                    "batsman": "Sunil Narine",
+                    "dismissal": "b Yudhvir Singh",
+                    "runs": 11,
+                    "balls": 9,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 122.22
+                },
+                {
+                    "batsman": "Ajinkya Rahane (c)",
+                    "dismissal": "c †Jurel b Parag",
+                    "runs": 30,
+                    "balls": 24,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strike_rate": 125.0
+                },
+                {
+                    "batsman": "Angkrish Raghuvanshi",
+                    "dismissal": "c sub (Ashok Sharma) b Archer",
+                    "runs": 44,
+                    "balls": 31,
+                    "fours": 5,
+                    "sixes": 0,
+                    "strike_rate": 141.93
+                },
+                {
+                    "batsman": "Andre Russell",
+                    "dismissal": "not out",
+                    "runs": 57,
+                    "balls": 25,
+                    "fours": 4,
+                    "sixes": 6,
+                    "strike_rate": 228.0
+                },
+                {
+                    "batsman": "Rinku Singh",
+                    "dismissal": "not out",
+                    "runs": 19,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strike_rate": 316.66
+                }
+            ],
+            "extras": {
+                "total": 10,
+                "detail": "(b 1, lb 2, w 7)"
+            },
+            "total": {
+                "runs": "206/4",
+                "detail": "20 Ov (RR: 10.30)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-13",
+                    "player": "Sunil Narine",
+                    "over": "1.6"
+                },
+                {
+                    "score": "2-69",
+                    "player": "Rahmanullah Gurbaz",
+                    "over": "7.3"
+                },
+                {
+                    "score": "3-111",
+                    "player": "Ajinkya Rahane",
+                    "over": "12.4"
+                },
+                {
+                    "score": "4-172",
+                    "player": "Angkrish Raghuvanshi",
+                    "over": "18.1"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Jofra Archer",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "30",
+                    "wickets": "1",
+                    "economy": "7.50"
+                },
+                {
+                    "bowler": "Yudhvir Singh",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "26",
+                    "wickets": "1",
+                    "economy": "13.00"
+                },
+                {
+                    "bowler": "Maheesh Theekshana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "41",
+                    "wickets": "1",
+                    "economy": "10.25"
+                },
+                {
+                    "bowler": "Akash Madhwal",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "50",
+                    "wickets": "0",
+                    "economy": "16.66"
+                },
+                {
+                    "bowler": "Wanindu Hasaranga",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "35",
+                    "wickets": "0",
+                    "economy": "8.75"
+                },
+                {
+                    "bowler": "Riyan Parag",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "21",
+                    "wickets": "1",
+                    "economy": "7.00"
+                }
+            ]
+        },
+        "Rajasthan Royals": {
+            "batting": [
+                {
+                    "batsman": "Yashasvi Jaiswal",
+                    "dismissal": "c Singh b Ali",
+                    "runs": 34,
+                    "balls": 21,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 161.9
+                },
+                {
+                    "batsman": "Vaibhav Suryavanshi",
+                    "dismissal": "c Rahane b Arora",
+                    "runs": 4,
+                    "balls": 2,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Kunal Singh Rathore",
+                    "dismissal": "c Russell b Ali",
+                    "runs": 0,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Riyan Parag (c)",
+                    "dismissal": "c Arora b Harshit Rana",
+                    "runs": 95,
+                    "balls": 45,
+                    "fours": 6,
+                    "sixes": 8,
+                    "strike_rate": 211.11
+                },
+                {
+                    "batsman": "Dhruv Jurel †",
+                    "dismissal": "b Varun",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Wanindu Hasaranga",
+                    "dismissal": "b Varun",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Shimron Hetmyer",
+                    "dismissal": "c Narine b Harshit Rana",
+                    "runs": 29,
+                    "balls": 23,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 126.08
+                },
+                {
+                    "batsman": "Shubham Dubey",
+                    "dismissal": "not out",
+                    "runs": 25,
+                    "balls": 14,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strike_rate": 178.57
+                },
+                {
+                    "batsman": "Jofra Archer",
+                    "dismissal": "run out (Singh/Arora)",
+                    "runs": 12,
+                    "balls": 8,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 150.0
+                }
+            ],
+            "extras": {
+                "total": 6,
+                "detail": "(lb 1, nb 1, w 4)"
+            },
+            "total": {
+                "runs": "205/8",
+                "detail": "20 Ov (RR: 10.25)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "VG Arora",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 50,
+                    "wickets": 1,
+                    "economy": "12.5"
+                },
+                {
+                    "bowler": "MM Ali",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 43,
+                    "wickets": 2,
+                    "economy": "14.33"
+                },
+                {
+                    "bowler": "CV Varun",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 32,
+                    "wickets": 2,
+                    "economy": "8"
+                },
+                {
+                    "bowler": "SP Narine",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 27,
+                    "wickets": 0,
+                    "economy": "6.75"
+                },
+                {
+                    "bowler": "AD Russell",
+                    "overs": 1,
+                    "maidens": 0,
+                    "runs": 11,
+                    "wickets": 0,
+                    "economy": "11"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Kolkata Knight Riders, elected to bat first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Andre Russell",
+        "hours_of_play_local_time": "15.30 start, First Session 15.30-17.00, Interval 17.00-17.20, Second Session 17.20-18.50",
+        "match_days": "04 May 2025 - daynight (20-over match)",
+        "kkr_player_replacement": "Impact player:  Harshit Rana in,  Angkrish Raghuvanshi  out (1st innings, 19.6 ov)",
+        "rr_player_replacement": "Impact player:  Shubham Dubey in,  Akash Madhwal  out (2nd innings, 15.5 ov)",
+        "umpires": "Anish Sahasrabudhe DRS Rohan Pandit DRS",
+        "tv_umpire": "Adrian Holdstock",
+        "reserve_umpire": "Amit Rana",
+        "match_referee": "Amit Sharma",
+        "points": "Kolkata Knight Riders 2, Rajasthan Royals 0",
+        "extras": "(lb 1, nb 1, w 4)",
+        "total": "205(8 wkts; 20 ovs)"
+    }
+}

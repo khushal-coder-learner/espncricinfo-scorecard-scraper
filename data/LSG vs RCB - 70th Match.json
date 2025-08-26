@@ -1,0 +1,254 @@
+{
+    "teams": {
+        "Lucknow Super Giants": {
+            "batting": [
+                {
+                    "batsman": "Mitchell Marsh",
+                    "dismissal": "c †Sharma b Kumar",
+                    "runs": 67,
+                    "balls": 37,
+                    "fours": 4,
+                    "sixes": 5,
+                    "strike_rate": 181.08
+                },
+                {
+                    "batsman": "Matthew Breetzke",
+                    "dismissal": "b Thushara",
+                    "runs": 14,
+                    "balls": 12,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 116.66
+                },
+                {
+                    "batsman": "Rishabh Pant (c)†",
+                    "dismissal": "not out",
+                    "runs": 118,
+                    "balls": 61,
+                    "fours": 11,
+                    "sixes": 8,
+                    "strike_rate": 193.44
+                },
+                {
+                    "batsman": "Nicholas Pooran",
+                    "dismissal": "c Yash Dayal b Shepherd",
+                    "runs": 13,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 130.0
+                },
+                {
+                    "batsman": "Abdul Samad",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 14,
+                "detail": "(lb 7, nb 1, w 6)"
+            },
+            "total": {
+                "runs": "227/3",
+                "detail": "20 Ov (RR: 11.35)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-25",
+                    "player": "Matthew Breetzke",
+                    "over": "2.4"
+                },
+                {
+                    "score": "2-177",
+                    "player": "Mitchell Marsh",
+                    "over": "15.3"
+                },
+                {
+                    "score": "3-226",
+                    "player": "Nicholas Pooran",
+                    "over": "19.5"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Nuwan Thushara",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "26",
+                    "wickets": "1",
+                    "economy": "6.50"
+                },
+                {
+                    "bowler": "Krunal Pandya",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "14",
+                    "wickets": "0",
+                    "economy": "7.00"
+                },
+                {
+                    "bowler": "Yash Dayal",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "44",
+                    "wickets": "0",
+                    "economy": "14.66"
+                },
+                {
+                    "bowler": "Bhuvneshwar Kumar",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "46",
+                    "wickets": "1",
+                    "economy": "11.50"
+                },
+                {
+                    "bowler": "Suyash Sharma",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "0",
+                    "economy": "13.00"
+                },
+                {
+                    "bowler": "Romario Shepherd",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "51",
+                    "wickets": "1",
+                    "economy": "12.75"
+                }
+            ]
+        },
+        "Royal Challengers Bengaluru": {
+            "batting": [
+                {
+                    "batsman": "Phil Salt",
+                    "dismissal": "c Rathi b Akash Singh",
+                    "runs": 30,
+                    "balls": 19,
+                    "fours": 6,
+                    "sixes": 0,
+                    "strike_rate": 157.89
+                },
+                {
+                    "batsman": "Virat Kohli",
+                    "dismissal": "c Badoni b Avesh Khan",
+                    "runs": 54,
+                    "balls": 30,
+                    "fours": 10,
+                    "sixes": 0,
+                    "strike_rate": 180.0
+                },
+                {
+                    "batsman": "Rajat Patidar",
+                    "dismissal": "c Abdul Samad b O'Rourke",
+                    "runs": 14,
+                    "balls": 7,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Liam Livingstone",
+                    "dismissal": "lbw b O'Rourke",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Mayank Agarwal",
+                    "dismissal": "not out",
+                    "runs": 41,
+                    "balls": 23,
+                    "fours": 5,
+                    "sixes": 0,
+                    "strike_rate": 178.26
+                },
+                {
+                    "batsman": "Jitesh Sharma (c)†",
+                    "dismissal": "not out",
+                    "runs": 85,
+                    "balls": 33,
+                    "fours": 8,
+                    "sixes": 6,
+                    "strike_rate": 257.57
+                }
+            ],
+            "extras": {
+                "total": 6,
+                "detail": "(nb 1, w 5)"
+            },
+            "total": {
+                "runs": "230/4",
+                "detail": "18.4 Ov (RR: 12.32)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Akash Singh",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 40,
+                    "wickets": 1,
+                    "economy": "10"
+                },
+                {
+                    "bowler": "W O'Rourke",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 74,
+                    "wickets": 2,
+                    "economy": "18.5"
+                },
+                {
+                    "bowler": "Shahbaz Ahmed",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 39,
+                    "wickets": 0,
+                    "economy": "13"
+                },
+                {
+                    "bowler": "Avesh Khan",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 32,
+                    "wickets": 1,
+                    "economy": "10.66"
+                },
+                {
+                    "bowler": "A Badoni",
+                    "overs": 0.4,
+                    "maidens": 0,
+                    "runs": 9,
+                    "wickets": 0,
+                    "economy": "13.5"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Royal Challengers Bengaluru, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Jitesh Sharma",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.15, Second Session 21.15-22.45",
+        "match_days": "27 May 2025 - night (20-over match)",
+        "lsg_player_replacement": "Impact player:  Akash Singh in,  Mitchell Marsh  out (1st innings, 19.6 ov)",
+        "rcb_player_replacement": "Impact player:  Rajat Patidar in,  Suyash Sharma  out (2nd innings, 5.4 ov)",
+        "umpires": "Michael Gough DRS Virender Sharma DRS",
+        "tv_umpire": "Ulhas Gandhe",
+        "reserve_umpire": "Kannur Swaroopanand",
+        "match_referee": "Pankaj Dharmani",
+        "points": "Royal Challengers Bengaluru 2, Lucknow Super Giants 0",
+        "extras": "(nb 1, w 5)",
+        "total": "230(4 wkts; 18.4 ovs)"
+    }
+}

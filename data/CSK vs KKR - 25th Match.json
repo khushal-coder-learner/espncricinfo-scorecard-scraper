@@ -1,0 +1,295 @@
+{
+    "teams": {
+        "Chennai Super Kings": {
+            "batting": [
+                {
+                    "batsman": "Rachin Ravindra",
+                    "dismissal": "c Rahane b Harshit Rana",
+                    "runs": 4,
+                    "balls": 9,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 44.44
+                },
+                {
+                    "batsman": "Devon Conway",
+                    "dismissal": "lbw b Ali",
+                    "runs": 12,
+                    "balls": 11,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 109.09
+                },
+                {
+                    "batsman": "Rahul Tripathi",
+                    "dismissal": "b Narine",
+                    "runs": 16,
+                    "balls": 22,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 72.72
+                },
+                {
+                    "batsman": "Vijay Shankar",
+                    "dismissal": "c Ali b Varun",
+                    "runs": 29,
+                    "balls": 21,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 138.09
+                },
+                {
+                    "batsman": "Shivam Dube",
+                    "dismissal": "not out",
+                    "runs": 31,
+                    "balls": 29,
+                    "fours": 3,
+                    "sixes": 0,
+                    "strike_rate": 106.89
+                },
+                {
+                    "batsman": "Ravichandran Ashwin",
+                    "dismissal": "c Arora b Harshit Rana",
+                    "runs": 1,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 14.28
+                },
+                {
+                    "batsman": "Ravindra Jadeja",
+                    "dismissal": "c †de Kock b Narine",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Deepak Hooda",
+                    "dismissal": "c Arora b Varun",
+                    "runs": 0,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "MS Dhoni (c)†",
+                    "dismissal": "lbw b Narine",
+                    "runs": 1,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 25.0
+                },
+                {
+                    "batsman": "Noor Ahmad",
+                    "dismissal": "c Varun b Arora",
+                    "runs": 1,
+                    "balls": 8,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 12.5
+                },
+                {
+                    "batsman": "Anshul Kamboj",
+                    "dismissal": "not out",
+                    "runs": 3,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 5,
+                "detail": "(lb 1, w 4)"
+            },
+            "total": {
+                "runs": "103/9",
+                "detail": "20 Ov (RR: 5.15)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-16",
+                    "player": "Devon Conway",
+                    "over": "3.1"
+                },
+                {
+                    "score": "2-16",
+                    "player": "Rachin Ravindra",
+                    "over": "4.1"
+                },
+                {
+                    "score": "3-59",
+                    "player": "Vijay Shankar",
+                    "over": "9.4"
+                },
+                {
+                    "score": "4-65",
+                    "player": "Rahul Tripathi",
+                    "over": "10.6"
+                },
+                {
+                    "score": "5-70",
+                    "player": "Ravichandran Ashwin",
+                    "over": "12.5"
+                },
+                {
+                    "score": "6-71",
+                    "player": "Ravindra Jadeja",
+                    "over": "13.3"
+                },
+                {
+                    "score": "7-72",
+                    "player": "Deepak Hooda",
+                    "over": "14.2"
+                },
+                {
+                    "score": "8-75",
+                    "player": "MS Dhoni",
+                    "over": "15.3"
+                },
+                {
+                    "score": "9-79",
+                    "player": "Noor Ahmad",
+                    "over": "17.2"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Vaibhav Arora",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "31",
+                    "wickets": "1",
+                    "economy": "7.75"
+                },
+                {
+                    "bowler": "Moeen Ali",
+                    "overs": "4",
+                    "maidens": "1",
+                    "runs": "20",
+                    "wickets": "1",
+                    "economy": "5.00"
+                },
+                {
+                    "bowler": "Harshit Rana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "16",
+                    "wickets": "2",
+                    "economy": "4.00"
+                },
+                {
+                    "bowler": "Varun Chakravarthy",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "22",
+                    "wickets": "2",
+                    "economy": "5.50"
+                },
+                {
+                    "bowler": "Sunil Narine",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "13",
+                    "wickets": "3",
+                    "economy": "3.25"
+                }
+            ]
+        },
+        "Kolkata Knight Riders": {
+            "batting": [
+                {
+                    "batsman": "Quinton de Kock †",
+                    "dismissal": "b Kamboj",
+                    "runs": 23,
+                    "balls": 16,
+                    "fours": 0,
+                    "sixes": 3,
+                    "strike_rate": 143.75
+                },
+                {
+                    "batsman": "Sunil Narine",
+                    "dismissal": "b Noor Ahmad",
+                    "runs": 44,
+                    "balls": 18,
+                    "fours": 2,
+                    "sixes": 5,
+                    "strike_rate": 244.44
+                },
+                {
+                    "batsman": "Ajinkya Rahane (c)",
+                    "dismissal": "not out",
+                    "runs": 20,
+                    "balls": 17,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 117.64
+                },
+                {
+                    "batsman": "Rinku Singh",
+                    "dismissal": "not out",
+                    "runs": 15,
+                    "balls": 12,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 125.0
+                }
+            ],
+            "extras": {
+                "total": 5,
+                "detail": "(lb 1, nb 2, w 2)"
+            },
+            "total": {
+                "runs": "107/2",
+                "detail": "10.1 Ov (RR: 10.52)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "KK Ahmed",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 40,
+                    "wickets": 0,
+                    "economy": "13.33"
+                },
+                {
+                    "bowler": "R Ashwin",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 30,
+                    "wickets": 0,
+                    "economy": "10"
+                },
+                {
+                    "bowler": "Noor Ahmad",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 8,
+                    "wickets": 1,
+                    "economy": "4"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Kolkata Knight Riders, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Sunil Narine",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "11 April 2025 - night (20-over match)",
+        "csk_player_replacement": "Impact player:  Deepak Hooda in,  Rahul Tripathi  out (1st innings, 13.3 ov)",
+        "umpires": "Chris Gaffaney DRS Parashar Joshi DRS",
+        "tv_umpire": "Vinod Seshan",
+        "reserve_umpire": "Tanmay Srivastava",
+        "match_referee": "Prakash Bhatt",
+        "points": "Kolkata Knight Riders 2, Chennai Super Kings 0",
+        "extras": "(lb 1, nb 2, w 2)",
+        "total": "107(2 wkts; 10.1 ovs)"
+    }
+}

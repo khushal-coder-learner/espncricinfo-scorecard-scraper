@@ -1,0 +1,355 @@
+{
+    "teams": {
+        "Sunrisers Hyderabad": {
+            "batting": [
+                {
+                    "batsman": "Travis Head",
+                    "dismissal": "b Prince Yadav",
+                    "runs": 47,
+                    "balls": 28,
+                    "fours": 5,
+                    "sixes": 3,
+                    "strike_rate": 167.85
+                },
+                {
+                    "batsman": "Abhishek Sharma",
+                    "dismissal": "c Pooran b Thakur",
+                    "runs": 6,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Ishan Kishan",
+                    "dismissal": "c †Pant b Thakur",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Nitish Kumar Reddy",
+                    "dismissal": "b Ravi Bishnoi",
+                    "runs": 32,
+                    "balls": 28,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 114.28
+                },
+                {
+                    "batsman": "Heinrich Klaasen †",
+                    "dismissal": "run out (Prince Yadav)",
+                    "runs": 26,
+                    "balls": 17,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 152.94
+                },
+                {
+                    "batsman": "Aniket Verma",
+                    "dismissal": "c Miller b Rathi",
+                    "runs": 36,
+                    "balls": 13,
+                    "fours": 0,
+                    "sixes": 5,
+                    "strike_rate": 276.92
+                },
+                {
+                    "batsman": "Abhinav Manohar",
+                    "dismissal": "c Abdul Samad b Thakur",
+                    "runs": 2,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Pat Cummins (c)",
+                    "dismissal": "c Rathi b Avesh Khan",
+                    "runs": 18,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 3,
+                    "strike_rate": 450.0
+                },
+                {
+                    "batsman": "Harshal Patel",
+                    "dismissal": "not out",
+                    "runs": 12,
+                    "balls": 11,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 109.09
+                },
+                {
+                    "batsman": "Mohammed Shami",
+                    "dismissal": "c Badoni b Thakur",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Simarjeet Singh",
+                    "dismissal": "not out",
+                    "runs": 3,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 75.0
+                }
+            ],
+            "extras": {
+                "total": 7,
+                "detail": "(nb 1, w 6)"
+            },
+            "total": {
+                "runs": "190/9",
+                "detail": "20 Ov (RR: 9.50)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-15",
+                    "player": "Abhishek Sharma",
+                    "over": "2.1"
+                },
+                {
+                    "score": "2-15",
+                    "player": "Ishan Kishan",
+                    "over": "2.2"
+                },
+                {
+                    "score": "3-76",
+                    "player": "Travis Head",
+                    "over": "7.3"
+                },
+                {
+                    "score": "4-110",
+                    "player": "Heinrich Klaasen",
+                    "over": "11.6"
+                },
+                {
+                    "score": "5-128",
+                    "player": "Nitish Kumar Reddy",
+                    "over": "14.1"
+                },
+                {
+                    "score": "6-156",
+                    "player": "Aniket Verma",
+                    "over": "15.6"
+                },
+                {
+                    "score": "7-156",
+                    "player": "Abhinav Manohar",
+                    "over": "16.2"
+                },
+                {
+                    "score": "8-176",
+                    "player": "Pat Cummins",
+                    "over": "17.3"
+                },
+                {
+                    "score": "9-181",
+                    "player": "Mohammed Shami",
+                    "over": "18.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Shardul Thakur",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "34",
+                    "wickets": "4",
+                    "economy": "8.50"
+                },
+                {
+                    "bowler": "Avesh Khan",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "45",
+                    "wickets": "1",
+                    "economy": "11.25"
+                },
+                {
+                    "bowler": "Digvesh Rathi",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "40",
+                    "wickets": "1",
+                    "economy": "10.00"
+                },
+                {
+                    "bowler": "Ravi Bishnoi",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "1",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Prince Yadav",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "29",
+                    "wickets": "1",
+                    "economy": "7.25"
+                }
+            ]
+        },
+        "Lucknow Super Giants": {
+            "batting": [
+                {
+                    "batsman": "Mitchell Marsh",
+                    "dismissal": "c Nitish Kumar Reddy b Cummins",
+                    "runs": 52,
+                    "balls": 31,
+                    "fours": 7,
+                    "sixes": 2,
+                    "strike_rate": 167.74
+                },
+                {
+                    "batsman": "Aiden Markram",
+                    "dismissal": "c Cummins b Mohammed Shami",
+                    "runs": 1,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 25.0
+                },
+                {
+                    "batsman": "Nicholas Pooran",
+                    "dismissal": "lbw b Cummins",
+                    "runs": 70,
+                    "balls": 26,
+                    "fours": 6,
+                    "sixes": 6,
+                    "strike_rate": 269.23
+                },
+                {
+                    "batsman": "Rishabh Pant (c)†",
+                    "dismissal": "c Mohammed Shami b Patel",
+                    "runs": 15,
+                    "balls": 15,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Ayush Badoni",
+                    "dismissal": "c Patel b Zampa",
+                    "runs": 6,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "David Miller",
+                    "dismissal": "not out",
+                    "runs": 13,
+                    "balls": 7,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 185.71
+                },
+                {
+                    "batsman": "Abdul Samad",
+                    "dismissal": "not out",
+                    "runs": 22,
+                    "balls": 8,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 275.0
+                }
+            ],
+            "extras": {
+                "total": 14,
+                "detail": "(lb 1, w 13)"
+            },
+            "total": {
+                "runs": "193/5",
+                "detail": "16.1 Ov (RR: 11.93)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Abhishek Sharma",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 20,
+                    "wickets": 0,
+                    "economy": 10.0
+                },
+                {
+                    "bowler": "Mohammed Shami",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 37,
+                    "wickets": 1,
+                    "economy": 12.33
+                },
+                {
+                    "bowler": "Simarjeet Singh",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 28,
+                    "wickets": 0,
+                    "economy": 14.0
+                },
+                {
+                    "bowler": "PJ Cummins",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 29,
+                    "wickets": 2,
+                    "economy": 9.66
+                },
+                {
+                    "bowler": "A Zampa",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 46,
+                    "wickets": 1,
+                    "economy": 11.5
+                },
+                {
+                    "bowler": "HV Patel",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 28,
+                    "wickets": 1,
+                    "economy": 14.0
+                },
+                {
+                    "bowler": "Ishan Kishan",
+                    "overs": 0.1,
+                    "maidens": 0,
+                    "runs": 4,
+                    "wickets": 0,
+                    "economy": 24.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Lucknow Super Giants, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Shardul Thakur",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "27 March 2025 - night (20-over match)",
+        "srh_player_replacement": "Impact player:  Adam Zampa in,  Travis Head  out (2nd innings, 5.6 ov)",
+        "lsg_player_replacement": "Impact player:  Mitchell Marsh in,  Digvesh Rathi  out (1st innings, 19.6 ov)",
+        "umpires": "Abhijit Bhattacharya DRS Ulhas Gandhe DRS",
+        "tv_umpire": "Virender Sharma",
+        "reserve_umpire": "Ajitesh Argal",
+        "match_referee": "Narayanan Kutty",
+        "points": "Lucknow Super Giants 2, Sunrisers Hyderabad 0",
+        "extras": "(lb 1, w 13)",
+        "total": "193(5 wkts; 16.1 ovs)"
+    }
+}

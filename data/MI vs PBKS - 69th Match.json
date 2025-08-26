@@ -1,0 +1,300 @@
+{
+    "teams": {
+        "Mumbai Indians": {
+            "batting": [
+                {
+                    "batsman": "Ryan Rickelton †",
+                    "dismissal": "c Iyer b Jansen",
+                    "runs": 27,
+                    "balls": 20,
+                    "fours": 5,
+                    "sixes": 0,
+                    "strike_rate": 135.0
+                },
+                {
+                    "batsman": "Rohit Sharma",
+                    "dismissal": "c Wadhera b Harpreet Brar",
+                    "runs": 24,
+                    "balls": 21,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 114.28
+                },
+                {
+                    "batsman": "Suryakumar Yadav",
+                    "dismissal": "lbw b Arshdeep Singh",
+                    "runs": 57,
+                    "balls": 39,
+                    "fours": 6,
+                    "sixes": 2,
+                    "strike_rate": 146.15
+                },
+                {
+                    "batsman": "Tilak Varma",
+                    "dismissal": "c Arshdeep Singh b Vyshak",
+                    "runs": 1,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 25.0
+                },
+                {
+                    "batsman": "Will Jacks",
+                    "dismissal": "c Jansen b Vyshak",
+                    "runs": 17,
+                    "balls": 8,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 212.5
+                },
+                {
+                    "batsman": "Hardik Pandya (c)",
+                    "dismissal": "c †Inglis b Jansen",
+                    "runs": 26,
+                    "balls": 15,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 173.33
+                },
+                {
+                    "batsman": "Naman Dhir",
+                    "dismissal": "c Arya b Arshdeep Singh",
+                    "runs": 20,
+                    "balls": 12,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 166.66
+                },
+                {
+                    "batsman": "Mitchell Santner",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 11,
+                "detail": "(w 11)"
+            },
+            "total": {
+                "runs": "184/7",
+                "detail": "20 Ov (RR: 9.20)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-45",
+                    "player": "Ryan Rickelton",
+                    "over": "5.1"
+                },
+                {
+                    "score": "2-81",
+                    "player": "Rohit Sharma",
+                    "over": "9.3"
+                },
+                {
+                    "score": "3-87",
+                    "player": "Tilak Varma",
+                    "over": "10.5"
+                },
+                {
+                    "score": "4-106",
+                    "player": "Will Jacks",
+                    "over": "12.3"
+                },
+                {
+                    "score": "5-150",
+                    "player": "Hardik Pandya",
+                    "over": "16.2"
+                },
+                {
+                    "score": "6-181",
+                    "player": "Naman Dhir",
+                    "over": "19.1"
+                },
+                {
+                    "score": "7-184",
+                    "player": "Suryakumar Yadav",
+                    "over": "19.6"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Arshdeep Singh",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "28",
+                    "wickets": "2",
+                    "economy": "7.00"
+                },
+                {
+                    "bowler": "Kyle Jamieson",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "0",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Marco Jansen",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "34",
+                    "wickets": "2",
+                    "economy": "8.50"
+                },
+                {
+                    "bowler": "Harpreet Brar",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "36",
+                    "wickets": "1",
+                    "economy": "9.00"
+                },
+                {
+                    "bowler": "Vijaykumar Vyshak",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "44",
+                    "wickets": "2",
+                    "economy": "11.00"
+                }
+            ]
+        },
+        "Punjab Kings": {
+            "batting": [
+                {
+                    "batsman": "Priyansh Arya",
+                    "dismissal": "c Yadav b Santner",
+                    "runs": 62,
+                    "balls": 35,
+                    "fours": 9,
+                    "sixes": 2,
+                    "strike_rate": 177.14
+                },
+                {
+                    "batsman": "Prabhsimran Singh",
+                    "dismissal": "c Ashwani Kumar b Bumrah",
+                    "runs": 13,
+                    "balls": 16,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 81.25
+                },
+                {
+                    "batsman": "Josh Inglis †",
+                    "dismissal": "lbw b Santner",
+                    "runs": 73,
+                    "balls": 42,
+                    "fours": 9,
+                    "sixes": 3,
+                    "strike_rate": 173.8
+                },
+                {
+                    "batsman": "Shreyas Iyer (c)",
+                    "dismissal": "not out",
+                    "runs": 26,
+                    "balls": 16,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strike_rate": 162.5
+                },
+                {
+                    "batsman": "Nehal Wadhera",
+                    "dismissal": "not out",
+                    "runs": 2,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 11,
+                "detail": "(b 1, lb 2, w 8)"
+            },
+            "total": {
+                "runs": "187/3",
+                "detail": "18.3 Ov (RR: 10.10)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "TA Boult",
+                    "overs": 3.3,
+                    "maidens": 0,
+                    "runs": 36,
+                    "wickets": 0,
+                    "economy": 10.28
+                },
+                {
+                    "bowler": "DL Chahar",
+                    "overs": 3.0,
+                    "maidens": 1,
+                    "runs": 28,
+                    "wickets": 0,
+                    "economy": 9.33
+                },
+                {
+                    "bowler": "JJ Bumrah",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 23,
+                    "wickets": 1,
+                    "economy": 5.75
+                },
+                {
+                    "bowler": "MJ Santner",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 41,
+                    "wickets": 2,
+                    "economy": 10.25
+                },
+                {
+                    "bowler": "HH Pandya",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 29,
+                    "wickets": 0,
+                    "economy": 14.5
+                },
+                {
+                    "bowler": "Ashwani Kumar",
+                    "overs": 1.0,
+                    "maidens": 0,
+                    "runs": 16,
+                    "wickets": 0,
+                    "economy": 16.0
+                },
+                {
+                    "bowler": "WG Jacks",
+                    "overs": 1.0,
+                    "maidens": 0,
+                    "runs": 11,
+                    "wickets": 0,
+                    "economy": 11.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Punjab Kings, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Josh Inglis",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.15, Second Session 21.15-22.45",
+        "match_days": "26 May 2025 - night (20-over match)",
+        "mi_player_replacement": "Impact player:  Ashwani Kumar in,  Rohit Sharma  out (2nd innings, 2.6 ov)",
+        "pbks_player_replacement": "Impact player:  Prabhsimran Singh in,  Vijaykumar Vyshak  out (1st innings, 19.6 ov)",
+        "umpires": "Chris Gaffaney DRS Parashar Joshi DRS",
+        "tv_umpire": "Jayaraman Madanagopal",
+        "reserve_umpire": "Bhavesh Patel",
+        "match_referee": "Daniel Manohar",
+        "points": "Punjab Kings 2, Mumbai Indians 0",
+        "extras": "(b 1, lb 2, w 8)",
+        "total": "187(3 wkts; 18.3 ovs)"
+    }
+}

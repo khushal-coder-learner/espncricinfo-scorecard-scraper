@@ -1,0 +1,355 @@
+{
+    "teams": {
+        "Mumbai Indians": {
+            "batting": [
+                {
+                    "batsman": "Ryan Rickelton †",
+                    "dismissal": "c Badoni b Rathi",
+                    "runs": 58,
+                    "balls": 32,
+                    "fours": 6,
+                    "sixes": 4,
+                    "strike_rate": 181.25
+                },
+                {
+                    "batsman": "Rohit Sharma",
+                    "dismissal": "c Prince Yadav b Yadav",
+                    "runs": 12,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 240.0
+                },
+                {
+                    "batsman": "Will Jacks",
+                    "dismissal": "b Prince Yadav",
+                    "runs": 29,
+                    "balls": 21,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 138.09
+                },
+                {
+                    "batsman": "Suryakumar Yadav",
+                    "dismissal": "c Marsh b Avesh Khan",
+                    "runs": 54,
+                    "balls": 28,
+                    "fours": 4,
+                    "sixes": 4,
+                    "strike_rate": 192.85
+                },
+                {
+                    "batsman": "Tilak Varma",
+                    "dismissal": "c Prince Yadav b Ravi Bishnoi",
+                    "runs": 6,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 120.0
+                },
+                {
+                    "batsman": "Hardik Pandya (c)",
+                    "dismissal": "b Yadav",
+                    "runs": 5,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 71.42
+                },
+                {
+                    "batsman": "Naman Dhir",
+                    "dismissal": "not out",
+                    "runs": 25,
+                    "balls": 11,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 227.27
+                },
+                {
+                    "batsman": "Corbin Bosch",
+                    "dismissal": "c Pooran b Avesh Khan",
+                    "runs": 20,
+                    "balls": 10,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Deepak Chahar",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 5,
+                "detail": "(w 5)"
+            },
+            "total": {
+                "runs": "215/7",
+                "detail": "20 Ov (RR: 10.75)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-33",
+                    "player": "Rohit Sharma",
+                    "over": "2.5"
+                },
+                {
+                    "score": "2-88",
+                    "player": "Ryan Rickelton",
+                    "over": "8.4"
+                },
+                {
+                    "score": "3-116",
+                    "player": "Will Jacks",
+                    "over": "11.3"
+                },
+                {
+                    "score": "4-137",
+                    "player": "Tilak Varma",
+                    "over": "12.6"
+                },
+                {
+                    "score": "5-157",
+                    "player": "Hardik Pandya",
+                    "over": "15.1"
+                },
+                {
+                    "score": "6-180",
+                    "player": "Suryakumar Yadav",
+                    "over": "17.3"
+                },
+                {
+                    "score": "7-208",
+                    "player": "Corbin Bosch",
+                    "over": "19.4"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mayank Yadav",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "40",
+                    "wickets": "2",
+                    "economy": "10.00"
+                },
+                {
+                    "bowler": "Prince Yadav",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "44",
+                    "wickets": "1",
+                    "economy": "11.00"
+                },
+                {
+                    "bowler": "Digvesh Rathi",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "48",
+                    "wickets": "1",
+                    "economy": "12.00"
+                },
+                {
+                    "bowler": "Ravi Bishnoi",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "41",
+                    "wickets": "1",
+                    "economy": "10.25"
+                },
+                {
+                    "bowler": "Avesh Khan",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "2",
+                    "economy": "10.50"
+                }
+            ]
+        },
+        "Lucknow Super Giants": {
+            "batting": [
+                {
+                    "batsman": "Mitchell Marsh",
+                    "dismissal": "c Tilak Varma b Boult",
+                    "runs": 34,
+                    "balls": 24,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 141.66
+                },
+                {
+                    "batsman": "Aiden Markram",
+                    "dismissal": "c Naman Dhir b Bumrah",
+                    "runs": 9,
+                    "balls": 11,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 81.81
+                },
+                {
+                    "batsman": "Nicholas Pooran",
+                    "dismissal": "c Yadav b Jacks",
+                    "runs": 27,
+                    "balls": 15,
+                    "fours": 1,
+                    "sixes": 3,
+                    "strike_rate": 180.0
+                },
+                {
+                    "batsman": "Rishabh Pant (c)†",
+                    "dismissal": "c KV Sharma b Jacks",
+                    "runs": 4,
+                    "balls": 2,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Ayush Badoni",
+                    "dismissal": "c Jacks b Boult",
+                    "runs": 35,
+                    "balls": 22,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 159.09
+                },
+                {
+                    "batsman": "David Miller",
+                    "dismissal": "c Bosch b Bumrah",
+                    "runs": 24,
+                    "balls": 16,
+                    "fours": 3,
+                    "sixes": 0,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Abdul Samad",
+                    "dismissal": "b Bumrah",
+                    "runs": 2,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Ravi Bishnoi",
+                    "dismissal": "b Bosch",
+                    "runs": 13,
+                    "balls": 14,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 92.85
+                },
+                {
+                    "batsman": "Avesh Khan",
+                    "dismissal": "b Bumrah",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Prince Yadav",
+                    "dismissal": "not out",
+                    "runs": 4,
+                    "balls": 9,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 44.44
+                },
+                {
+                    "batsman": "Digvesh Rathi",
+                    "dismissal": "b Boult",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                }
+            ],
+            "extras": {
+                "total": 8,
+                "detail": "(lb 2, nb 1, w 5)"
+            },
+            "total": {
+                "runs": "161",
+                "detail": "20 Ov (RR: 8.05)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "TA Boult",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 20,
+                    "wickets": 3,
+                    "economy": "5"
+                },
+                {
+                    "bowler": "JJ Bumrah",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 22,
+                    "wickets": 4,
+                    "economy": "5.5"
+                },
+                {
+                    "bowler": "WG Jacks",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 18,
+                    "wickets": 2,
+                    "economy": "9"
+                },
+                {
+                    "bowler": "KV Sharma",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 25,
+                    "wickets": 0,
+                    "economy": "12.5"
+                },
+                {
+                    "bowler": "HH Pandya",
+                    "overs": 1,
+                    "maidens": 0,
+                    "runs": 10,
+                    "wickets": 0,
+                    "economy": "10"
+                },
+                {
+                    "bowler": "C Bosch",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 26,
+                    "wickets": 1,
+                    "economy": "6.5"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Lucknow Super Giants, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Will Jacks",
+        "hours_of_play_local_time": "15.30 start, First Session 15.30-17.00, Interval 17.00-17.20, Second Session 17.20-18.50",
+        "match_days": "27 April 2025 - daynight (20-over match)",
+        "lsg_player_replacement": "Impact player:  David Miller in,  Nicholas Pooran  out (2nd innings, 11.2 ov)",
+        "mi_player_replacement": "Impact player:  Jasprit Bumrah in,  Rohit Sharma  out (1st innings, 19.6 ov)",
+        "umpires": "Chris Gaffaney DRS Jayaraman Madanagopal DRS",
+        "tv_umpire": "Vinod Seshan",
+        "reserve_umpire": "Abhijeet Bengeri",
+        "match_referee": "Daniel Manohar",
+        "points": "Mumbai Indians 2, Lucknow Super Giants 0",
+        "extras": "(lb 2, nb 1, w 5)",
+        "total": "161(10 wkts; 20 ovs)"
+    }
+}

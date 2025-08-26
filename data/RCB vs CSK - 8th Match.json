@@ -1,0 +1,354 @@
+{
+    "teams": {
+        "Royal Challengers Bengaluru": {
+            "batting": [
+                {
+                    "batsman": "Phil Salt",
+                    "dismissal": "st †Dhoni b Noor Ahmad",
+                    "runs": 32,
+                    "balls": 16,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Virat Kohli",
+                    "dismissal": "c Ravindra b Noor Ahmad",
+                    "runs": 31,
+                    "balls": 30,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 103.33
+                },
+                {
+                    "batsman": "Devdutt Padikkal",
+                    "dismissal": "c Gaikwad b Ashwin",
+                    "runs": 27,
+                    "balls": 14,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 192.85
+                },
+                {
+                    "batsman": "Rajat Patidar (c)",
+                    "dismissal": "c Curran b Pathirana",
+                    "runs": 51,
+                    "balls": 32,
+                    "fours": 4,
+                    "sixes": 3,
+                    "strike_rate": 159.37
+                },
+                {
+                    "batsman": "Liam Livingstone",
+                    "dismissal": "b Noor Ahmad",
+                    "runs": 10,
+                    "balls": 9,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 111.11
+                },
+                {
+                    "batsman": "Jitesh Sharma †",
+                    "dismissal": "c Jadeja b Ahmed",
+                    "runs": 12,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Tim David",
+                    "dismissal": "not out",
+                    "runs": 22,
+                    "balls": 8,
+                    "fours": 1,
+                    "sixes": 3,
+                    "strike_rate": 275.0
+                },
+                {
+                    "batsman": "Krunal Pandya",
+                    "dismissal": "c Hooda b Pathirana",
+                    "runs": 0,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Bhuvneshwar Kumar",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 11,
+                "detail": "(lb 3, w 8)"
+            },
+            "total": {
+                "runs": "196/7",
+                "detail": "20 Ov (RR: 9.80)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-45",
+                    "player": "Phil Salt",
+                    "over": "4.6"
+                },
+                {
+                    "score": "2-76",
+                    "player": "Devdutt Padikkal",
+                    "over": "7.5"
+                },
+                {
+                    "score": "3-117",
+                    "player": "Virat Kohli",
+                    "over": "12.2"
+                },
+                {
+                    "score": "4-145",
+                    "player": "Liam Livingstone",
+                    "over": "15.3"
+                },
+                {
+                    "score": "5-172",
+                    "player": "Jitesh Sharma",
+                    "over": "17.4"
+                },
+                {
+                    "score": "6-176",
+                    "player": "Rajat Patidar",
+                    "over": "18.1"
+                },
+                {
+                    "score": "7-177",
+                    "player": "Krunal Pandya",
+                    "over": "18.4"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Khaleel Ahmed",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "28",
+                    "wickets": "1",
+                    "economy": "7.00"
+                },
+                {
+                    "bowler": "Ravichandran Ashwin",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "22",
+                    "wickets": "1",
+                    "economy": "11.00"
+                },
+                {
+                    "bowler": "Sam Curran",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "34",
+                    "wickets": "0",
+                    "economy": "11.33"
+                },
+                {
+                    "bowler": "Noor Ahmad",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "36",
+                    "wickets": "3",
+                    "economy": "9.00"
+                },
+                {
+                    "bowler": "Ravindra Jadeja",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "37",
+                    "wickets": "0",
+                    "economy": "12.33"
+                },
+                {
+                    "bowler": "Matheesha Pathirana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "36",
+                    "wickets": "2",
+                    "economy": "9.00"
+                }
+            ]
+        },
+        "Chennai Super Kings": {
+            "batting": [
+                {
+                    "batsman": "Rachin Ravindra",
+                    "dismissal": "b Yash Dayal",
+                    "runs": 41,
+                    "balls": 31,
+                    "fours": 5,
+                    "sixes": 0,
+                    "strike_rate": 132.25
+                },
+                {
+                    "batsman": "Rahul Tripathi",
+                    "dismissal": "c Salt b Hazlewood",
+                    "runs": 5,
+                    "balls": 3,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 166.66
+                },
+                {
+                    "batsman": "Ruturaj Gaikwad (c)",
+                    "dismissal": "c sub (MS Bhandage) b Hazlewood",
+                    "runs": 0,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Deepak Hooda",
+                    "dismissal": "c †Sharma b Kumar",
+                    "runs": 4,
+                    "balls": 9,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 44.44
+                },
+                {
+                    "batsman": "Sam Curran",
+                    "dismissal": "c Pandya b Livingstone",
+                    "runs": 8,
+                    "balls": 13,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 61.53
+                },
+                {
+                    "batsman": "Shivam Dube",
+                    "dismissal": "b Yash Dayal",
+                    "runs": 19,
+                    "balls": 15,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 126.66
+                },
+                {
+                    "batsman": "Ravindra Jadeja",
+                    "dismissal": "c Salt b Hazlewood",
+                    "runs": 25,
+                    "balls": 19,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 131.57
+                },
+                {
+                    "batsman": "Ravichandran Ashwin",
+                    "dismissal": "c Salt b Livingstone",
+                    "runs": 11,
+                    "balls": 8,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 137.5
+                },
+                {
+                    "batsman": "MS Dhoni †",
+                    "dismissal": "not out",
+                    "runs": 30,
+                    "balls": 16,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 187.5
+                },
+                {
+                    "batsman": "Noor Ahmad",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 3,
+                "detail": "(b 1, w 2)"
+            },
+            "total": {
+                "runs": "146/8",
+                "detail": "20 Ov (RR: 7.30)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "B Kumar",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 20,
+                    "wickets": 1,
+                    "economy": 6.66
+                },
+                {
+                    "bowler": "JR Hazlewood",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 21,
+                    "wickets": 3,
+                    "economy": 5.25
+                },
+                {
+                    "bowler": "Yash Dayal",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 18,
+                    "wickets": 2,
+                    "economy": 6.0
+                },
+                {
+                    "bowler": "LS Livingstone",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 28,
+                    "wickets": 2,
+                    "economy": 7.0
+                },
+                {
+                    "bowler": "Suyash Sharma",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 32,
+                    "wickets": 0,
+                    "economy": 8.0
+                },
+                {
+                    "bowler": "KH Pandya",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 26,
+                    "wickets": 0,
+                    "economy": 13.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Chennai Super Kings, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Rajat Patidar",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "28 March 2025 - night (20-over match)",
+        "csk_player_replacement": "Impact player:  Shivam Dube in,  Matheesha Pathirana  out (2nd innings, 8.5 ov)",
+        "rcb_player_replacement": "Impact player:  Suyash Sharma in,  Devdutt Padikkal  out (2nd innings, 5.6 ov)",
+        "umpires": "Nitin Menon DRS Saiyed Khalid DRS",
+        "tv_umpire": "KN Ananthapadmanabhan",
+        "reserve_umpire": "Bhavesh Patel",
+        "match_referee": "Javagal Srinath",
+        "points": "Royal Challengers Bengaluru 2, Chennai Super Kings 0",
+        "extras": "(b 1, w 2)",
+        "total": "146(8 wkts; 20 ovs)"
+    }
+}

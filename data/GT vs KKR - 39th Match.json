@@ -1,0 +1,298 @@
+{
+    "teams": {
+        "Gujarat Titans": {
+            "batting": [
+                {
+                    "batsman": "Sai Sudharsan",
+                    "dismissal": "c †Rahmanullah Gurbaz b Russell",
+                    "runs": 52,
+                    "balls": 36,
+                    "fours": 6,
+                    "sixes": 1,
+                    "strike_rate": 144.44
+                },
+                {
+                    "batsman": "Shubman Gill (c)",
+                    "dismissal": "c Singh b Arora",
+                    "runs": 90,
+                    "balls": 55,
+                    "fours": 10,
+                    "sixes": 3,
+                    "strike_rate": 163.63
+                },
+                {
+                    "batsman": "Jos Buttler †",
+                    "dismissal": "not out",
+                    "runs": 41,
+                    "balls": 23,
+                    "fours": 8,
+                    "sixes": 0,
+                    "strike_rate": 178.26
+                },
+                {
+                    "batsman": "Rahul Tewatia",
+                    "dismissal": "c Ramandeep Singh b Harshit Rana",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "M Shahrukh Khan",
+                    "dismissal": "not out",
+                    "runs": 11,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 220.0
+                }
+            ],
+            "extras": {
+                "total": 4,
+                "detail": "(nb 1, w 3)"
+            },
+            "total": {
+                "runs": "198/3",
+                "detail": "20 Ov (RR: 9.90)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-114",
+                    "player": "Sai Sudharsan",
+                    "over": "12.2"
+                },
+                {
+                    "score": "2-172",
+                    "player": "Shubman Gill",
+                    "over": "17.5"
+                },
+                {
+                    "score": "3-177",
+                    "player": "Rahul Tewatia",
+                    "over": "18.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Vaibhav Arora",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "44",
+                    "wickets": "1",
+                    "economy": "11.00"
+                },
+                {
+                    "bowler": "Moeen Ali",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "27",
+                    "wickets": "0",
+                    "economy": "9.00"
+                },
+                {
+                    "bowler": "Harshit Rana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "45",
+                    "wickets": "1",
+                    "economy": "11.25"
+                },
+                {
+                    "bowler": "Varun Chakravarthy",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "33",
+                    "wickets": "0",
+                    "economy": "8.25"
+                },
+                {
+                    "bowler": "Sunil Narine",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "36",
+                    "wickets": "0",
+                    "economy": "9.00"
+                },
+                {
+                    "bowler": "Andre Russell",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "13",
+                    "wickets": "1",
+                    "economy": "13.00"
+                }
+            ]
+        },
+        "Kolkata Knight Riders": {
+            "batting": [
+                {
+                    "batsman": "Rahmanullah Gurbaz †",
+                    "dismissal": "lbw b Mohammed Siraj",
+                    "runs": 1,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 25.0
+                },
+                {
+                    "batsman": "Sunil Narine",
+                    "dismissal": "c Tewatia b Rashid Khan",
+                    "runs": 17,
+                    "balls": 13,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 130.76
+                },
+                {
+                    "batsman": "Ajinkya Rahane (c)",
+                    "dismissal": "st †Buttler b Washington Sundar",
+                    "runs": 50,
+                    "balls": 36,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 138.88
+                },
+                {
+                    "batsman": "Venkatesh Iyer",
+                    "dismissal": "c Washington Sundar b Sai Kishore",
+                    "runs": 14,
+                    "balls": 19,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 73.68
+                },
+                {
+                    "batsman": "Rinku Singh",
+                    "dismissal": "c Shubman Gill b Sharma",
+                    "runs": 17,
+                    "balls": 14,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 121.42
+                },
+                {
+                    "batsman": "Andre Russell",
+                    "dismissal": "st †Buttler b Rashid Khan",
+                    "runs": 21,
+                    "balls": 15,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 140.0
+                },
+                {
+                    "batsman": "Ramandeep Singh",
+                    "dismissal": "c & b Prasidh Krishna",
+                    "runs": 1,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Moeen Ali",
+                    "dismissal": "c Shahrukh Khan b Prasidh Krishna",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Angkrish Raghuvanshi",
+                    "dismissal": "not out",
+                    "runs": 27,
+                    "balls": 13,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 207.69
+                },
+                {
+                    "batsman": "Harshit Rana",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                }
+            ],
+            "extras": {
+                "total": 10,
+                "detail": "(lb 4, w 6)"
+            },
+            "total": {
+                "runs": "159/8",
+                "detail": "20 Ov (RR: 7.95)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Siraj",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 32,
+                    "wickets": 1,
+                    "economy": 8.0
+                },
+                {
+                    "bowler": "I Sharma",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 18,
+                    "wickets": 1,
+                    "economy": 9.0
+                },
+                {
+                    "bowler": "M Prasidh Krishna",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 25,
+                    "wickets": 2,
+                    "economy": 6.25
+                },
+                {
+                    "bowler": "Rashid Khan",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 25,
+                    "wickets": 2,
+                    "economy": 6.25
+                },
+                {
+                    "bowler": "Washington Sundar",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 36,
+                    "wickets": 1,
+                    "economy": 12.0
+                },
+                {
+                    "bowler": "R Sai Kishore",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 19,
+                    "wickets": 1,
+                    "economy": 6.33
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Kolkata Knight Riders, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Shubman Gill",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "21 April 2025 - night (20-over match)",
+        "kkr_player_replacement": "Impact player:  Angkrish Raghuvanshi in,  Vaibhav Arora  out (2nd innings, 16.3 ov)",
+        "gt_player_replacement": "Impact player:  Ishant Sharma in,  Sherfane Rutherford  out (1st innings, 19.6 ov)",
+        "umpires": "Anish Sahasrabudhe DRS Rohan Pandit DRS",
+        "tv_umpire": "Akshay Totre",
+        "reserve_umpire": "Amit Rana",
+        "match_referee": "Rajiv Seth",
+        "points": "Gujarat Titans 2, Kolkata Knight Riders 0",
+        "extras": "(lb 4, w 6)",
+        "total": "159(8 wkts; 20 ovs)"
+    }
+}

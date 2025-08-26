@@ -1,0 +1,383 @@
+{
+    "teams": {
+        "Kolkata Knight Riders": {
+            "batting": [
+                {
+                    "batsman": "Rahmanullah Gurbaz †",
+                    "dismissal": "c †Abishek Porel b Starc",
+                    "runs": 26,
+                    "balls": 12,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 216.66
+                },
+                {
+                    "batsman": "Sunil Narine",
+                    "dismissal": "lbw b Nigam",
+                    "runs": 27,
+                    "balls": 16,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 168.75
+                },
+                {
+                    "batsman": "Ajinkya Rahane (c)",
+                    "dismissal": "lbw b Patel",
+                    "runs": 26,
+                    "balls": 14,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strike_rate": 185.71
+                },
+                {
+                    "batsman": "Angkrish Raghuvanshi",
+                    "dismissal": "c Nair b Chameera",
+                    "runs": 44,
+                    "balls": 32,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 137.5
+                },
+                {
+                    "batsman": "Venkatesh Iyer",
+                    "dismissal": "c Nigam b Patel",
+                    "runs": 7,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 140.0
+                },
+                {
+                    "batsman": "Rinku Singh",
+                    "dismissal": "c Starc b Nigam",
+                    "runs": 36,
+                    "balls": 25,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 144.0
+                },
+                {
+                    "batsman": "Andre Russell",
+                    "dismissal": "run out (†Abishek Porel)",
+                    "runs": 17,
+                    "balls": 9,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 188.88
+                },
+                {
+                    "batsman": "Rovman Powell",
+                    "dismissal": "lbw b Starc",
+                    "runs": 5,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Anukul Roy",
+                    "dismissal": "c Chameera b Starc",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Harshit Rana",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Varun Chakravarthy",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 15,
+                "detail": "(lb 3, nb 1, w 11)"
+            },
+            "total": {
+                "runs": "204/9",
+                "detail": "20 Ov (RR: 10.20)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-48",
+                    "player": "Rahmanullah Gurbaz",
+                    "over": "2.6"
+                },
+                {
+                    "score": "2-85",
+                    "player": "Sunil Narine",
+                    "over": "6.4"
+                },
+                {
+                    "score": "3-91",
+                    "player": "Ajinkya Rahane",
+                    "over": "7.2"
+                },
+                {
+                    "score": "4-113",
+                    "player": "Venkatesh Iyer",
+                    "over": "9.2"
+                },
+                {
+                    "score": "5-174",
+                    "player": "Angkrish Raghuvanshi",
+                    "over": "16.5"
+                },
+                {
+                    "score": "6-177",
+                    "player": "Rinku Singh",
+                    "over": "17.3"
+                },
+                {
+                    "score": "7-203",
+                    "player": "Rovman Powell",
+                    "over": "19.3"
+                },
+                {
+                    "score": "8-203",
+                    "player": "Anukul Roy",
+                    "over": "19.4"
+                },
+                {
+                    "score": "9-203",
+                    "player": "Andre Russell",
+                    "over": "19.5"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mitchell Starc",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "43",
+                    "wickets": "3",
+                    "economy": "10.75"
+                },
+                {
+                    "bowler": "Dushmantha Chameera",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "46",
+                    "wickets": "1",
+                    "economy": "15.33"
+                },
+                {
+                    "bowler": "Mukesh Kumar",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "17",
+                    "wickets": "0",
+                    "economy": "8.50"
+                },
+                {
+                    "bowler": "Vipraj Nigam",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "41",
+                    "wickets": "2",
+                    "economy": "10.25"
+                },
+                {
+                    "bowler": "Axar Patel",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "27",
+                    "wickets": "2",
+                    "economy": "6.75"
+                },
+                {
+                    "bowler": "Kuldeep Yadav",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "27",
+                    "wickets": "0",
+                    "economy": "9.00"
+                }
+            ]
+        },
+        "Delhi Capitals": {
+            "batting": [
+                {
+                    "batsman": "Abishek Porel †",
+                    "dismissal": "c Russell b Roy",
+                    "runs": 4,
+                    "balls": 2,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Faf du Plessis",
+                    "dismissal": "c Singh b Narine",
+                    "runs": 62,
+                    "balls": 45,
+                    "fours": 7,
+                    "sixes": 2,
+                    "strike_rate": 137.77
+                },
+                {
+                    "batsman": "Karun Nair",
+                    "dismissal": "lbw b Arora",
+                    "runs": 15,
+                    "balls": 13,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 115.38
+                },
+                {
+                    "batsman": "KL Rahul",
+                    "dismissal": "run out (Narine)",
+                    "runs": 7,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 140.0
+                },
+                {
+                    "batsman": "Axar Patel (c)",
+                    "dismissal": "c Harshit Rana b Narine",
+                    "runs": 43,
+                    "balls": 23,
+                    "fours": 4,
+                    "sixes": 3,
+                    "strike_rate": 186.95
+                },
+                {
+                    "batsman": "Tristan Stubbs",
+                    "dismissal": "b Narine",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Vipraj Nigam",
+                    "dismissal": "b Russell",
+                    "runs": 38,
+                    "balls": 19,
+                    "fours": 5,
+                    "sixes": 2,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Ashutosh Sharma",
+                    "dismissal": "c Narine b Varun",
+                    "runs": 7,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 116.66
+                },
+                {
+                    "batsman": "Mitchell Starc",
+                    "dismissal": "c †Rahmanullah Gurbaz b Varun",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Dushmantha Chameera",
+                    "dismissal": "not out",
+                    "runs": 2,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Kuldeep Yadav",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 10,
+                "detail": "(b 5, nb 1, w 4)"
+            },
+            "total": {
+                "runs": "190/9",
+                "detail": "20 Ov (RR: 9.50)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "AS Roy",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 27,
+                    "wickets": 1,
+                    "economy": "6.75"
+                },
+                {
+                    "bowler": "VG Arora",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 19,
+                    "wickets": 1,
+                    "economy": "9.5"
+                },
+                {
+                    "bowler": "Harshit Rana",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 49,
+                    "wickets": 0,
+                    "economy": "12.25"
+                },
+                {
+                    "bowler": "CV Varun",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 39,
+                    "wickets": 2,
+                    "economy": "9.75"
+                },
+                {
+                    "bowler": "SP Narine",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 29,
+                    "wickets": 3,
+                    "economy": "7.25"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Delhi Capitals, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Sunil Narine",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "29 April 2025 - night (20-over match)",
+        "dc_player_replacement": "Impact player:  Ashutosh Sharma in,  Mukesh Kumar  out (2nd innings, 15.2 ov)",
+        "kkr_player_replacement": "Impact player:  Vaibhav Arora in,  Venkatesh Iyer  out (1st innings, 19.6 ov)",
+        "umpires": "Mohit Krishnadas DRS Saidharshan Kumar DRS",
+        "tv_umpire": "Nitin Menon",
+        "reserve_umpire": "Bhavesh Patel",
+        "match_referee": "Iqbal Siddiqui",
+        "points": "Kolkata Knight Riders 2, Delhi Capitals 0",
+        "extras": "(b 5, nb 1, w 4)",
+        "total": "190(9 wkts; 20 ovs)"
+    }
+}

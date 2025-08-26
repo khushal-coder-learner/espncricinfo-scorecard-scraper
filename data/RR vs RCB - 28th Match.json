@@ -1,0 +1,249 @@
+{
+    "teams": {
+        "Rajasthan Royals": {
+            "batting": [
+                {
+                    "batsman": "Yashasvi Jaiswal",
+                    "dismissal": "lbw b Hazlewood",
+                    "runs": 75,
+                    "balls": 47,
+                    "fours": 10,
+                    "sixes": 2,
+                    "strike_rate": 159.57
+                },
+                {
+                    "batsman": "Sanju Samson (c)†",
+                    "dismissal": "st †Sharma b Pandya",
+                    "runs": 15,
+                    "balls": 19,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 78.94
+                },
+                {
+                    "batsman": "Riyan Parag",
+                    "dismissal": "c Kohli b Yash Dayal",
+                    "runs": 30,
+                    "balls": 22,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 136.36
+                },
+                {
+                    "batsman": "Dhruv Jurel",
+                    "dismissal": "not out",
+                    "runs": 35,
+                    "balls": 23,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 152.17
+                },
+                {
+                    "batsman": "Shimron Hetmyer",
+                    "dismissal": "c Padikkal b Kumar",
+                    "runs": 9,
+                    "balls": 8,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 112.5
+                },
+                {
+                    "batsman": "Nitish Rana",
+                    "dismissal": "not out",
+                    "runs": 4,
+                    "balls": 1,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 400.0
+                }
+            ],
+            "extras": {
+                "total": 5,
+                "detail": "(lb 3, w 2)"
+            },
+            "total": {
+                "runs": "173/4",
+                "detail": "20 Ov (RR: 8.65)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-49",
+                    "player": "Sanju Samson",
+                    "over": "6.5"
+                },
+                {
+                    "score": "2-105",
+                    "player": "Riyan Parag",
+                    "over": "13.2"
+                },
+                {
+                    "score": "3-126",
+                    "player": "Yashasvi Jaiswal",
+                    "over": "15.6"
+                },
+                {
+                    "score": "4-169",
+                    "player": "Shimron Hetmyer",
+                    "over": "19.5"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Bhuvneshwar Kumar",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "32",
+                    "wickets": "1",
+                    "economy": "8.00"
+                },
+                {
+                    "bowler": "Yash Dayal",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "36",
+                    "wickets": "1",
+                    "economy": "9.00"
+                },
+                {
+                    "bowler": "Josh Hazlewood",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "26",
+                    "wickets": "1",
+                    "economy": "8.66"
+                },
+                {
+                    "bowler": "Krunal Pandya",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "29",
+                    "wickets": "1",
+                    "economy": "7.25"
+                },
+                {
+                    "bowler": "Liam Livingstone",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "8",
+                    "wickets": "0",
+                    "economy": "8.00"
+                },
+                {
+                    "bowler": "Suyash Sharma",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "0",
+                    "economy": "9.75"
+                }
+            ]
+        },
+        "Royal Challengers Bengaluru": {
+            "batting": [
+                {
+                    "batsman": "Phil Salt",
+                    "dismissal": "c Jaiswal b Kartikeya",
+                    "runs": 65,
+                    "balls": 33,
+                    "fours": 5,
+                    "sixes": 6,
+                    "strike_rate": 196.96
+                },
+                {
+                    "batsman": "Virat Kohli",
+                    "dismissal": "not out",
+                    "runs": 62,
+                    "balls": 45,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 137.77
+                },
+                {
+                    "batsman": "Devdutt Padikkal",
+                    "dismissal": "not out",
+                    "runs": 40,
+                    "balls": 28,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 142.85
+                }
+            ],
+            "extras": {
+                "total": 8,
+                "detail": "(nb 1, w 7)"
+            },
+            "total": {
+                "runs": "175/1",
+                "detail": "17.3 Ov (RR: 10.00)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "TU Deshpande",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 21,
+                    "wickets": 0,
+                    "economy": "10.5"
+                },
+                {
+                    "bowler": "Sandeep Sharma",
+                    "overs": 2.3,
+                    "maidens": 0,
+                    "runs": 29,
+                    "wickets": 0,
+                    "economy": "11.6"
+                },
+                {
+                    "bowler": "M Theekshana",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 21,
+                    "wickets": 0,
+                    "economy": "10.5"
+                },
+                {
+                    "bowler": "K Kartikeya",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 25,
+                    "wickets": 1,
+                    "economy": "8.33"
+                },
+                {
+                    "bowler": "PW Hasaranga",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 33,
+                    "wickets": 0,
+                    "economy": "11"
+                },
+                {
+                    "bowler": "R Parag",
+                    "overs": 1.0,
+                    "maidens": 0,
+                    "runs": 10,
+                    "wickets": 0,
+                    "economy": "10"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Royal Challengers Bengaluru, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Phil Salt",
+        "hours_of_play_local_time": "15.30 start, First Session 15.30-17.00, Interval 17.00-17.20, Second Session 17.20-18.50",
+        "match_days": "13 April 2025 - daynight (20-over match)",
+        "rcb_player_replacement": "Impact player:  Devdutt Padikkal in,  Suyash Sharma  out (1st innings, 16.6 ov)",
+        "rr_player_replacement": "Impact player:  Kumar Kartikeya in,  Nitish Rana  out (2nd innings, 4.6 ov)",
+        "umpires": "Nitin Menon DRS Saidharshan Kumar DRS",
+        "tv_umpire": "KN Ananthapadmanabhan",
+        "reserve_umpire": "Saiyed Khalid",
+        "match_referee": "Javagal Srinath",
+        "points": "Royal Challengers Bengaluru 2, Rajasthan Royals 0",
+        "extras": "(nb 1, w 7)",
+        "total": "175(1 wkt; 17.3 ovs)"
+    }
+}

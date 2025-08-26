@@ -1,0 +1,272 @@
+{
+    "teams": {
+        "Chennai Super Kings": {
+            "batting": [
+                {
+                    "batsman": "Shaik Rasheed",
+                    "dismissal": "st †Rickelton b Santner",
+                    "runs": 19,
+                    "balls": 20,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 95.0
+                },
+                {
+                    "batsman": "Rachin Ravindra",
+                    "dismissal": "c †Rickelton b Ashwani Kumar",
+                    "runs": 5,
+                    "balls": 9,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 55.55
+                },
+                {
+                    "batsman": "Ayush Mhatre",
+                    "dismissal": "c Santner b Chahar",
+                    "runs": 32,
+                    "balls": 15,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 213.33
+                },
+                {
+                    "batsman": "Ravindra Jadeja",
+                    "dismissal": "not out",
+                    "runs": 53,
+                    "balls": 35,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 151.42
+                },
+                {
+                    "batsman": "Shivam Dube",
+                    "dismissal": "c Jacks b Bumrah",
+                    "runs": 50,
+                    "balls": 32,
+                    "fours": 2,
+                    "sixes": 4,
+                    "strike_rate": 156.25
+                },
+                {
+                    "batsman": "MS Dhoni (c)†",
+                    "dismissal": "c Tilak Varma b Bumrah",
+                    "runs": 4,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Jamie Overton",
+                    "dismissal": "not out",
+                    "runs": 4,
+                    "balls": 3,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 133.33
+                }
+            ],
+            "extras": {
+                "total": 9,
+                "detail": "(lb 3, w 6)"
+            },
+            "total": {
+                "runs": "176/5",
+                "detail": "20 Ov (RR: 8.80)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-16",
+                    "player": "Rachin Ravindra",
+                    "over": "3.1"
+                },
+                {
+                    "score": "2-57",
+                    "player": "Ayush Mhatre",
+                    "over": "6.5"
+                },
+                {
+                    "score": "3-63",
+                    "player": "Shaik Rasheed",
+                    "over": "7.6"
+                },
+                {
+                    "score": "4-142",
+                    "player": "Shivam Dube",
+                    "over": "16.2"
+                },
+                {
+                    "score": "5-156",
+                    "player": "MS Dhoni",
+                    "over": "18.4"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Deepak Chahar",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "32",
+                    "wickets": "1",
+                    "economy": "8.00"
+                },
+                {
+                    "bowler": "Trent Boult",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "43",
+                    "wickets": "0",
+                    "economy": "10.75"
+                },
+                {
+                    "bowler": "Ashwani Kumar",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "1",
+                    "economy": "21.00"
+                },
+                {
+                    "bowler": "Mitchell Santner",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "14",
+                    "wickets": "1",
+                    "economy": "4.66"
+                },
+                {
+                    "bowler": "Jasprit Bumrah",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "25",
+                    "wickets": "2",
+                    "economy": "6.25"
+                },
+                {
+                    "bowler": "Will Jacks",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "4",
+                    "wickets": "0",
+                    "economy": "4.00"
+                },
+                {
+                    "bowler": "Hardik Pandya",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "13",
+                    "wickets": "0",
+                    "economy": "6.50"
+                }
+            ]
+        },
+        "Mumbai Indians": {
+            "batting": [
+                {
+                    "batsman": "Ryan Rickelton †",
+                    "dismissal": "c Mhatre b Jadeja",
+                    "runs": 24,
+                    "balls": 19,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 126.31
+                },
+                {
+                    "batsman": "Rohit Sharma",
+                    "dismissal": "not out",
+                    "runs": 76,
+                    "balls": 45,
+                    "fours": 4,
+                    "sixes": 6,
+                    "strike_rate": 168.88
+                },
+                {
+                    "batsman": "Suryakumar Yadav",
+                    "dismissal": "not out",
+                    "runs": 68,
+                    "balls": 30,
+                    "fours": 6,
+                    "sixes": 5,
+                    "strike_rate": 226.66
+                }
+            ],
+            "extras": {
+                "total": 9,
+                "detail": "(lb 1, w 8)"
+            },
+            "total": {
+                "runs": "177/1",
+                "detail": "15.4 Ov (RR: 11.29)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "KK Ahmed",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 24,
+                    "wickets": 0,
+                    "economy": 12.0
+                },
+                {
+                    "bowler": "J Overton",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 29,
+                    "wickets": 0,
+                    "economy": 14.5
+                },
+                {
+                    "bowler": "R Ashwin",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 25,
+                    "wickets": 0,
+                    "economy": 6.25
+                },
+                {
+                    "bowler": "RA Jadeja",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 28,
+                    "wickets": 1,
+                    "economy": 9.33
+                },
+                {
+                    "bowler": "Noor Ahmad",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 36,
+                    "wickets": 0,
+                    "economy": 12.0
+                },
+                {
+                    "bowler": "M Pathirana",
+                    "overs": 1.4,
+                    "maidens": 0,
+                    "runs": 34,
+                    "wickets": 0,
+                    "economy": 20.4
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Mumbai Indians, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Rohit Sharma",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "20 April 2025 - night (20-over match)",
+        "csk_player_replacement": "Impact player:  Ravichandran Ashwin in,  Shivam Dube  out (1st innings, 19.6 ov)",
+        "mi_player_replacement": "Impact player:  Rohit Sharma in,  Ashwani Kumar  out (1st innings, 19.6 ov)",
+        "t20_debut": "Ayush Mhatre",
+        "umpires": "Abhijit Bhattacharya DRS Virender Sharma DRS",
+        "tv_umpire": "Michael Gough",
+        "reserve_umpire": "Kannur Swaroopanand",
+        "match_referee": "Narayanan Kutty",
+        "points": "Mumbai Indians 2, Chennai Super Kings 0",
+        "extras": "(lb 1, w 8)",
+        "total": "177(1 wkt; 15.4 ovs)"
+    }
+}

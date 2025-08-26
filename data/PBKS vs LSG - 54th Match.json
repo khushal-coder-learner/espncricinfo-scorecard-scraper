@@ -1,0 +1,309 @@
+{
+    "teams": {
+        "Punjab Kings": {
+            "batting": [
+                {
+                    "batsman": "Priyansh Arya",
+                    "dismissal": "c Yadav b Akash Singh",
+                    "runs": 1,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 25.0
+                },
+                {
+                    "batsman": "Prabhsimran Singh",
+                    "dismissal": "c Pooran b Rathi",
+                    "runs": 91,
+                    "balls": 48,
+                    "fours": 6,
+                    "sixes": 7,
+                    "strike_rate": 189.58
+                },
+                {
+                    "batsman": "Josh Inglis †",
+                    "dismissal": "c Miller b Akash Singh",
+                    "runs": 30,
+                    "balls": 14,
+                    "fours": 1,
+                    "sixes": 4,
+                    "strike_rate": 214.28
+                },
+                {
+                    "batsman": "Shreyas Iyer (c)",
+                    "dismissal": "c Yadav b Rathi",
+                    "runs": 45,
+                    "balls": 25,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 180.0
+                },
+                {
+                    "batsman": "Nehal Wadhera",
+                    "dismissal": "b Prince Yadav",
+                    "runs": 16,
+                    "balls": 9,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 177.77
+                },
+                {
+                    "batsman": "Shashank Singh",
+                    "dismissal": "not out",
+                    "runs": 33,
+                    "balls": 15,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strike_rate": 220.0
+                },
+                {
+                    "batsman": "Marcus Stoinis",
+                    "dismissal": "not out",
+                    "runs": 15,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 300.0
+                }
+            ],
+            "extras": {
+                "total": 5,
+                "detail": "(w 5)"
+            },
+            "total": {
+                "runs": "236/5",
+                "detail": "20 Ov (RR: 11.80)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-2",
+                    "player": "Priyansh Arya",
+                    "over": "0.5"
+                },
+                {
+                    "score": "2-50",
+                    "player": "Josh Inglis",
+                    "over": "4.3"
+                },
+                {
+                    "score": "3-128",
+                    "player": "Shreyas Iyer",
+                    "over": "12.2"
+                },
+                {
+                    "score": "4-162",
+                    "player": "Nehal Wadhera",
+                    "over": "15.2"
+                },
+                {
+                    "score": "5-216",
+                    "player": "Prabhsimran Singh",
+                    "over": "18.5"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Akash Singh",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "30",
+                    "wickets": "2",
+                    "economy": "7.50"
+                },
+                {
+                    "bowler": "Mayank Yadav",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "60",
+                    "wickets": "0",
+                    "economy": "15.00"
+                },
+                {
+                    "bowler": "Avesh Khan",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "57",
+                    "wickets": "0",
+                    "economy": "14.25"
+                },
+                {
+                    "bowler": "Digvesh Rathi",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "46",
+                    "wickets": "2",
+                    "economy": "11.50"
+                },
+                {
+                    "bowler": "Prince Yadav",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "43",
+                    "wickets": "1",
+                    "economy": "10.75"
+                }
+            ]
+        },
+        "Lucknow Super Giants": {
+            "batting": [
+                {
+                    "batsman": "Aiden Markram",
+                    "dismissal": "b Arshdeep Singh",
+                    "runs": 13,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 130.0
+                },
+                {
+                    "batsman": "Mitchell Marsh",
+                    "dismissal": "c Wadhera b Arshdeep Singh",
+                    "runs": 0,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Nicholas Pooran",
+                    "dismissal": "lbw b Arshdeep Singh",
+                    "runs": 6,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 120.0
+                },
+                {
+                    "batsman": "Rishabh Pant (c)†",
+                    "dismissal": "c Shashank Singh b Azmatullah Omarzai",
+                    "runs": 18,
+                    "balls": 17,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 105.88
+                },
+                {
+                    "batsman": "Ayush Badoni",
+                    "dismissal": "c Arshdeep Singh b Chahal",
+                    "runs": 74,
+                    "balls": 40,
+                    "fours": 5,
+                    "sixes": 5,
+                    "strike_rate": 185.0
+                },
+                {
+                    "batsman": "David Miller",
+                    "dismissal": "c Shashank Singh b Azmatullah Omarzai",
+                    "runs": 11,
+                    "balls": 8,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 137.5
+                },
+                {
+                    "batsman": "Abdul Samad",
+                    "dismissal": "c & b Jansen",
+                    "runs": 45,
+                    "balls": 24,
+                    "fours": 2,
+                    "sixes": 4,
+                    "strike_rate": 187.5
+                },
+                {
+                    "batsman": "Avesh Khan",
+                    "dismissal": "not out",
+                    "runs": 19,
+                    "balls": 10,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 190.0
+                },
+                {
+                    "batsman": "Prince Yadav",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 12,
+                "detail": "(lb 3, w 9)"
+            },
+            "total": {
+                "runs": "199/7",
+                "detail": "20 Ov (RR: 9.95)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Arshdeep Singh",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 16,
+                    "wickets": 3,
+                    "economy": 4.0
+                },
+                {
+                    "bowler": "M Jansen",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 31,
+                    "wickets": 1,
+                    "economy": 7.75
+                },
+                {
+                    "bowler": "Azmatullah Omarzai",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 33,
+                    "wickets": 2,
+                    "economy": 8.25
+                },
+                {
+                    "bowler": "YS Chahal",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 50,
+                    "wickets": 1,
+                    "economy": 12.5
+                },
+                {
+                    "bowler": "V Vyshak",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 49,
+                    "wickets": 0,
+                    "economy": 16.33
+                },
+                {
+                    "bowler": "MP Stoinis",
+                    "overs": 1,
+                    "maidens": 0,
+                    "runs": 17,
+                    "wickets": 0,
+                    "economy": 17.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Lucknow Super Giants, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Prabhsimran Singh",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "04 May 2025 - night (20-over match)",
+        "lsg_player_replacement": "Impact player:  Mitchell Marsh in,  Akash Singh  out (1st innings, 19.6 ov)",
+        "pbks_player_replacement": "Impact player:  Vijaykumar Vyshak in,  Prabhsimran Singh  out (2nd innings, 3.6 ov)",
+        "umpires": "Jayaraman Madanagopal DRS Parashar Joshi DRS",
+        "tv_umpire": "Chris Gaffaney",
+        "reserve_umpire": "Bhavesh Patel",
+        "match_referee": "Daniel Manohar",
+        "points": "Punjab Kings 2, Lucknow Super Giants 0",
+        "extras": "(lb 3, w 9)",
+        "total": "199(7 wkts; 20 ovs)"
+    }
+}

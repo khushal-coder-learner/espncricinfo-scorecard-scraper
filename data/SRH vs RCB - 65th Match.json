@@ -1,0 +1,341 @@
+{
+    "teams": {
+        "Sunrisers Hyderabad": {
+            "batting": [
+                {
+                    "batsman": "Abhishek Sharma",
+                    "dismissal": "c Salt b Ngidi",
+                    "runs": 34,
+                    "balls": 17,
+                    "fours": 3,
+                    "sixes": 3,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Travis Head",
+                    "dismissal": "c Shepherd b Kumar",
+                    "runs": 17,
+                    "balls": 10,
+                    "fours": 3,
+                    "sixes": 0,
+                    "strike_rate": 170.0
+                },
+                {
+                    "batsman": "Ishan Kishan †",
+                    "dismissal": "not out",
+                    "runs": 94,
+                    "balls": 48,
+                    "fours": 7,
+                    "sixes": 5,
+                    "strike_rate": 195.83
+                },
+                {
+                    "batsman": "Heinrich Klaasen",
+                    "dismissal": "c Shepherd b Suyash Sharma",
+                    "runs": 24,
+                    "balls": 13,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 184.61
+                },
+                {
+                    "batsman": "Aniket Verma",
+                    "dismissal": "c Kumar b Pandya",
+                    "runs": 26,
+                    "balls": 9,
+                    "fours": 1,
+                    "sixes": 3,
+                    "strike_rate": 288.88
+                },
+                {
+                    "batsman": "Nitish Kumar Reddy",
+                    "dismissal": "c Pandya b Shepherd",
+                    "runs": 4,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 57.14
+                },
+                {
+                    "batsman": "Abhinav Manohar",
+                    "dismissal": "c Salt b Shepherd",
+                    "runs": 12,
+                    "balls": 11,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 109.09
+                },
+                {
+                    "batsman": "Pat Cummins (c)",
+                    "dismissal": "not out",
+                    "runs": 13,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 216.66
+                }
+            ],
+            "extras": {
+                "total": 7,
+                "detail": "(lb 4, nb 1, w 2)"
+            },
+            "total": {
+                "runs": "231/6",
+                "detail": "20 Ov (RR: 11.55)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-54",
+                    "player": "Abhishek Sharma",
+                    "over": "3.6"
+                },
+                {
+                    "score": "2-54",
+                    "player": "Travis Head",
+                    "over": "4.2"
+                },
+                {
+                    "score": "3-102",
+                    "player": "Heinrich Klaasen",
+                    "over": "8.5"
+                },
+                {
+                    "score": "4-145",
+                    "player": "Aniket Verma",
+                    "over": "11.4"
+                },
+                {
+                    "score": "5-164",
+                    "player": "Nitish Kumar Reddy",
+                    "over": "14.2"
+                },
+                {
+                    "score": "6-188",
+                    "player": "Abhinav Manohar",
+                    "over": "16.6"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Yash Dayal",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "36",
+                    "wickets": "0",
+                    "economy": "12.00"
+                },
+                {
+                    "bowler": "Bhuvneshwar Kumar",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "43",
+                    "wickets": "1",
+                    "economy": "10.75"
+                },
+                {
+                    "bowler": "Lungi Ngidi",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "51",
+                    "wickets": "1",
+                    "economy": "12.75"
+                },
+                {
+                    "bowler": "Suyash Sharma",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "45",
+                    "wickets": "1",
+                    "economy": "15.00"
+                },
+                {
+                    "bowler": "Krunal Pandya",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "38",
+                    "wickets": "1",
+                    "economy": "9.50"
+                },
+                {
+                    "bowler": "Romario Shepherd",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "14",
+                    "wickets": "2",
+                    "economy": "7.00"
+                }
+            ]
+        },
+        "Royal Challengers Bengaluru": {
+            "batting": [
+                {
+                    "batsman": "Phil Salt",
+                    "dismissal": "c Patel b Cummins",
+                    "runs": 62,
+                    "balls": 32,
+                    "fours": 4,
+                    "sixes": 5,
+                    "strike_rate": 193.75
+                },
+                {
+                    "batsman": "Virat Kohli",
+                    "dismissal": "c Abhishek Sharma b Dubey",
+                    "runs": 43,
+                    "balls": 25,
+                    "fours": 7,
+                    "sixes": 1,
+                    "strike_rate": 172.0
+                },
+                {
+                    "batsman": "Mayank Agarwal",
+                    "dismissal": "c †Ishan Kishan b Nitish Kumar Reddy",
+                    "runs": 11,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 110.0
+                },
+                {
+                    "batsman": "Rajat Patidar",
+                    "dismissal": "run out (Malinga)",
+                    "runs": 18,
+                    "balls": 16,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 112.5
+                },
+                {
+                    "batsman": "Jitesh Sharma (c)†",
+                    "dismissal": "c Manohar b Unadkat",
+                    "runs": 24,
+                    "balls": 15,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strike_rate": 160.0
+                },
+                {
+                    "batsman": "Romario Shepherd",
+                    "dismissal": "c & b Malinga",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Krunal Pandya",
+                    "dismissal": "hit wicket b Cummins",
+                    "runs": 8,
+                    "balls": 6,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 133.33
+                },
+                {
+                    "batsman": "Tim David",
+                    "dismissal": "c Klaasen b Malinga",
+                    "runs": 1,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 20.0
+                },
+                {
+                    "batsman": "Bhuvneshwar Kumar",
+                    "dismissal": "b Cummins",
+                    "runs": 3,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Yash Dayal",
+                    "dismissal": "c Verma b Patel",
+                    "runs": 3,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Lungi Ngidi",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 16,
+                "detail": "(lb 11, nb 1, w 4)"
+            },
+            "total": {
+                "runs": "189",
+                "detail": "19.5 Ov (RR: 9.52)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "PJ Cummins",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 28,
+                    "wickets": 3,
+                    "economy": "7"
+                },
+                {
+                    "bowler": "JD Unadkat",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 41,
+                    "wickets": 1,
+                    "economy": "10.25"
+                },
+                {
+                    "bowler": "E Malinga",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 37,
+                    "wickets": 2,
+                    "economy": "9.25"
+                },
+                {
+                    "bowler": "HS Dubey",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 20,
+                    "wickets": 1,
+                    "economy": "10"
+                },
+                {
+                    "bowler": "K Nitish Kumar Reddy",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 13,
+                    "wickets": 1,
+                    "economy": "6.5"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Royal Challengers Bengaluru, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Ishan Kishan",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.15, Second Session 21.15-22.45",
+        "match_days": "23 May 2025 - night (20-over match)",
+        "srh_player_replacement": "Impact player:  Harsh Dubey in,  Travis Head  out (1st innings, 19.6 ov)",
+        "rcb_player_replacement": "Impact player:  Rajat Patidar in,  Suyash Sharma  out (2nd innings, 10.4 ov)",
+        "umpires": "Kannur Swaroopanand DRS Michael Gough DRS",
+        "tv_umpire": "Ulhas Gandhe",
+        "reserve_umpire": "Abhijit Bhattacharya",
+        "match_referee": "Pankaj Dharmani",
+        "points": "Sunrisers Hyderabad 2, Royal Challengers Bengaluru 0",
+        "extras": "(lb 11, nb 1, w 4)",
+        "total": "189(10 wkts; 19.5 ovs)"
+    }
+}

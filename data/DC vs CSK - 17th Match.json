@@ -1,0 +1,297 @@
+{
+    "teams": {
+        "Delhi Capitals": {
+            "batting": [
+                {
+                    "batsman": "Jake Fraser-McGurk",
+                    "dismissal": "c Ashwin b Ahmed",
+                    "runs": 0,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "KL Rahul †",
+                    "dismissal": "c †Dhoni b Pathirana",
+                    "runs": 77,
+                    "balls": 51,
+                    "fours": 6,
+                    "sixes": 3,
+                    "strike_rate": 150.98
+                },
+                {
+                    "batsman": "Abishek Porel",
+                    "dismissal": "c Pathirana b Jadeja",
+                    "runs": 33,
+                    "balls": 20,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strike_rate": 165.0
+                },
+                {
+                    "batsman": "Axar Patel (c)",
+                    "dismissal": "b Noor Ahmad",
+                    "runs": 21,
+                    "balls": 14,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Sameer Rizvi",
+                    "dismissal": "c Jadeja b Ahmed",
+                    "runs": 20,
+                    "balls": 15,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 133.33
+                },
+                {
+                    "batsman": "Tristan Stubbs",
+                    "dismissal": "not out",
+                    "runs": 24,
+                    "balls": 12,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Ashutosh Sharma",
+                    "dismissal": "run out (Jadeja/†Dhoni)",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Vipraj Nigam",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                }
+            ],
+            "extras": {
+                "total": 6,
+                "detail": "(lb 1, w 5)"
+            },
+            "total": {
+                "runs": "183/6",
+                "detail": "20 Ov (RR: 9.15)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-0",
+                    "player": "Jake Fraser-McGurk",
+                    "over": "0.5"
+                },
+                {
+                    "score": "2-54",
+                    "player": "Abishek Porel",
+                    "over": "6.5"
+                },
+                {
+                    "score": "3-90",
+                    "player": "Axar Patel",
+                    "over": "10.4"
+                },
+                {
+                    "score": "4-146",
+                    "player": "Sameer Rizvi",
+                    "over": "16.1"
+                },
+                {
+                    "score": "5-179",
+                    "player": "KL Rahul",
+                    "over": "19.2"
+                },
+                {
+                    "score": "6-180",
+                    "player": "Ashutosh Sharma",
+                    "over": "19.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Khaleel Ahmed",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "25",
+                    "wickets": "2",
+                    "economy": "6.25"
+                },
+                {
+                    "bowler": "Mukesh Choudhary",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "50",
+                    "wickets": "0",
+                    "economy": "12.50"
+                },
+                {
+                    "bowler": "Ravichandran Ashwin",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "21",
+                    "wickets": "0",
+                    "economy": "7.00"
+                },
+                {
+                    "bowler": "Ravindra Jadeja",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "19",
+                    "wickets": "1",
+                    "economy": "9.50"
+                },
+                {
+                    "bowler": "Noor Ahmad",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "36",
+                    "wickets": "1",
+                    "economy": "12.00"
+                },
+                {
+                    "bowler": "Matheesha Pathirana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "31",
+                    "wickets": "1",
+                    "economy": "7.75"
+                }
+            ]
+        },
+        "Chennai Super Kings": {
+            "batting": [
+                {
+                    "batsman": "Rachin Ravindra",
+                    "dismissal": "c & b Mukesh Kumar",
+                    "runs": 3,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Devon Conway",
+                    "dismissal": "c Patel b Nigam",
+                    "runs": 13,
+                    "balls": 14,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 92.85
+                },
+                {
+                    "batsman": "Ruturaj Gaikwad (c)",
+                    "dismissal": "c Fraser-McGurk b Starc",
+                    "runs": 5,
+                    "balls": 4,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 125.0
+                },
+                {
+                    "batsman": "Vijay Shankar",
+                    "dismissal": "not out",
+                    "runs": 69,
+                    "balls": 54,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 127.77
+                },
+                {
+                    "batsman": "Shivam Dube",
+                    "dismissal": "c Stubbs b Nigam",
+                    "runs": 18,
+                    "balls": 15,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 120.0
+                },
+                {
+                    "batsman": "Ravindra Jadeja",
+                    "dismissal": "lbw b Kuldeep Yadav",
+                    "runs": 2,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "MS Dhoni †",
+                    "dismissal": "not out",
+                    "runs": 30,
+                    "balls": 26,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 115.38
+                }
+            ],
+            "extras": {
+                "total": 18,
+                "detail": "(lb 6, nb 2, w 10)"
+            },
+            "total": {
+                "runs": "158/5",
+                "detail": "20 Ov (RR: 7.90)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Mukesh Kumar",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 36,
+                    "wickets": 1,
+                    "economy": "9"
+                },
+                {
+                    "bowler": "V Nigam",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 27,
+                    "wickets": 2,
+                    "economy": "6.75"
+                },
+                {
+                    "bowler": "Kuldeep Yadav",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 30,
+                    "wickets": 1,
+                    "economy": "7.5"
+                },
+                {
+                    "bowler": "AR Patel",
+                    "overs": 1,
+                    "maidens": 0,
+                    "runs": 5,
+                    "wickets": 0,
+                    "economy": "5"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Delhi Capitals, elected to bat first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "KL Rahul",
+        "hours_of_play_local_time": "15.30 start, First Session 15.30-17.00, Interval 17.00-17.20, Second Session 17.20-18.50",
+        "match_days": "05 April 2025 - daynight (20-over match)",
+        "dc_player_replacement": "Impact player:  Mukesh Kumar in,  Ashutosh Sharma  out (1st innings, 19.6 ov)",
+        "csk_player_replacement": "Impact player:  Shivam Dube in,  Matheesha Pathirana  out (2nd innings, 5.3 ov)",
+        "umpires": "Abhijeet Bengeri DRS Parashar Joshi DRS",
+        "tv_umpire": "Vinod Seshan",
+        "reserve_umpire": "Tanmay Srivastava",
+        "match_referee": "Prakash Bhatt",
+        "points": "Delhi Capitals 2, Chennai Super Kings 0",
+        "extras": "(lb 6, nb 2, w 10)",
+        "total": "158(5 wkts; 20 ovs)"
+    }
+}

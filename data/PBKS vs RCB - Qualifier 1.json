@@ -1,0 +1,326 @@
+{
+    "teams": {
+        "Punjab Kings": {
+            "batting": [
+                {
+                    "batsman": "Priyansh Arya",
+                    "dismissal": "c Pandya b Yash Dayal",
+                    "runs": 7,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 140.0
+                },
+                {
+                    "batsman": "Prabhsimran Singh",
+                    "dismissal": "c †Sharma b Kumar",
+                    "runs": 18,
+                    "balls": 10,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 180.0
+                },
+                {
+                    "batsman": "Josh Inglis †",
+                    "dismissal": "c Kumar b Hazlewood",
+                    "runs": 4,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 57.14
+                },
+                {
+                    "batsman": "Shreyas Iyer (c)",
+                    "dismissal": "c †Sharma b Hazlewood",
+                    "runs": 2,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Nehal Wadhera",
+                    "dismissal": "b Yash Dayal",
+                    "runs": 8,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 80.0
+                },
+                {
+                    "batsman": "Marcus Stoinis",
+                    "dismissal": "b Suyash Sharma",
+                    "runs": 26,
+                    "balls": 17,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 152.94
+                },
+                {
+                    "batsman": "Shashank Singh",
+                    "dismissal": "b Suyash Sharma",
+                    "runs": 3,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 60.0
+                },
+                {
+                    "batsman": "Musheer Khan",
+                    "dismissal": "lbw b Suyash Sharma",
+                    "runs": 0,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Azmatullah Omarzai",
+                    "dismissal": "c †Sharma b Hazlewood",
+                    "runs": 18,
+                    "balls": 12,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Harpreet Brar",
+                    "dismissal": "b Shepherd",
+                    "runs": 4,
+                    "balls": 11,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 36.36
+                },
+                {
+                    "batsman": "Kyle Jamieson",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 11,
+                "detail": "(lb 5, nb 1, w 5)"
+            },
+            "total": {
+                "runs": "101",
+                "detail": "14.1 Ov (RR: 7.12)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-9",
+                    "player": "Priyansh Arya",
+                    "over": "1.2"
+                },
+                {
+                    "score": "2-27",
+                    "player": "Prabhsimran Singh",
+                    "over": "2.6"
+                },
+                {
+                    "score": "3-30",
+                    "player": "Shreyas Iyer",
+                    "over": "3.4"
+                },
+                {
+                    "score": "4-38",
+                    "player": "Josh Inglis",
+                    "over": "5.1"
+                },
+                {
+                    "score": "5-50",
+                    "player": "Nehal Wadhera",
+                    "over": "6.3"
+                },
+                {
+                    "score": "6-60",
+                    "player": "Shashank Singh",
+                    "over": "8.2"
+                },
+                {
+                    "score": "7-60",
+                    "player": "Musheer Khan",
+                    "over": "8.5"
+                },
+                {
+                    "score": "8-78",
+                    "player": "Marcus Stoinis",
+                    "over": "10.3"
+                },
+                {
+                    "score": "9-97",
+                    "player": "Harpreet Brar",
+                    "over": "13.3"
+                },
+                {
+                    "score": "10-101",
+                    "player": "Azmatullah Omarzai",
+                    "over": "14.1"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Bhuvneshwar Kumar",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "17",
+                    "wickets": "1",
+                    "economy": "8.50"
+                },
+                {
+                    "bowler": "Yash Dayal",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "26",
+                    "wickets": "2",
+                    "economy": "6.50"
+                },
+                {
+                    "bowler": "Josh Hazlewood",
+                    "overs": "3.1",
+                    "maidens": "0",
+                    "runs": "21",
+                    "wickets": "3",
+                    "economy": "6.63"
+                },
+                {
+                    "bowler": "Suyash Sharma",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "17",
+                    "wickets": "3",
+                    "economy": "5.66"
+                },
+                {
+                    "bowler": "Krunal Pandya",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "10",
+                    "wickets": "0",
+                    "economy": "10.00"
+                },
+                {
+                    "bowler": "Romario Shepherd",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "5",
+                    "wickets": "1",
+                    "economy": "5.00"
+                }
+            ]
+        },
+        "Royal Challengers Bengaluru": {
+            "batting": [
+                {
+                    "batsman": "Phil Salt",
+                    "dismissal": "not out",
+                    "runs": 56,
+                    "balls": 27,
+                    "fours": 6,
+                    "sixes": 3,
+                    "strike_rate": 207.4
+                },
+                {
+                    "batsman": "Virat Kohli",
+                    "dismissal": "c †Inglis b Jamieson",
+                    "runs": 12,
+                    "balls": 12,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Mayank Agarwal",
+                    "dismissal": "c Iyer b Musheer Khan",
+                    "runs": 19,
+                    "balls": 13,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 146.15
+                },
+                {
+                    "batsman": "Rajat Patidar (c)",
+                    "dismissal": "not out",
+                    "runs": 15,
+                    "balls": 8,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 187.5
+                }
+            ],
+            "extras": {
+                "total": 4,
+                "detail": "(lb 4)"
+            },
+            "total": {
+                "runs": "106/2",
+                "detail": "10 Ov (RR: 10.60)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Arshdeep Singh",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 20,
+                    "wickets": 0,
+                    "economy": 10.0
+                },
+                {
+                    "bowler": "KA Jamieson",
+                    "overs": 3,
+                    "maidens": 1,
+                    "runs": 27,
+                    "wickets": 1,
+                    "economy": 9.0
+                },
+                {
+                    "bowler": "Azmatullah Omarzai",
+                    "overs": 1,
+                    "maidens": 0,
+                    "runs": 10,
+                    "wickets": 0,
+                    "economy": 10.0
+                },
+                {
+                    "bowler": "Harpreet Brar",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 18,
+                    "wickets": 0,
+                    "economy": 9.0
+                },
+                {
+                    "bowler": "Musheer Khan",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 27,
+                    "wickets": 1,
+                    "economy": 13.5
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Royal Challengers Bengaluru, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Suyash Sharma",
+        "series_result": "Royal Challengers Bengaluru advanced",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.15, Second Session 21.15-22.45",
+        "match_days": "29 May 2025 - night (20-over match)",
+        "rcb_player_replacement": "Impact player:  Mayank Agarwal in,  Suyash Sharma  out (2nd innings, 3.2 ov)",
+        "pbks_player_replacement": "Impact player:  Musheer Khan in,  Prabhsimran Singh  out (1st innings, 8.2 ov)",
+        "t20_debut": "Musheer Khan",
+        "umpires": "Michael Gough DRS Virender Sharma DRS",
+        "tv_umpire": "Rohan Pandit",
+        "reserve_umpire": "Ulhas Gandhe",
+        "match_referee": "Narayanan Kutty",
+        "extras": "(lb 4)",
+        "total": "106(2 wkts; 10 ovs)"
+    }
+}

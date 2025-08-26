@@ -1,0 +1,309 @@
+{
+    "teams": {
+        "Kolkata Knight Riders": {
+            "batting": [
+                {
+                    "batsman": "Quinton de Kock †",
+                    "dismissal": "c Ashwani Kumar b Chahar",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Sunil Narine",
+                    "dismissal": "b Boult",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Ajinkya Rahane (c)",
+                    "dismissal": "c Tilak Varma b Ashwani Kumar",
+                    "runs": 11,
+                    "balls": 7,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 157.14
+                },
+                {
+                    "batsman": "Angkrish Raghuvanshi",
+                    "dismissal": "c Naman Dhir b Pandya",
+                    "runs": 26,
+                    "balls": 16,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 162.5
+                },
+                {
+                    "batsman": "Venkatesh Iyer",
+                    "dismissal": "c †Rickelton b Chahar",
+                    "runs": 3,
+                    "balls": 9,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Rinku Singh",
+                    "dismissal": "c Naman Dhir b Ashwani Kumar",
+                    "runs": 17,
+                    "balls": 14,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 121.42
+                },
+                {
+                    "batsman": "Manish Pandey",
+                    "dismissal": "b Ashwani Kumar",
+                    "runs": 19,
+                    "balls": 14,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 135.71
+                },
+                {
+                    "batsman": "Andre Russell",
+                    "dismissal": "b Ashwani Kumar",
+                    "runs": 5,
+                    "balls": 11,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 45.45
+                },
+                {
+                    "batsman": "Ramandeep Singh",
+                    "dismissal": "c Pandya b Santner",
+                    "runs": 22,
+                    "balls": 12,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strike_rate": 183.33
+                },
+                {
+                    "batsman": "Harshit Rana",
+                    "dismissal": "c Naman Dhir b Puthur",
+                    "runs": 4,
+                    "balls": 8,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Spencer Johnson",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                }
+            ],
+            "extras": {
+                "total": 7,
+                "detail": "(lb 2, nb 1, w 4)"
+            },
+            "total": {
+                "runs": "116",
+                "detail": "16.2 Ov (RR: 7.10)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-1",
+                    "player": "Sunil Narine",
+                    "over": "0.4"
+                },
+                {
+                    "score": "2-2",
+                    "player": "Quinton de Kock",
+                    "over": "1.1"
+                },
+                {
+                    "score": "3-25",
+                    "player": "Ajinkya Rahane",
+                    "over": "3.1"
+                },
+                {
+                    "score": "4-41",
+                    "player": "Venkatesh Iyer",
+                    "over": "5.4"
+                },
+                {
+                    "score": "5-45",
+                    "player": "Angkrish Raghuvanshi",
+                    "over": "6.6"
+                },
+                {
+                    "score": "6-74",
+                    "player": "Rinku Singh",
+                    "over": "10.3"
+                },
+                {
+                    "score": "7-80",
+                    "player": "Manish Pandey",
+                    "over": "10.6"
+                },
+                {
+                    "score": "8-88",
+                    "player": "Andre Russell",
+                    "over": "12.4"
+                },
+                {
+                    "score": "9-99",
+                    "player": "Harshit Rana",
+                    "over": "14.3"
+                },
+                {
+                    "score": "10-116",
+                    "player": "Ramandeep Singh",
+                    "over": "16.2"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Trent Boult",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "23",
+                    "wickets": "1",
+                    "economy": "5.75"
+                },
+                {
+                    "bowler": "Deepak Chahar",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "19",
+                    "wickets": "2",
+                    "economy": "9.50"
+                },
+                {
+                    "bowler": "Ashwani Kumar",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "24",
+                    "wickets": "4",
+                    "economy": "8.00"
+                },
+                {
+                    "bowler": "Hardik Pandya",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "10",
+                    "wickets": "1",
+                    "economy": "5.00"
+                },
+                {
+                    "bowler": "Vignesh Puthur",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "21",
+                    "wickets": "1",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Mitchell Santner",
+                    "overs": "3.2",
+                    "maidens": "0",
+                    "runs": "17",
+                    "wickets": "1",
+                    "economy": "5.10"
+                }
+            ]
+        },
+        "Mumbai Indians": {
+            "batting": [
+                {
+                    "batsman": "Rohit Sharma",
+                    "dismissal": "c Harshit Rana b Russell",
+                    "runs": 13,
+                    "balls": 12,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 108.33
+                },
+                {
+                    "batsman": "Ryan Rickelton †",
+                    "dismissal": "not out",
+                    "runs": 62,
+                    "balls": 41,
+                    "fours": 4,
+                    "sixes": 5,
+                    "strike_rate": 151.21
+                },
+                {
+                    "batsman": "Will Jacks",
+                    "dismissal": "c Rahane b Russell",
+                    "runs": 16,
+                    "balls": 17,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 94.11
+                },
+                {
+                    "batsman": "Suryakumar Yadav",
+                    "dismissal": "not out",
+                    "runs": 27,
+                    "balls": 9,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 300.0
+                }
+            ],
+            "extras": {
+                "total": 3,
+                "detail": "(nb 2, w 1)"
+            },
+            "total": {
+                "runs": "121/2",
+                "detail": "12.5 Ov (RR: 9.42)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "SH Johnson",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 14,
+                    "wickets": 0,
+                    "economy": "7"
+                },
+                {
+                    "bowler": "CV Varun",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 12,
+                    "wickets": 0,
+                    "economy": "4"
+                },
+                {
+                    "bowler": "SP Narine",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 32,
+                    "wickets": 0,
+                    "economy": "10.66"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Mumbai Indians, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Ashwani Kumar",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "31 March 2025 - night (20-over match)",
+        "kkr_player_replacement": "Impact player:  Manish Pandey in,  Angkrish Raghuvanshi  out (1st innings, 6.6 ov)",
+        "mi_player_replacement": "Impact player:  Rohit Sharma in,  Vignesh Puthur  out (1st innings, 14.6 ov)",
+        "umpires": "Saidharshan Kumar DRS Saiyed Khalid DRS",
+        "tv_umpire": "Nitin Menon",
+        "reserve_umpire": "Bhavesh Patel",
+        "match_referee": "Javagal Srinath",
+        "points": "Mumbai Indians 2, Kolkata Knight Riders 0",
+        "extras": "(nb 2, w 1)",
+        "total": "121(2 wkts; 12.5 ovs)"
+    }
+}

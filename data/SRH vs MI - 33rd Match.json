@@ -1,0 +1,300 @@
+{
+    "teams": {
+        "Sunrisers Hyderabad": {
+            "batting": [
+                {
+                    "batsman": "Abhishek Sharma",
+                    "dismissal": "c sub (RA Bawa) b Pandya",
+                    "runs": 40,
+                    "balls": 28,
+                    "fours": 7,
+                    "sixes": 0,
+                    "strike_rate": 142.85
+                },
+                {
+                    "batsman": "Travis Head",
+                    "dismissal": "c Santner b Jacks",
+                    "runs": 28,
+                    "balls": 29,
+                    "fours": 3,
+                    "sixes": 0,
+                    "strike_rate": 96.55
+                },
+                {
+                    "batsman": "Ishan Kishan",
+                    "dismissal": "st †Rickelton b Jacks",
+                    "runs": 2,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Nitish Kumar Reddy",
+                    "dismissal": "c Tilak Varma b Boult",
+                    "runs": 19,
+                    "balls": 21,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 90.47
+                },
+                {
+                    "batsman": "Heinrich Klaasen †",
+                    "dismissal": "b Bumrah",
+                    "runs": 37,
+                    "balls": 28,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 132.14
+                },
+                {
+                    "batsman": "Aniket Verma",
+                    "dismissal": "not out",
+                    "runs": 18,
+                    "balls": 8,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 225.0
+                },
+                {
+                    "batsman": "Pat Cummins (c)",
+                    "dismissal": "not out",
+                    "runs": 8,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                }
+            ],
+            "extras": {
+                "total": 10,
+                "detail": "(b 1, nb 1, w 8)"
+            },
+            "total": {
+                "runs": "162/5",
+                "detail": "20 Ov (RR: 8.10)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-59",
+                    "player": "Abhishek Sharma",
+                    "over": "7.3"
+                },
+                {
+                    "score": "2-68",
+                    "player": "Ishan Kishan",
+                    "over": "8.4"
+                },
+                {
+                    "score": "3-82",
+                    "player": "Travis Head",
+                    "over": "11.1"
+                },
+                {
+                    "score": "4-113",
+                    "player": "Nitish Kumar Reddy",
+                    "over": "16.4"
+                },
+                {
+                    "score": "5-136",
+                    "player": "Heinrich Klaasen",
+                    "over": "18.1"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Deepak Chahar",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "47",
+                    "wickets": "0",
+                    "economy": "11.75"
+                },
+                {
+                    "bowler": "Trent Boult",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "29",
+                    "wickets": "1",
+                    "economy": "7.25"
+                },
+                {
+                    "bowler": "Jasprit Bumrah",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "21",
+                    "wickets": "1",
+                    "economy": "5.25"
+                },
+                {
+                    "bowler": "Will Jacks",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "14",
+                    "wickets": "2",
+                    "economy": "4.66"
+                },
+                {
+                    "bowler": "Hardik Pandya",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "1",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Mitchell Santner",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "8",
+                    "wickets": "0",
+                    "economy": "8.00"
+                }
+            ]
+        },
+        "Mumbai Indians": {
+            "batting": [
+                {
+                    "batsman": "Ryan Rickelton †",
+                    "dismissal": "c Head b Patel",
+                    "runs": 31,
+                    "balls": 23,
+                    "fours": 5,
+                    "sixes": 0,
+                    "strike_rate": 134.78
+                },
+                {
+                    "batsman": "Rohit Sharma",
+                    "dismissal": "c Head b Cummins",
+                    "runs": 26,
+                    "balls": 16,
+                    "fours": 0,
+                    "sixes": 3,
+                    "strike_rate": 162.5
+                },
+                {
+                    "batsman": "Will Jacks",
+                    "dismissal": "c Zeeshan Ansari b Cummins",
+                    "runs": 36,
+                    "balls": 26,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 138.46
+                },
+                {
+                    "batsman": "Suryakumar Yadav",
+                    "dismissal": "c Zeeshan Ansari b Cummins",
+                    "runs": 26,
+                    "balls": 15,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 173.33
+                },
+                {
+                    "batsman": "Tilak Varma",
+                    "dismissal": "not out",
+                    "runs": 21,
+                    "balls": 17,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 123.52
+                },
+                {
+                    "batsman": "Hardik Pandya (c)",
+                    "dismissal": "c Ishan Kishan b Malinga",
+                    "runs": 21,
+                    "balls": 9,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 233.33
+                },
+                {
+                    "batsman": "Naman Dhir",
+                    "dismissal": "lbw b Malinga",
+                    "runs": 0,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Mitchell Santner",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 5,
+                "detail": "(lb 1, nb 1, w 3)"
+            },
+            "total": {
+                "runs": "166/6",
+                "detail": "18.1 Ov (RR: 9.13)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Shami",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 28,
+                    "wickets": 0,
+                    "economy": "9.33"
+                },
+                {
+                    "bowler": "PJ Cummins",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 26,
+                    "wickets": 3,
+                    "economy": "6.5"
+                },
+                {
+                    "bowler": "E Malinga",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 36,
+                    "wickets": 2,
+                    "economy": "9"
+                },
+                {
+                    "bowler": "HV Patel",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 31,
+                    "wickets": 1,
+                    "economy": "10.33"
+                },
+                {
+                    "bowler": "RD Chahar",
+                    "overs": 1.0,
+                    "maidens": 0,
+                    "runs": 9,
+                    "wickets": 0,
+                    "economy": "9"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Mumbai Indians, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Will Jacks",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "17 April 2025 - night (20-over match)",
+        "srh_player_replacement": "Impact player:  Rahul Chahar in,  Mohammed Shami  out (2nd innings, 6.6 ov)",
+        "mi_player_replacement": "Impact player:  Rohit Sharma in,  Karn Sharma  out (1st innings, 19.6 ov)",
+        "umpires": "Jayaraman Madanagopal DRS Vinod Seshan DRS",
+        "tv_umpire": "Chris Gaffaney",
+        "reserve_umpire": "Parashar Joshi",
+        "match_referee": "Prakash Bhatt",
+        "points": "Mumbai Indians 2, Sunrisers Hyderabad 0",
+        "extras": "(lb 1, nb 1, w 3)",
+        "total": "166(6 wkts; 18.1 ovs)"
+    }
+}

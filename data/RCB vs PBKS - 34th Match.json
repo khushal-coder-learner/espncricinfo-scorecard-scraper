@@ -1,0 +1,339 @@
+{
+    "teams": {
+        "Royal Challengers Bengaluru": {
+            "batting": [
+                {
+                    "batsman": "Phil Salt",
+                    "dismissal": "c †Inglis b Arshdeep Singh",
+                    "runs": 4,
+                    "balls": 4,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Virat Kohli",
+                    "dismissal": "c Jansen b Arshdeep Singh",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Rajat Patidar (c)",
+                    "dismissal": "c Bartlett b Chahal",
+                    "runs": 23,
+                    "balls": 18,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 127.77
+                },
+                {
+                    "batsman": "Liam Livingstone",
+                    "dismissal": "c Arya b Bartlett",
+                    "runs": 4,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Jitesh Sharma †",
+                    "dismissal": "c Wadhera b Chahal",
+                    "runs": 2,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 28.57
+                },
+                {
+                    "batsman": "Krunal Pandya",
+                    "dismissal": "c & b Jansen",
+                    "runs": 1,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Tim David",
+                    "dismissal": "not out",
+                    "runs": 50,
+                    "balls": 26,
+                    "fours": 5,
+                    "sixes": 3,
+                    "strike_rate": 192.3
+                },
+                {
+                    "batsman": "Manoj Bhandage",
+                    "dismissal": "lbw b Jansen",
+                    "runs": 1,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 25.0
+                },
+                {
+                    "batsman": "Bhuvneshwar Kumar",
+                    "dismissal": "c Bartlett b Harpreet Brar",
+                    "runs": 8,
+                    "balls": 13,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 61.53
+                },
+                {
+                    "batsman": "Yash Dayal",
+                    "dismissal": "lbw b Harpreet Brar",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Josh Hazlewood",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 1,
+                "detail": "(nb 1)"
+            },
+            "total": {
+                "runs": "95/9",
+                "detail": "14 Ov (RR: 6.78)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-4",
+                    "player": "Phil Salt",
+                    "over": "0.4"
+                },
+                {
+                    "score": "2-21",
+                    "player": "Virat Kohli",
+                    "over": "2.4"
+                },
+                {
+                    "score": "3-26",
+                    "player": "Liam Livingstone",
+                    "over": "3.6"
+                },
+                {
+                    "score": "4-32",
+                    "player": "Jitesh Sharma",
+                    "over": "5.5"
+                },
+                {
+                    "score": "5-33",
+                    "player": "Krunal Pandya",
+                    "over": "6.1"
+                },
+                {
+                    "score": "6-41",
+                    "player": "Rajat Patidar",
+                    "over": "7.4"
+                },
+                {
+                    "score": "7-42",
+                    "player": "Manoj Bhandage",
+                    "over": "8.2"
+                },
+                {
+                    "score": "8-63",
+                    "player": "Bhuvneshwar Kumar",
+                    "over": "11.4"
+                },
+                {
+                    "score": "9-63",
+                    "player": "Yash Dayal",
+                    "over": "11.5"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Arshdeep Singh",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "23",
+                    "wickets": "2",
+                    "economy": "7.66"
+                },
+                {
+                    "bowler": "Xavier Bartlett",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "26",
+                    "wickets": "1",
+                    "economy": "8.66"
+                },
+                {
+                    "bowler": "Marco Jansen",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "10",
+                    "wickets": "2",
+                    "economy": "3.33"
+                },
+                {
+                    "bowler": "Yuzvendra Chahal",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "11",
+                    "wickets": "2",
+                    "economy": "3.66"
+                },
+                {
+                    "bowler": "Harpreet Brar",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "25",
+                    "wickets": "2",
+                    "economy": "12.50"
+                }
+            ]
+        },
+        "Punjab Kings": {
+            "batting": [
+                {
+                    "batsman": "Priyansh Arya",
+                    "dismissal": "c David b Hazlewood",
+                    "runs": 16,
+                    "balls": 11,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 145.45
+                },
+                {
+                    "batsman": "Prabhsimran Singh",
+                    "dismissal": "c David b Kumar",
+                    "runs": 13,
+                    "balls": 9,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 144.44
+                },
+                {
+                    "batsman": "Shreyas Iyer (c)",
+                    "dismissal": "c †Sharma b Hazlewood",
+                    "runs": 7,
+                    "balls": 10,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 70.0
+                },
+                {
+                    "batsman": "Josh Inglis †",
+                    "dismissal": "c Suyash Sharma b Hazlewood",
+                    "runs": 14,
+                    "balls": 17,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 82.35
+                },
+                {
+                    "batsman": "Nehal Wadhera",
+                    "dismissal": "not out",
+                    "runs": 33,
+                    "balls": 19,
+                    "fours": 3,
+                    "sixes": 3,
+                    "strike_rate": 173.68
+                },
+                {
+                    "batsman": "Shashank Singh",
+                    "dismissal": "c Salt b Kumar",
+                    "runs": 1,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 20.0
+                },
+                {
+                    "batsman": "Marcus Stoinis",
+                    "dismissal": "not out",
+                    "runs": 7,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 350.0
+                }
+            ],
+            "extras": {
+                "total": 7,
+                "detail": "(b 4, lb 1, w 2)"
+            },
+            "total": {
+                "runs": "98/5",
+                "detail": "12.1 Ov (RR: 8.05)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "B Kumar",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 26,
+                    "wickets": 2,
+                    "economy": 8.66
+                },
+                {
+                    "bowler": "Yash Dayal",
+                    "overs": 2.1,
+                    "maidens": 0,
+                    "runs": 18,
+                    "wickets": 0,
+                    "economy": 8.3
+                },
+                {
+                    "bowler": "JR Hazlewood",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 14,
+                    "wickets": 3,
+                    "economy": 4.66
+                },
+                {
+                    "bowler": "KH Pandya",
+                    "overs": 1.0,
+                    "maidens": 0,
+                    "runs": 10,
+                    "wickets": 0,
+                    "economy": 10.0
+                },
+                {
+                    "bowler": "Suyash Sharma",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 25,
+                    "wickets": 0,
+                    "economy": 8.33
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Punjab Kings, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Tim David",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "18 April 2025 - night (20-over match)",
+        "rcb_player_replacement": "Impact player:  Manoj Bhandage in,  Liam Livingstone  out (1st innings, 7.4 ov)",
+        "pbks_player_replacement": "Impact player:  Prabhsimran Singh in,  Yuzvendra Chahal  out (1st innings, 13.6 ov)",
+        "umpires": "Ulhas Gandhe DRS Virender Sharma DRS",
+        "tv_umpire": "Michael Gough",
+        "reserve_umpire": "Kannur Swaroopanand",
+        "match_referee": "Narayanan Kutty",
+        "points": "Punjab Kings 2, Royal Challengers Bengaluru 0",
+        "extras": "(b 4, lb 1, w 2)",
+        "total": "98(5 wkts; 12.1 ovs)"
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "teams": {
+        "Delhi Capitals": {
+            "batting": [
+                {
+                    "batsman": "Abishek Porel",
+                    "dismissal": "c †Sharma b Hazlewood",
+                    "runs": 28,
+                    "balls": 11,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 254.54
+                },
+                {
+                    "batsman": "Faf du Plessis",
+                    "dismissal": "c Kohli b Pandya",
+                    "runs": 22,
+                    "balls": 26,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 84.61
+                },
+                {
+                    "batsman": "Karun Nair",
+                    "dismissal": "c Kumar b Yash Dayal",
+                    "runs": 4,
+                    "balls": 4,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "KL Rahul †",
+                    "dismissal": "c Bethell b Kumar",
+                    "runs": 41,
+                    "balls": 39,
+                    "fours": 3,
+                    "sixes": 0,
+                    "strike_rate": 105.12
+                },
+                {
+                    "batsman": "Axar Patel (c)",
+                    "dismissal": "b Hazlewood",
+                    "runs": 15,
+                    "balls": 13,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 115.38
+                },
+                {
+                    "batsman": "Tristan Stubbs",
+                    "dismissal": "c Hazlewood b Kumar",
+                    "runs": 34,
+                    "balls": 18,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 188.88
+                },
+                {
+                    "batsman": "Ashutosh Sharma",
+                    "dismissal": "b Kumar",
+                    "runs": 2,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Vipraj Nigam",
+                    "dismissal": "run out (Kohli/Kumar)",
+                    "runs": 12,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Mitchell Starc",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Dushmantha Chameera",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 4,
+                "detail": "(lb 1, nb 1, w 2)"
+            },
+            "total": {
+                "runs": "162/8",
+                "detail": "20 Ov (RR: 8.10)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-33",
+                    "player": "Abishek Porel",
+                    "over": "3.4"
+                },
+                {
+                    "score": "2-44",
+                    "player": "Karun Nair",
+                    "over": "4.4"
+                },
+                {
+                    "score": "3-72",
+                    "player": "Faf du Plessis",
+                    "over": "9.5"
+                },
+                {
+                    "score": "4-102",
+                    "player": "Axar Patel",
+                    "over": "13.4"
+                },
+                {
+                    "score": "5-118",
+                    "player": "KL Rahul",
+                    "over": "16.2"
+                },
+                {
+                    "score": "6-120",
+                    "player": "Ashutosh Sharma",
+                    "over": "16.5"
+                },
+                {
+                    "score": "7-158",
+                    "player": "Vipraj Nigam",
+                    "over": "19.2"
+                },
+                {
+                    "score": "8-162",
+                    "player": "Tristan Stubbs",
+                    "over": "19.5"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Bhuvneshwar Kumar",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "33",
+                    "wickets": "3",
+                    "economy": "8.25"
+                },
+                {
+                    "bowler": "Yash Dayal",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "1",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Josh Hazlewood",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "36",
+                    "wickets": "2",
+                    "economy": "9.00"
+                },
+                {
+                    "bowler": "Suyash Sharma",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "22",
+                    "wickets": "0",
+                    "economy": "5.50"
+                },
+                {
+                    "bowler": "Krunal Pandya",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "28",
+                    "wickets": "1",
+                    "economy": "7.00"
+                }
+            ]
+        },
+        "Royal Challengers Bengaluru": {
+            "batting": [
+                {
+                    "batsman": "Jacob Bethell",
+                    "dismissal": "c Nair b Patel",
+                    "runs": 12,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Virat Kohli",
+                    "dismissal": "c Starc b Chameera",
+                    "runs": 51,
+                    "balls": 47,
+                    "fours": 4,
+                    "sixes": 0,
+                    "strike_rate": 108.51
+                },
+                {
+                    "batsman": "Devdutt Padikkal",
+                    "dismissal": "b Patel",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Rajat Patidar (c)",
+                    "dismissal": "run out (Nair)",
+                    "runs": 6,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Krunal Pandya",
+                    "dismissal": "not out",
+                    "runs": 73,
+                    "balls": 47,
+                    "fours": 5,
+                    "sixes": 4,
+                    "strike_rate": 155.31
+                },
+                {
+                    "batsman": "Tim David",
+                    "dismissal": "not out",
+                    "runs": 19,
+                    "balls": 5,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 380.0
+                }
+            ],
+            "extras": {
+                "total": 4,
+                "detail": "(nb 2, w 2)"
+            },
+            "total": {
+                "runs": "165/4",
+                "detail": "18.3 Ov (RR: 8.91)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "AR Patel",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 19,
+                    "wickets": 2,
+                    "economy": "4.75"
+                },
+                {
+                    "bowler": "MA Starc",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 31,
+                    "wickets": 0,
+                    "economy": "10.33"
+                },
+                {
+                    "bowler": "Kuldeep Yadav",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 28,
+                    "wickets": 0,
+                    "economy": "7"
+                },
+                {
+                    "bowler": "PVD Chameera",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 24,
+                    "wickets": 1,
+                    "economy": "8"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Royal Challengers Bengaluru, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Krunal Pandya",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "27 April 2025 - night (20-over match)",
+        "dc_player_replacement": "Impact player:  Ashutosh Sharma in,  Faf du Plessis  out (1st innings, 16.2 ov)",
+        "rcb_player_replacement": "Impact player:  Devdutt Padikkal in,  Suyash Sharma  out (1st innings, 14.6 ov)",
+        "umpires": "Mohit Krishnadas DRS Nitin Menon DRS",
+        "tv_umpire": "Saidharshan Kumar",
+        "reserve_umpire": "Bhavesh Patel",
+        "match_referee": "Iqbal Siddiqui",
+        "points": "Royal Challengers Bengaluru 2, Delhi Capitals 0",
+        "extras": "(nb 2, w 2)",
+        "total": "165(4 wkts; 18.3 ovs)"
+    }
+}

@@ -1,0 +1,315 @@
+{
+    "teams": {
+        "Kolkata Knight Riders": {
+            "batting": [
+                {
+                    "batsman": "Quinton de Kock †",
+                    "dismissal": "c †Sharma b Hazlewood",
+                    "runs": 4,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 80.0
+                },
+                {
+                    "batsman": "Sunil Narine",
+                    "dismissal": "c †Sharma b Rasikh Salam",
+                    "runs": 44,
+                    "balls": 26,
+                    "fours": 5,
+                    "sixes": 3,
+                    "strike_rate": 169.23
+                },
+                {
+                    "batsman": "Ajinkya Rahane (c)",
+                    "dismissal": "c Rasikh Salam b Pandya",
+                    "runs": 56,
+                    "balls": 31,
+                    "fours": 6,
+                    "sixes": 4,
+                    "strike_rate": 180.64
+                },
+                {
+                    "batsman": "Venkatesh Iyer",
+                    "dismissal": "b Pandya",
+                    "runs": 6,
+                    "balls": 7,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 85.71
+                },
+                {
+                    "batsman": "Angkrish Raghuvanshi",
+                    "dismissal": "c †Sharma b Yash Dayal",
+                    "runs": 30,
+                    "balls": 22,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 136.36
+                },
+                {
+                    "batsman": "Rinku Singh",
+                    "dismissal": "b Pandya",
+                    "runs": 12,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 120.0
+                },
+                {
+                    "batsman": "Andre Russell",
+                    "dismissal": "b Suyash Sharma",
+                    "runs": 4,
+                    "balls": 3,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 133.33
+                },
+                {
+                    "batsman": "Ramandeep Singh",
+                    "dismissal": "not out",
+                    "runs": 6,
+                    "balls": 9,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Harshit Rana",
+                    "dismissal": "c †Sharma b Hazlewood",
+                    "runs": 5,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 83.33
+                },
+                {
+                    "batsman": "Spencer Johnson",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 6,
+                "detail": "(lb 2, w 4)"
+            },
+            "total": {
+                "runs": "174/8",
+                "detail": "20 Ov (RR: 8.70)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-4",
+                    "player": "Quinton de Kock",
+                    "over": "0.5"
+                },
+                {
+                    "score": "2-107",
+                    "player": "Sunil Narine",
+                    "over": "9.6"
+                },
+                {
+                    "score": "3-109",
+                    "player": "Ajinkya Rahane",
+                    "over": "10.3"
+                },
+                {
+                    "score": "4-125",
+                    "player": "Venkatesh Iyer",
+                    "over": "12.1"
+                },
+                {
+                    "score": "5-145",
+                    "player": "Rinku Singh",
+                    "over": "14.6"
+                },
+                {
+                    "score": "6-150",
+                    "player": "Andre Russell",
+                    "over": "15.4"
+                },
+                {
+                    "score": "7-168",
+                    "player": "Angkrish Raghuvanshi",
+                    "over": "18.5"
+                },
+                {
+                    "score": "8-173",
+                    "player": "Harshit Rana",
+                    "over": "19.5"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Josh Hazlewood",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "22",
+                    "wickets": "2",
+                    "economy": "5.50"
+                },
+                {
+                    "bowler": "Yash Dayal",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "25",
+                    "wickets": "1",
+                    "economy": "8.33"
+                },
+                {
+                    "bowler": "Rasikh Salam",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "35",
+                    "wickets": "1",
+                    "economy": "11.66"
+                },
+                {
+                    "bowler": "Krunal Pandya",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "29",
+                    "wickets": "3",
+                    "economy": "7.25"
+                },
+                {
+                    "bowler": "Suyash Sharma",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "47",
+                    "wickets": "1",
+                    "economy": "11.75"
+                },
+                {
+                    "bowler": "Liam Livingstone",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "14",
+                    "wickets": "0",
+                    "economy": "7.00"
+                }
+            ]
+        },
+        "Royal Challengers Bengaluru": {
+            "batting": [
+                {
+                    "batsman": "Phil Salt",
+                    "dismissal": "c Johnson b Varun",
+                    "runs": 56,
+                    "balls": 31,
+                    "fours": 9,
+                    "sixes": 2,
+                    "strike_rate": 180.64
+                },
+                {
+                    "batsman": "Virat Kohli",
+                    "dismissal": "not out",
+                    "runs": 59,
+                    "balls": 36,
+                    "fours": 4,
+                    "sixes": 3,
+                    "strike_rate": 163.88
+                },
+                {
+                    "batsman": "Devdutt Padikkal",
+                    "dismissal": "c Ramandeep Singh b Narine",
+                    "runs": 10,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Rajat Patidar (c)",
+                    "dismissal": "c Singh b Arora",
+                    "runs": 34,
+                    "balls": 16,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 212.5
+                },
+                {
+                    "batsman": "Liam Livingstone",
+                    "dismissal": "not out",
+                    "runs": 15,
+                    "balls": 5,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 300.0
+                }
+            ],
+            "extras": {
+                "total": 3,
+                "detail": "(lb 2, w 1)"
+            },
+            "total": {
+                "runs": "177/3",
+                "detail": "16.2 Ov (RR: 10.83)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "VG Arora",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 42,
+                    "wickets": 1,
+                    "economy": 14.0
+                },
+                {
+                    "bowler": "SH Johnson",
+                    "overs": 2.2,
+                    "maidens": 0,
+                    "runs": 31,
+                    "wickets": 0,
+                    "economy": 13.28
+                },
+                {
+                    "bowler": "CV Varun",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 43,
+                    "wickets": 1,
+                    "economy": 10.75
+                },
+                {
+                    "bowler": "Harshit Rana",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 32,
+                    "wickets": 0,
+                    "economy": 10.66
+                },
+                {
+                    "bowler": "SP Narine",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 27,
+                    "wickets": 1,
+                    "economy": 6.75
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Royal Challengers Bengaluru, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Krunal Pandya",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "22 March 2025 - night (20-over match)",
+        "rcb_player_replacement": "Impact player:  Devdutt Padikkal in,  Suyash Sharma  out (1st innings, 15.6 ov)",
+        "kkr_player_replacement": "Impact player:  Vaibhav Arora in,  Angkrish Raghuvanshi  out (1st innings, 19.6 ov)",
+        "umpires": "Abhijeet Bengeri Vinod Seshan",
+        "tv_umpire": "Jayaraman Madanagopal",
+        "reserve_umpire": "Tanmay Srivastava",
+        "match_referee": "Prakash Bhatt",
+        "points": "Royal Challengers Bengaluru 2, Kolkata Knight Riders 0",
+        "extras": "(lb 2, w 1)",
+        "total": "177(3 wkts; 16.2 ovs)"
+    }
+}

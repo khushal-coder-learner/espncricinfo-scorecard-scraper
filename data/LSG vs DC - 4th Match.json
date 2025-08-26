@@ -1,0 +1,385 @@
+{
+    "teams": {
+        "Lucknow Super Giants": {
+            "batting": [
+                {
+                    "batsman": "Aiden Markram",
+                    "dismissal": "c Starc b Nigam",
+                    "runs": 15,
+                    "balls": 13,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 115.38
+                },
+                {
+                    "batsman": "Mitchell Marsh",
+                    "dismissal": "c Stubbs b Mukesh Kumar",
+                    "runs": 72,
+                    "balls": 36,
+                    "fours": 6,
+                    "sixes": 6,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Nicholas Pooran",
+                    "dismissal": "b Starc",
+                    "runs": 75,
+                    "balls": 30,
+                    "fours": 6,
+                    "sixes": 7,
+                    "strike_rate": 250.0
+                },
+                {
+                    "batsman": "Rishabh Pant (c)†",
+                    "dismissal": "c du Plessis b Kuldeep Yadav",
+                    "runs": 0,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "David Miller",
+                    "dismissal": "not out",
+                    "runs": 27,
+                    "balls": 19,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strike_rate": 142.1
+                },
+                {
+                    "batsman": "Ayush Badoni",
+                    "dismissal": "c Stubbs b Kuldeep Yadav",
+                    "runs": 4,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 80.0
+                },
+                {
+                    "batsman": "Shardul Thakur",
+                    "dismissal": "run out (Patel/†Abishek Porel)",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Shahbaz Ahmed",
+                    "dismissal": "c sub (T Vijay) b Starc",
+                    "runs": 9,
+                    "balls": 8,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 112.5
+                },
+                {
+                    "batsman": "Ravi Bishnoi",
+                    "dismissal": "b Starc",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Digvesh Rathi",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 7,
+                "detail": "(lb 2, nb 1, w 4)"
+            },
+            "total": {
+                "runs": "209/8",
+                "detail": "20 Ov (RR: 10.45)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-46",
+                    "player": "Aiden Markram",
+                    "over": "4.4"
+                },
+                {
+                    "score": "2-133",
+                    "player": "Mitchell Marsh",
+                    "over": "11.4"
+                },
+                {
+                    "score": "3-161",
+                    "player": "Rishabh Pant",
+                    "over": "13.4"
+                },
+                {
+                    "score": "4-169",
+                    "player": "Nicholas Pooran",
+                    "over": "14.5"
+                },
+                {
+                    "score": "5-177",
+                    "player": "Ayush Badoni",
+                    "over": "16.2"
+                },
+                {
+                    "score": "6-177",
+                    "player": "Shardul Thakur",
+                    "over": "16.4"
+                },
+                {
+                    "score": "7-194",
+                    "player": "Shahbaz Ahmed",
+                    "over": "18.4"
+                },
+                {
+                    "score": "8-194",
+                    "player": "Ravi Bishnoi",
+                    "over": "18.6"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mitchell Starc",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "3",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Axar Patel",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "18",
+                    "wickets": "0",
+                    "economy": "6.00"
+                },
+                {
+                    "bowler": "Vipraj Nigam",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "35",
+                    "wickets": "1",
+                    "economy": "17.50"
+                },
+                {
+                    "bowler": "Mukesh Kumar",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "22",
+                    "wickets": "1",
+                    "economy": "11.00"
+                },
+                {
+                    "bowler": "Kuldeep Yadav",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "20",
+                    "wickets": "2",
+                    "economy": "5.00"
+                },
+                {
+                    "bowler": "Mohit Sharma",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "0",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Tristan Stubbs",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "28",
+                    "wickets": "0",
+                    "economy": "28.00"
+                }
+            ]
+        },
+        "Delhi Capitals": {
+            "batting": [
+                {
+                    "batsman": "Jake Fraser-McGurk",
+                    "dismissal": "c Badoni b Thakur",
+                    "runs": 1,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Faf du Plessis",
+                    "dismissal": "c Miller b Ravi Bishnoi",
+                    "runs": 29,
+                    "balls": 18,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 161.11
+                },
+                {
+                    "batsman": "Abishek Porel †",
+                    "dismissal": "c Pooran b Thakur",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Sameer Rizvi",
+                    "dismissal": "c †Pant b Siddharth",
+                    "runs": 4,
+                    "balls": 4,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Axar Patel (c)",
+                    "dismissal": "c Pooran b Rathi",
+                    "runs": 22,
+                    "balls": 11,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Tristan Stubbs",
+                    "dismissal": "b Siddharth",
+                    "runs": 34,
+                    "balls": 22,
+                    "fours": 1,
+                    "sixes": 3,
+                    "strike_rate": 154.54
+                },
+                {
+                    "batsman": "Ashutosh Sharma",
+                    "dismissal": "not out",
+                    "runs": 66,
+                    "balls": 31,
+                    "fours": 5,
+                    "sixes": 5,
+                    "strike_rate": 212.9
+                },
+                {
+                    "batsman": "Vipraj Nigam",
+                    "dismissal": "c Siddharth b Rathi",
+                    "runs": 39,
+                    "balls": 15,
+                    "fours": 5,
+                    "sixes": 2,
+                    "strike_rate": 260.0
+                },
+                {
+                    "batsman": "Mitchell Starc",
+                    "dismissal": "c †Pant b Ravi Bishnoi",
+                    "runs": 2,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 40.0
+                },
+                {
+                    "batsman": "Kuldeep Yadav",
+                    "dismissal": "run out (†Pant/Prince Yadav)",
+                    "runs": 5,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Mohit Sharma",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                }
+            ],
+            "extras": {
+                "total": 8,
+                "detail": "(w 8)"
+            },
+            "total": {
+                "runs": "211/9",
+                "detail": "19.3 Ov (RR: 10.82)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "SN Thakur",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 19,
+                    "wickets": 2,
+                    "economy": 9.5
+                },
+                {
+                    "bowler": "M Siddharth",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 39,
+                    "wickets": 2,
+                    "economy": 9.75
+                },
+                {
+                    "bowler": "DS Rathi",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 31,
+                    "wickets": 2,
+                    "economy": 7.75
+                },
+                {
+                    "bowler": "Ravi Bishnoi",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 53,
+                    "wickets": 2,
+                    "economy": 13.25
+                },
+                {
+                    "bowler": "Prince Yadav",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 47,
+                    "wickets": 0,
+                    "economy": 11.75
+                },
+                {
+                    "bowler": "Shahbaz Ahmed",
+                    "overs": 1.3,
+                    "maidens": 0,
+                    "runs": 22,
+                    "wickets": 0,
+                    "economy": 14.66
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Delhi Capitals, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Ashutosh Sharma",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "24 March 2025 - night (20-over match)",
+        "dc_player_replacement": "Impact player:  Ashutosh Sharma in,  Mukesh Kumar  out (2nd innings, 6.4 ov)",
+        "lsg_player_replacement": "Impact player:  Manimaran Siddharth in,  Mitchell Marsh  out (1st innings, 19.6 ov)",
+        "umpires": "Abhijit Bhattacharya DRS Ulhas Gandhe DRS",
+        "tv_umpire": "Virender Sharma",
+        "reserve_umpire": "Ajitesh Argal",
+        "match_referee": "Narayanan Kutty",
+        "points": "Delhi Capitals 2, Lucknow Super Giants 0",
+        "extras": "(w 8)",
+        "total": "211(9 wkts; 19.3 ovs)"
+    }
+}

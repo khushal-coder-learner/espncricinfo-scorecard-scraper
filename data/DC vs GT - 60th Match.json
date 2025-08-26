@@ -1,0 +1,235 @@
+{
+    "teams": {
+        "Delhi Capitals": {
+            "batting": [
+                {
+                    "batsman": "KL Rahul",
+                    "dismissal": "not out",
+                    "runs": 112,
+                    "balls": 65,
+                    "fours": 14,
+                    "sixes": 4,
+                    "strike_rate": 172.3
+                },
+                {
+                    "batsman": "Faf du Plessis",
+                    "dismissal": "c Mohammed Siraj b Arshad Khan",
+                    "runs": 5,
+                    "balls": 10,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Abishek Porel †",
+                    "dismissal": "c †Buttler b Sai Kishore",
+                    "runs": 30,
+                    "balls": 19,
+                    "fours": 1,
+                    "sixes": 3,
+                    "strike_rate": 157.89
+                },
+                {
+                    "batsman": "Axar Patel (c)",
+                    "dismissal": "c Sai Kishore b Prasidh Krishna",
+                    "runs": 25,
+                    "balls": 16,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 156.25
+                },
+                {
+                    "batsman": "Tristan Stubbs",
+                    "dismissal": "not out",
+                    "runs": 21,
+                    "balls": 10,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 210.0
+                }
+            ],
+            "extras": {
+                "total": 6,
+                "detail": "(lb 2, w 4)"
+            },
+            "total": {
+                "runs": "199/3",
+                "detail": "20 Ov (RR: 9.95)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-16",
+                    "player": "Faf du Plessis",
+                    "over": "3.2"
+                },
+                {
+                    "score": "2-106",
+                    "player": "Abishek Porel",
+                    "over": "11.6"
+                },
+                {
+                    "score": "3-151",
+                    "player": "Axar Patel",
+                    "over": "16.2"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Siraj",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "37",
+                    "wickets": "0",
+                    "economy": "9.25"
+                },
+                {
+                    "bowler": "Arshad Khan",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "7",
+                    "wickets": "1",
+                    "economy": "3.50"
+                },
+                {
+                    "bowler": "Kagiso Rabada",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "34",
+                    "wickets": "0",
+                    "economy": "17.00"
+                },
+                {
+                    "bowler": "Prasidh Krishna",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "40",
+                    "wickets": "1",
+                    "economy": "10.00"
+                },
+                {
+                    "bowler": "Rashid Khan",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "32",
+                    "wickets": "0",
+                    "economy": "8.00"
+                },
+                {
+                    "bowler": "Sai Kishore",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "47",
+                    "wickets": "1",
+                    "economy": "11.75"
+                }
+            ]
+        },
+        "Gujarat Titans": {
+            "batting": [
+                {
+                    "batsman": "Sai Sudharsan",
+                    "dismissal": "not out",
+                    "runs": 108,
+                    "balls": 61,
+                    "fours": 12,
+                    "sixes": 4,
+                    "strike_rate": 177.04
+                },
+                {
+                    "batsman": "Shubman Gill (c)",
+                    "dismissal": "not out",
+                    "runs": 93,
+                    "balls": 53,
+                    "fours": 3,
+                    "sixes": 7,
+                    "strike_rate": 175.47
+                },
+                {
+                    "batsman": "DRS",
+                    "dismissal": "DRS",
+                    "runs": 0,
+                    "balls": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 4,
+                "detail": "(lb 1, w 3)"
+            },
+            "total": {
+                "runs": "205/0",
+                "detail": "19 Ov (RR: 10.78)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "AR Patel",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 35,
+                    "wickets": 0,
+                    "economy": 11.66
+                },
+                {
+                    "bowler": "T Natarajan",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 49,
+                    "wickets": 0,
+                    "economy": 16.33
+                },
+                {
+                    "bowler": "Mustafizur Rahman",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 24,
+                    "wickets": 0,
+                    "economy": 8.0
+                },
+                {
+                    "bowler": "PVD Chameera",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 22,
+                    "wickets": 0,
+                    "economy": 11.0
+                },
+                {
+                    "bowler": "V Nigam",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 37,
+                    "wickets": 0,
+                    "economy": 9.25
+                },
+                {
+                    "bowler": "Kuldeep Yadav",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 37,
+                    "wickets": 0,
+                    "economy": 9.25
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Gujarat Titans, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Sai Sudharsan",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.15, Second Session 21.15-22.45",
+        "match_days": "18 May 2025 - night (20-over match)",
+        "dc_player_replacement": "Impact player:  Dushmantha Chameera in,  Ashutosh Sharma  out (1st innings, 19.6 ov)",
+        "gt_player_replacement": "Impact player:  Sai Sudharsan in,  Prasidh Krishna  out (1st innings, 19.6 ov)",
+        "umpires": "Adrian Holdstock DRS Keyur Kelkar DRS",
+        "tv_umpire": "Rohan Pandit",
+        "reserve_umpire": "Amit Rana",
+        "match_referee": "Arjan Kripal Singh",
+        "points": "Gujarat Titans 2, Delhi Capitals 0",
+        "extras": "(lb 1, w 3)",
+        "total": "205(0 wkts; 19 ovs)"
+    }
+}

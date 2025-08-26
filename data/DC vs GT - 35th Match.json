@@ -1,0 +1,315 @@
+{
+    "teams": {
+        "Delhi Capitals": {
+            "batting": [
+                {
+                    "batsman": "Abishek Porel",
+                    "dismissal": "c Mohammed Siraj b Arshad Khan",
+                    "runs": 18,
+                    "balls": 9,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Karun Nair",
+                    "dismissal": "c Arshad Khan b Prasidh Krishna",
+                    "runs": 31,
+                    "balls": 18,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 172.22
+                },
+                {
+                    "batsman": "KL Rahul †",
+                    "dismissal": "lbw b Prasidh Krishna",
+                    "runs": 28,
+                    "balls": 14,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Axar Patel (c)",
+                    "dismissal": "c †Buttler b Prasidh Krishna",
+                    "runs": 39,
+                    "balls": 32,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strike_rate": 121.87
+                },
+                {
+                    "batsman": "Tristan Stubbs",
+                    "dismissal": "c Prasidh Krishna b Mohammed Siraj",
+                    "runs": 31,
+                    "balls": 21,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 147.61
+                },
+                {
+                    "batsman": "Ashutosh Sharma",
+                    "dismissal": "c sub (MK Lomror) b Sai Kishore",
+                    "runs": 37,
+                    "balls": 19,
+                    "fours": 2,
+                    "sixes": 3,
+                    "strike_rate": 194.73
+                },
+                {
+                    "batsman": "Vipraj Nigam",
+                    "dismissal": "c †Buttler b Prasidh Krishna",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Donovan Ferreira",
+                    "dismissal": "c Sai Kishore b Sharma",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Mitchell Starc",
+                    "dismissal": "not out",
+                    "runs": 2,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Kuldeep Yadav",
+                    "dismissal": "not out",
+                    "runs": 4,
+                    "balls": 1,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 400.0
+                }
+            ],
+            "extras": {
+                "total": 12,
+                "detail": "(lb 3, w 9)"
+            },
+            "total": {
+                "runs": "203/8",
+                "detail": "20 Ov (RR: 10.15)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-23",
+                    "player": "Abishek Porel",
+                    "over": "1.4"
+                },
+                {
+                    "score": "2-58",
+                    "player": "KL Rahul",
+                    "over": "4.4"
+                },
+                {
+                    "score": "3-93",
+                    "player": "Karun Nair",
+                    "over": "8.2"
+                },
+                {
+                    "score": "4-146",
+                    "player": "Tristan Stubbs",
+                    "over": "14.2"
+                },
+                {
+                    "score": "5-173",
+                    "player": "Axar Patel",
+                    "over": "17.1"
+                },
+                {
+                    "score": "6-173",
+                    "player": "Vipraj Nigam",
+                    "over": "17.2"
+                },
+                {
+                    "score": "7-191",
+                    "player": "Donovan Ferreira",
+                    "over": "18.4"
+                },
+                {
+                    "score": "8-199",
+                    "player": "Ashutosh Sharma",
+                    "over": "19.5"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Siraj",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "47",
+                    "wickets": "1",
+                    "economy": "11.75"
+                },
+                {
+                    "bowler": "Arshad Khan",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "46",
+                    "wickets": "1",
+                    "economy": "11.50"
+                },
+                {
+                    "bowler": "Prasidh Krishna",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "41",
+                    "wickets": "4",
+                    "economy": "10.25"
+                },
+                {
+                    "bowler": "Rashid Khan",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "38",
+                    "wickets": "0",
+                    "economy": "9.50"
+                },
+                {
+                    "bowler": "Ishant Sharma",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "19",
+                    "wickets": "1",
+                    "economy": "6.33"
+                },
+                {
+                    "bowler": "Sai Kishore",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "9",
+                    "wickets": "1",
+                    "economy": "9.00"
+                }
+            ]
+        },
+        "Gujarat Titans": {
+            "batting": [
+                {
+                    "batsman": "Sai Sudharsan",
+                    "dismissal": "c Stubbs b Kuldeep Yadav",
+                    "runs": 36,
+                    "balls": 21,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 171.42
+                },
+                {
+                    "batsman": "Shubman Gill (c)",
+                    "dismissal": "run out (Nair)",
+                    "runs": 7,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 140.0
+                },
+                {
+                    "batsman": "Jos Buttler †",
+                    "dismissal": "not out",
+                    "runs": 97,
+                    "balls": 54,
+                    "fours": 11,
+                    "sixes": 4,
+                    "strike_rate": 179.62
+                },
+                {
+                    "batsman": "Sherfane Rutherford",
+                    "dismissal": "c Starc b Mukesh Kumar",
+                    "runs": 43,
+                    "balls": 34,
+                    "fours": 1,
+                    "sixes": 3,
+                    "strike_rate": 126.47
+                },
+                {
+                    "batsman": "Rahul Tewatia",
+                    "dismissal": "not out",
+                    "runs": 11,
+                    "balls": 3,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 366.66
+                }
+            ],
+            "extras": {
+                "total": 10,
+                "detail": "(lb 5, nb 1, w 4)"
+            },
+            "total": {
+                "runs": "204/3",
+                "detail": "19.2 Ov (RR: 10.55)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "MA Starc",
+                    "overs": 3.2,
+                    "maidens": 0,
+                    "runs": 49,
+                    "wickets": 0,
+                    "economy": "14.7"
+                },
+                {
+                    "bowler": "AR Patel",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 18,
+                    "wickets": 0,
+                    "economy": "9"
+                },
+                {
+                    "bowler": "V Nigam",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 34,
+                    "wickets": 0,
+                    "economy": "8.5"
+                },
+                {
+                    "bowler": "Kuldeep Yadav",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 30,
+                    "wickets": 1,
+                    "economy": "7.5"
+                },
+                {
+                    "bowler": "MM Sharma",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 28,
+                    "wickets": 0,
+                    "economy": "14"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Gujarat Titans, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Jos Buttler",
+        "hours_of_play_local_time": "15.30 start, First Session 15.30-17.00, Interval 17.00-17.20, Second Session 17.20-18.50",
+        "match_days": "19 April 2025 - daynight (20-over match)",
+        "dc_player_replacement": "Impact player:  Donovan Ferreira in,  Abishek Porel  out (1st innings, 17.2 ov)",
+        "gt_player_replacement": "Impact player:  Sherfane Rutherford in,  Ishant Sharma  out (1st innings, 18.6 ov)",
+        "umpires": "Akshay Totre DRS Keyur Kelkar DRS",
+        "tv_umpire": "Adrian Holdstock",
+        "reserve_umpire": "Anish Sahasrabudhe",
+        "match_referee": "Rajiv Seth",
+        "points": "Gujarat Titans 2, Delhi Capitals 0",
+        "extras": "(lb 5, nb 1, w 4)",
+        "total": "204(3 wkts; 19.2 ovs)"
+    }
+}

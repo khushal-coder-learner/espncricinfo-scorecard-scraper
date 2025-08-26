@@ -1,0 +1,286 @@
+{
+    "teams": {
+        "Punjab Kings": {
+            "batting": [
+                {
+                    "batsman": "Priyansh Arya",
+                    "dismissal": "c Nitish Kumar Reddy b Patel",
+                    "runs": 36,
+                    "balls": 13,
+                    "fours": 2,
+                    "sixes": 4,
+                    "strike_rate": 276.92
+                },
+                {
+                    "batsman": "Prabhsimran Singh †",
+                    "dismissal": "c Cummins b Malinga",
+                    "runs": 42,
+                    "balls": 23,
+                    "fours": 7,
+                    "sixes": 1,
+                    "strike_rate": 182.6
+                },
+                {
+                    "batsman": "Shreyas Iyer (c)",
+                    "dismissal": "c Head b Patel",
+                    "runs": 82,
+                    "balls": 36,
+                    "fours": 6,
+                    "sixes": 6,
+                    "strike_rate": 227.77
+                },
+                {
+                    "batsman": "Nehal Wadhera",
+                    "dismissal": "lbw b Malinga",
+                    "runs": 27,
+                    "balls": 22,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 122.72
+                },
+                {
+                    "batsman": "Shashank Singh",
+                    "dismissal": "lbw b Patel",
+                    "runs": 2,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Glenn Maxwell",
+                    "dismissal": "b Patel",
+                    "runs": 3,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 42.85
+                },
+                {
+                    "batsman": "Marcus Stoinis",
+                    "dismissal": "not out",
+                    "runs": 34,
+                    "balls": 11,
+                    "fours": 1,
+                    "sixes": 4,
+                    "strike_rate": 309.09
+                },
+                {
+                    "batsman": "Marco Jansen",
+                    "dismissal": "not out",
+                    "runs": 5,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 14,
+                "detail": "(lb 2, w 12)"
+            },
+            "total": {
+                "runs": "245/6",
+                "detail": "20 Ov (RR: 12.25)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-66",
+                    "player": "Priyansh Arya",
+                    "over": "3.6"
+                },
+                {
+                    "score": "2-91",
+                    "player": "Prabhsimran Singh",
+                    "over": "6.5"
+                },
+                {
+                    "score": "3-164",
+                    "player": "Nehal Wadhera",
+                    "over": "13.3"
+                },
+                {
+                    "score": "4-168",
+                    "player": "Shashank Singh",
+                    "over": "14.1"
+                },
+                {
+                    "score": "5-205",
+                    "player": "Glenn Maxwell",
+                    "over": "17.1"
+                },
+                {
+                    "score": "6-206",
+                    "player": "Shreyas Iyer",
+                    "over": "17.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Shami",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "75",
+                    "wickets": "0",
+                    "economy": "18.75"
+                },
+                {
+                    "bowler": "Pat Cummins",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "40",
+                    "wickets": "0",
+                    "economy": "10.00"
+                },
+                {
+                    "bowler": "Harshal Patel",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "4",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Eshan Malinga",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "45",
+                    "wickets": "2",
+                    "economy": "11.25"
+                },
+                {
+                    "bowler": "Zeeshan Ansari",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "41",
+                    "wickets": "0",
+                    "economy": "10.25"
+                }
+            ]
+        },
+        "Sunrisers Hyderabad": {
+            "batting": [
+                {
+                    "batsman": "Travis Head",
+                    "dismissal": "c Maxwell b Chahal",
+                    "runs": 66,
+                    "balls": 37,
+                    "fours": 9,
+                    "sixes": 3,
+                    "strike_rate": 178.37
+                },
+                {
+                    "batsman": "Abhishek Sharma",
+                    "dismissal": "c sub (P Dubey) b Arshdeep Singh",
+                    "runs": 141,
+                    "balls": 55,
+                    "fours": 14,
+                    "sixes": 10,
+                    "strike_rate": 256.36
+                },
+                {
+                    "batsman": "Heinrich Klaasen †",
+                    "dismissal": "not out",
+                    "runs": 21,
+                    "balls": 14,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Ishan Kishan",
+                    "dismissal": "not out",
+                    "runs": 9,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 150.0
+                }
+            ],
+            "extras": {
+                "total": 10,
+                "detail": "(lb 1, nb 1, w 8)"
+            },
+            "total": {
+                "runs": "247/2",
+                "detail": "18.3 Ov (RR: 13.35)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Arshdeep Singh",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 37,
+                    "wickets": 1,
+                    "economy": "9.25"
+                },
+                {
+                    "bowler": "M Jansen",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 39,
+                    "wickets": 0,
+                    "economy": "19.5"
+                },
+                {
+                    "bowler": "GJ Maxwell",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 40,
+                    "wickets": 0,
+                    "economy": "13.33"
+                },
+                {
+                    "bowler": "LH Ferguson",
+                    "overs": 0.2,
+                    "maidens": 0,
+                    "runs": 1,
+                    "wickets": 0,
+                    "economy": "3"
+                },
+                {
+                    "bowler": "MP Stoinis",
+                    "overs": 0.4,
+                    "maidens": 0,
+                    "runs": 6,
+                    "wickets": 0,
+                    "economy": "9"
+                },
+                {
+                    "bowler": "YS Chahal",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 56,
+                    "wickets": 1,
+                    "economy": "14"
+                },
+                {
+                    "bowler": "Shashank Singh",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 27,
+                    "wickets": 0,
+                    "economy": "13.5"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Punjab Kings, elected to bat first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Abhishek Sharma",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "12 April 2025 - night (20-over match)",
+        "srh_player_replacement": "Impact player:  Abhinav Manohar in,  Eshan Malinga  out (1st innings, 17.6 ov)",
+        "pbks_player_replacement": "Impact player:  Yash Thakur in,  Priyansh Arya  out (2nd innings, 2.6 ov)",
+        "umpires": "Akshay Totre DRS Keyur Kelkar DRS",
+        "tv_umpire": "Adrian Holdstock",
+        "reserve_umpire": "Anish Sahasrabudhe",
+        "match_referee": "Shakti Singh",
+        "points": "Sunrisers Hyderabad 2, Punjab Kings 0",
+        "extras": "(lb 1, nb 1, w 8)",
+        "total": "247(2 wkts; 18.3 ovs)"
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "teams": {
+        "Punjab Kings": {
+            "batting": [
+                {
+                    "batsman": "Priyansh Arya",
+                    "dismissal": "c Hetmyer b Deshpande",
+                    "runs": 9,
+                    "balls": 7,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 128.57
+                },
+                {
+                    "batsman": "Prabhsimran Singh †",
+                    "dismissal": "c †Samson b Deshpande",
+                    "runs": 21,
+                    "balls": 10,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 210.0
+                },
+                {
+                    "batsman": "Mitchell Owen",
+                    "dismissal": "c †Samson b Maphaka",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Nehal Wadhera",
+                    "dismissal": "c Hetmyer b Madhwal",
+                    "runs": 70,
+                    "balls": 37,
+                    "fours": 5,
+                    "sixes": 5,
+                    "strike_rate": 189.18
+                },
+                {
+                    "batsman": "Shreyas Iyer (c)",
+                    "dismissal": "c Jaiswal b Parag",
+                    "runs": 30,
+                    "balls": 25,
+                    "fours": 5,
+                    "sixes": 0,
+                    "strike_rate": 120.0
+                },
+                {
+                    "batsman": "Shashank Singh",
+                    "dismissal": "not out",
+                    "runs": 59,
+                    "balls": 30,
+                    "fours": 5,
+                    "sixes": 3,
+                    "strike_rate": 196.66
+                },
+                {
+                    "batsman": "Azmatullah Omarzai",
+                    "dismissal": "not out",
+                    "runs": 21,
+                    "balls": 9,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 233.33
+                }
+            ],
+            "extras": {
+                "total": 9,
+                "detail": "(lb 4, w 5)"
+            },
+            "total": {
+                "runs": "219/5",
+                "detail": "20 Ov (RR: 10.95)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-19",
+                    "player": "Priyansh Arya",
+                    "over": "1.5"
+                },
+                {
+                    "score": "2-34",
+                    "player": "Mitchell Owen",
+                    "over": "2.6"
+                },
+                {
+                    "score": "3-34",
+                    "player": "Prabhsimran Singh",
+                    "over": "3.1"
+                },
+                {
+                    "score": "4-101",
+                    "player": "Shreyas Iyer",
+                    "over": "10.3"
+                },
+                {
+                    "score": "5-159",
+                    "player": "Nehal Wadhera",
+                    "over": "15.6"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Fazalhaq Farooqi",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "0",
+                    "economy": "13.00"
+                },
+                {
+                    "bowler": "Tushar Deshpande",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "37",
+                    "wickets": "2",
+                    "economy": "9.25"
+                },
+                {
+                    "bowler": "Kwena Maphaka",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "32",
+                    "wickets": "1",
+                    "economy": "10.66"
+                },
+                {
+                    "bowler": "Riyan Parag",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "26",
+                    "wickets": "1",
+                    "economy": "8.66"
+                },
+                {
+                    "bowler": "Wanindu Hasaranga",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "33",
+                    "wickets": "0",
+                    "economy": "11.00"
+                },
+                {
+                    "bowler": "Akash Madhwal",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "48",
+                    "wickets": "1",
+                    "economy": "12.00"
+                }
+            ]
+        },
+        "Rajasthan Royals": {
+            "batting": [
+                {
+                    "batsman": "Yashasvi Jaiswal",
+                    "dismissal": "c Owen b Harpreet Brar",
+                    "runs": 50,
+                    "balls": 25,
+                    "fours": 9,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Vaibhav Suryavanshi",
+                    "dismissal": "c Bartlett b Harpreet Brar",
+                    "runs": 40,
+                    "balls": 15,
+                    "fours": 4,
+                    "sixes": 4,
+                    "strike_rate": 266.66
+                },
+                {
+                    "batsman": "Sanju Samson (c)†",
+                    "dismissal": "c Jansen b Azmatullah Omarzai",
+                    "runs": 20,
+                    "balls": 16,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 125.0
+                },
+                {
+                    "batsman": "Riyan Parag",
+                    "dismissal": "b Harpreet Brar",
+                    "runs": 13,
+                    "balls": 11,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 118.18
+                },
+                {
+                    "batsman": "Dhruv Jurel",
+                    "dismissal": "c Owen b Jansen",
+                    "runs": 53,
+                    "balls": 31,
+                    "fours": 3,
+                    "sixes": 4,
+                    "strike_rate": 170.96
+                },
+                {
+                    "batsman": "Shimron Hetmyer",
+                    "dismissal": "c Bartlett b Azmatullah Omarzai",
+                    "runs": 11,
+                    "balls": 12,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 91.66
+                },
+                {
+                    "batsman": "Shubham Dubey",
+                    "dismissal": "not out",
+                    "runs": 7,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Wanindu Hasaranga",
+                    "dismissal": "c †Prabhsimran Singh b Jansen",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Kwena Maphaka",
+                    "dismissal": "not out",
+                    "runs": 8,
+                    "balls": 2,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 400.0
+                }
+            ],
+            "extras": {
+                "total": 7,
+                "detail": "(w 7)"
+            },
+            "total": {
+                "runs": "209/7",
+                "detail": "20 Ov (RR: 10.45)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Arshdeep Singh",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 60,
+                    "wickets": 0,
+                    "economy": 15.0
+                },
+                {
+                    "bowler": "M Jansen",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 41,
+                    "wickets": 2,
+                    "economy": 13.66
+                },
+                {
+                    "bowler": "XC Bartlett",
+                    "overs": 1,
+                    "maidens": 0,
+                    "runs": 12,
+                    "wickets": 0,
+                    "economy": 12.0
+                },
+                {
+                    "bowler": "Harpreet Brar",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 22,
+                    "wickets": 3,
+                    "economy": 5.5
+                },
+                {
+                    "bowler": "YS Chahal",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 30,
+                    "wickets": 0,
+                    "economy": 7.5
+                },
+                {
+                    "bowler": "Azmatullah Omarzai",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 44,
+                    "wickets": 2,
+                    "economy": 11.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Punjab Kings, elected to bat first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Harpreet Brar",
+        "hours_of_play_local_time": "15.30 start, First Session 15.30-17.00, Interval 17.00-17.15, Second Session 17.15-18.45",
+        "match_days": "18 May 2025 - daynight (20-over match)",
+        "pbks_player_replacement": "Impact player:  Harpreet Brar in,  Shreyas Iyer  out (1st innings, 19.6 ov)",
+        "rr_player_replacement": "Impact player:  Shubham Dubey in,  Fazalhaq Farooqi  out (2nd innings, 17.2 ov)",
+        "umpires": "Abhijeet Bengeri DRS Chris Gaffaney DRS",
+        "tv_umpire": "Jayaraman Madanagopal",
+        "reserve_umpire": "Parashar Joshi",
+        "match_referee": "Daniel Manohar",
+        "points": "Punjab Kings 2, Rajasthan Royals 0",
+        "extras": "(w 7)",
+        "total": "209(7 wkts; 20 ovs)"
+    }
+}

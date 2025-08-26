@@ -1,0 +1,316 @@
+{
+    "teams": {
+        "Punjab Kings": {
+            "batting": [
+                {
+                    "batsman": "Priyansh Arya",
+                    "dismissal": "c †Stubbs b Mustafizur Rahman",
+                    "runs": 6,
+                    "balls": 9,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Prabhsimran Singh",
+                    "dismissal": "b Nigam",
+                    "runs": 28,
+                    "balls": 18,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strike_rate": 155.55
+                },
+                {
+                    "batsman": "Josh Inglis †",
+                    "dismissal": "st †Stubbs b Nigam",
+                    "runs": 32,
+                    "balls": 12,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 266.66
+                },
+                {
+                    "batsman": "Shreyas Iyer (c)",
+                    "dismissal": "c MM Sharma b Kuldeep Yadav",
+                    "runs": 53,
+                    "balls": 34,
+                    "fours": 5,
+                    "sixes": 2,
+                    "strike_rate": 155.88
+                },
+                {
+                    "batsman": "Nehal Wadhera",
+                    "dismissal": "c du Plessis b Mukesh Kumar",
+                    "runs": 16,
+                    "balls": 16,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Shashank Singh",
+                    "dismissal": "c †Stubbs b Mustafizur Rahman",
+                    "runs": 11,
+                    "balls": 10,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 110.0
+                },
+                {
+                    "batsman": "Marcus Stoinis",
+                    "dismissal": "not out",
+                    "runs": 44,
+                    "balls": 16,
+                    "fours": 3,
+                    "sixes": 4,
+                    "strike_rate": 275.0
+                },
+                {
+                    "batsman": "Azmatullah Omarzai",
+                    "dismissal": "c Sameer Rizvi b Kuldeep Yadav",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Marco Jansen",
+                    "dismissal": "c †Stubbs b Mustafizur Rahman",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Harpreet Brar",
+                    "dismissal": "not out",
+                    "runs": 7,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 350.0
+                }
+            ],
+            "extras": {
+                "total": 8,
+                "detail": "(nb 2, w 6)"
+            },
+            "total": {
+                "runs": "206/8",
+                "detail": "20 Ov (RR: 10.30)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-8",
+                    "player": "Priyansh Arya",
+                    "over": "1.5"
+                },
+                {
+                    "score": "2-55",
+                    "player": "Josh Inglis",
+                    "over": "5.2"
+                },
+                {
+                    "score": "3-77",
+                    "player": "Prabhsimran Singh",
+                    "over": "7.5"
+                },
+                {
+                    "score": "4-118",
+                    "player": "Nehal Wadhera",
+                    "over": "12.3"
+                },
+                {
+                    "score": "5-144",
+                    "player": "Shashank Singh",
+                    "over": "15.4"
+                },
+                {
+                    "score": "6-172",
+                    "player": "Shreyas Iyer",
+                    "over": "17.2"
+                },
+                {
+                    "score": "7-174",
+                    "player": "Azmatullah Omarzai",
+                    "over": "17.6"
+                },
+                {
+                    "score": "8-197",
+                    "player": "Marco Jansen",
+                    "over": "19.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mukesh Kumar",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "49",
+                    "wickets": "1",
+                    "economy": "12.25"
+                },
+                {
+                    "bowler": "Mustafizur Rahman",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "33",
+                    "wickets": "3",
+                    "economy": "8.25"
+                },
+                {
+                    "bowler": "Mohit Sharma",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "47",
+                    "wickets": "0",
+                    "economy": "11.75"
+                },
+                {
+                    "bowler": "Vipraj Nigam",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "38",
+                    "wickets": "2",
+                    "economy": "9.50"
+                },
+                {
+                    "bowler": "Kuldeep Yadav",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "2",
+                    "economy": "9.75"
+                }
+            ]
+        },
+        "Delhi Capitals": {
+            "batting": [
+                {
+                    "batsman": "KL Rahul",
+                    "dismissal": "c Shashank Singh b Jansen",
+                    "runs": 35,
+                    "balls": 21,
+                    "fours": 6,
+                    "sixes": 1,
+                    "strike_rate": 166.66
+                },
+                {
+                    "batsman": "Faf du Plessis (c)",
+                    "dismissal": "c Arya b Harpreet Brar",
+                    "runs": 23,
+                    "balls": 15,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 153.33
+                },
+                {
+                    "batsman": "Karun Nair",
+                    "dismissal": "b Harpreet Brar",
+                    "runs": 44,
+                    "balls": 27,
+                    "fours": 5,
+                    "sixes": 2,
+                    "strike_rate": 162.96
+                },
+                {
+                    "batsman": "Sediqullah Atal",
+                    "dismissal": "c Arshdeep Singh b Dubey",
+                    "runs": 22,
+                    "balls": 16,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 137.5
+                },
+                {
+                    "batsman": "Sameer Rizvi",
+                    "dismissal": "not out",
+                    "runs": 58,
+                    "balls": 25,
+                    "fours": 3,
+                    "sixes": 5,
+                    "strike_rate": 232.0
+                },
+                {
+                    "batsman": "Tristan Stubbs †",
+                    "dismissal": "not out",
+                    "runs": 18,
+                    "balls": 14,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 128.57
+                }
+            ],
+            "extras": {
+                "total": 8,
+                "detail": "(lb 4, nb 1, w 3)"
+            },
+            "total": {
+                "runs": "208/4",
+                "detail": "19.3 Ov (RR: 10.66)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Arshdeep Singh",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 35,
+                    "wickets": 0,
+                    "economy": "8.75"
+                },
+                {
+                    "bowler": "Azmatullah Omarzai",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 46,
+                    "wickets": 0,
+                    "economy": "11.5"
+                },
+                {
+                    "bowler": "Harpreet Brar",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 41,
+                    "wickets": 2,
+                    "economy": "10.25"
+                },
+                {
+                    "bowler": "P Dubey",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 20,
+                    "wickets": 1,
+                    "economy": "10"
+                },
+                {
+                    "bowler": "MP Stoinis",
+                    "overs": 1.3,
+                    "maidens": 0,
+                    "runs": 21,
+                    "wickets": 0,
+                    "economy": "14"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Delhi Capitals, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Sameer Rizvi",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.15, Second Session 21.15-22.45",
+        "match_days": "24 May 2025 - night (20-over match)",
+        "dc_player_replacement": "Impact player:  KL Rahul in,  Mukesh Kumar  out (1st innings, 16.6 ov)",
+        "pbks_player_replacement": "Impact player:  Praveen Dubey in,  Prabhsimran Singh  out (1st innings, 19.6 ov)",
+        "umpires": "Jayaraman Madanagopal DRS Parashar Joshi DRS",
+        "tv_umpire": "Chris Gaffaney",
+        "reserve_umpire": "Bhavesh Patel",
+        "match_referee": "Daniel Manohar",
+        "points": "Delhi Capitals 2, Punjab Kings 0",
+        "extras": "(lb 4, nb 1, w 3)",
+        "total": "208(4 wkts; 19.3 ovs)"
+    }
+}

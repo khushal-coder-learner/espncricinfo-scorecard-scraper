@@ -1,0 +1,281 @@
+{
+    "teams": {
+        "Lucknow Super Giants": {
+            "batting": [
+                {
+                    "batsman": "Aiden Markram",
+                    "dismissal": "b Harshit Rana",
+                    "runs": 47,
+                    "balls": 28,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 167.85
+                },
+                {
+                    "batsman": "Mitchell Marsh",
+                    "dismissal": "c Singh b Russell",
+                    "runs": 81,
+                    "balls": 48,
+                    "fours": 6,
+                    "sixes": 5,
+                    "strike_rate": 168.75
+                },
+                {
+                    "batsman": "Nicholas Pooran",
+                    "dismissal": "not out",
+                    "runs": 87,
+                    "balls": 36,
+                    "fours": 7,
+                    "sixes": 8,
+                    "strike_rate": 241.66
+                },
+                {
+                    "batsman": "Abdul Samad",
+                    "dismissal": "b Harshit Rana",
+                    "runs": 6,
+                    "balls": 4,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "David Miller",
+                    "dismissal": "not out",
+                    "runs": 4,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 13,
+                "detail": "(b 2, lb 3, w 8)"
+            },
+            "total": {
+                "runs": "238/3",
+                "detail": "20 Ov (RR: 11.90)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-99",
+                    "player": "Aiden Markram",
+                    "over": "10.2"
+                },
+                {
+                    "score": "2-170",
+                    "player": "Mitchell Marsh",
+                    "over": "15.2"
+                },
+                {
+                    "score": "3-221",
+                    "player": "Abdul Samad",
+                    "over": "18.2"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Vaibhav Arora",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "35",
+                    "wickets": "0",
+                    "economy": "8.75"
+                },
+                {
+                    "bowler": "Spencer Johnson",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "46",
+                    "wickets": "0",
+                    "economy": "15.33"
+                },
+                {
+                    "bowler": "Varun Chakravarthy",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "31",
+                    "wickets": "0",
+                    "economy": "7.75"
+                },
+                {
+                    "bowler": "Harshit Rana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "51",
+                    "wickets": "2",
+                    "economy": "12.75"
+                },
+                {
+                    "bowler": "Sunil Narine",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "38",
+                    "wickets": "0",
+                    "economy": "12.66"
+                },
+                {
+                    "bowler": "Andre Russell",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "32",
+                    "wickets": "1",
+                    "economy": "16.00"
+                }
+            ]
+        },
+        "Kolkata Knight Riders": {
+            "batting": [
+                {
+                    "batsman": "Quinton de Kock †",
+                    "dismissal": "lbw b Akash Deep",
+                    "runs": 15,
+                    "balls": 9,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 166.66
+                },
+                {
+                    "batsman": "Sunil Narine",
+                    "dismissal": "c Markram b Rathi",
+                    "runs": 30,
+                    "balls": 13,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 230.76
+                },
+                {
+                    "batsman": "Ajinkya Rahane (c)",
+                    "dismissal": "c Pooran b Thakur",
+                    "runs": 61,
+                    "balls": 35,
+                    "fours": 8,
+                    "sixes": 2,
+                    "strike_rate": 174.28
+                },
+                {
+                    "batsman": "Venkatesh Iyer",
+                    "dismissal": "c Markram b Akash Deep",
+                    "runs": 45,
+                    "balls": 29,
+                    "fours": 6,
+                    "sixes": 1,
+                    "strike_rate": 155.17
+                },
+                {
+                    "batsman": "Ramandeep Singh",
+                    "dismissal": "c Markram b Ravi Bishnoi",
+                    "runs": 1,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Angkrish Raghuvanshi",
+                    "dismissal": "c †Pant b Avesh Khan",
+                    "runs": 5,
+                    "balls": 4,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 125.0
+                },
+                {
+                    "batsman": "Andre Russell",
+                    "dismissal": "c Miller b Thakur",
+                    "runs": 7,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 175.0
+                },
+                {
+                    "batsman": "Rinku Singh",
+                    "dismissal": "not out",
+                    "runs": 38,
+                    "balls": 15,
+                    "fours": 6,
+                    "sixes": 2,
+                    "strike_rate": 253.33
+                },
+                {
+                    "batsman": "Harshit Rana",
+                    "dismissal": "not out",
+                    "runs": 10,
+                    "balls": 9,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 111.11
+                }
+            ],
+            "extras": {
+                "total": 22,
+                "detail": "(b 1, lb 1, w 20)"
+            },
+            "total": {
+                "runs": "234/7",
+                "detail": "20 Ov (RR: 11.70)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Akash Deep",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 55,
+                    "wickets": 2,
+                    "economy": 13.75
+                },
+                {
+                    "bowler": "SN Thakur",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 52,
+                    "wickets": 2,
+                    "economy": 13.0
+                },
+                {
+                    "bowler": "Avesh Khan",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 45,
+                    "wickets": 1,
+                    "economy": 11.25
+                },
+                {
+                    "bowler": "DS Rathi",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 33,
+                    "wickets": 1,
+                    "economy": 8.25
+                },
+                {
+                    "bowler": "Ravi Bishnoi",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 47,
+                    "wickets": 1,
+                    "economy": 11.75
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Kolkata Knight Riders, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Nicholas Pooran",
+        "hours_of_play_local_time": "15.30 start, First Session 15.30-17.00, Interval 17.00-17.20, Second Session 17.20-18.50",
+        "match_days": "08 April 2025 - daynight (20-over match)",
+        "kkr_player_replacement": "Impact player:  Angkrish Raghuvanshi in,  Varun Chakravarthy  out (1st innings, 13.6 ov)",
+        "lsg_player_replacement": "Impact player:  Ravi Bishnoi in,  Mitchell Marsh  out (1st innings, 19.6 ov)",
+        "umpires": "Adrian Holdstock DRS Akshay Totre DRS",
+        "tv_umpire": "Rohan Pandit",
+        "reserve_umpire": "Anish Sahasrabudhe",
+        "match_referee": "Shakti Singh",
+        "points": "Lucknow Super Giants 2, Kolkata Knight Riders 0",
+        "extras": "(b 1, lb 1, w 20)",
+        "total": "234(7 wkts; 20 ovs)"
+    }
+}

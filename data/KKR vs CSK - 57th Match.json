@@ -1,0 +1,340 @@
+{
+    "teams": {
+        "Kolkata Knight Riders": {
+            "batting": [
+                {
+                    "batsman": "Rahmanullah Gurbaz †",
+                    "dismissal": "c Noor Ahmad b Kamboj",
+                    "runs": 11,
+                    "balls": 9,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 122.22
+                },
+                {
+                    "batsman": "Sunil Narine",
+                    "dismissal": "st †Dhoni b Noor Ahmad",
+                    "runs": 26,
+                    "balls": 17,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strike_rate": 152.94
+                },
+                {
+                    "batsman": "Ajinkya Rahane (c)",
+                    "dismissal": "c Conway b Jadeja",
+                    "runs": 48,
+                    "balls": 33,
+                    "fours": 4,
+                    "sixes": 2,
+                    "strike_rate": 145.45
+                },
+                {
+                    "batsman": "Angkrish Raghuvanshi",
+                    "dismissal": "c †Dhoni b Noor Ahmad",
+                    "runs": 1,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Manish Pandey",
+                    "dismissal": "not out",
+                    "runs": 36,
+                    "balls": 28,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 128.57
+                },
+                {
+                    "batsman": "Andre Russell",
+                    "dismissal": "c Brevis b Noor Ahmad",
+                    "runs": 38,
+                    "balls": 21,
+                    "fours": 4,
+                    "sixes": 3,
+                    "strike_rate": 180.95
+                },
+                {
+                    "batsman": "Rinku Singh",
+                    "dismissal": "c Mhatre b Noor Ahmad",
+                    "runs": 9,
+                    "balls": 6,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Ramandeep Singh",
+                    "dismissal": "not out",
+                    "runs": 4,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 6,
+                "detail": "(lb 4, w 2)"
+            },
+            "total": {
+                "runs": "179/6",
+                "detail": "20 Ov (RR: 8.95)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-11",
+                    "player": "Rahmanullah Gurbaz",
+                    "over": "1.3"
+                },
+                {
+                    "score": "2-69",
+                    "player": "Sunil Narine",
+                    "over": "7.1"
+                },
+                {
+                    "score": "3-71",
+                    "player": "Angkrish Raghuvanshi",
+                    "over": "7.4"
+                },
+                {
+                    "score": "4-103",
+                    "player": "Ajinkya Rahane",
+                    "over": "12.2"
+                },
+                {
+                    "score": "5-149",
+                    "player": "Andre Russell",
+                    "over": "16.6"
+                },
+                {
+                    "score": "6-167",
+                    "player": "Rinku Singh",
+                    "over": "18.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Khaleel Ahmed",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "14",
+                    "wickets": "0",
+                    "economy": "7.00"
+                },
+                {
+                    "bowler": "Anshul Kamboj",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "38",
+                    "wickets": "1",
+                    "economy": "12.66"
+                },
+                {
+                    "bowler": "Ravichandran Ashwin",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "19",
+                    "wickets": "0",
+                    "economy": "6.33"
+                },
+                {
+                    "bowler": "Noor Ahmad",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "31",
+                    "wickets": "4",
+                    "economy": "7.75"
+                },
+                {
+                    "bowler": "Ravindra Jadeja",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "34",
+                    "wickets": "1",
+                    "economy": "8.50"
+                },
+                {
+                    "bowler": "Matheesha Pathirana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "0",
+                    "economy": "9.75"
+                }
+            ]
+        },
+        "Chennai Super Kings": {
+            "batting": [
+                {
+                    "batsman": "Ayush Mhatre",
+                    "dismissal": "c Harshit Rana b Arora",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Devon Conway",
+                    "dismissal": "b Ali",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Urvil Patel",
+                    "dismissal": "c Varun b Harshit Rana",
+                    "runs": 31,
+                    "balls": 11,
+                    "fours": 1,
+                    "sixes": 4,
+                    "strike_rate": 281.81
+                },
+                {
+                    "batsman": "Ravichandran Ashwin",
+                    "dismissal": "c Raghuvanshi b Harshit Rana",
+                    "runs": 8,
+                    "balls": 7,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 114.28
+                },
+                {
+                    "batsman": "Ravindra Jadeja",
+                    "dismissal": "b Varun",
+                    "runs": 19,
+                    "balls": 10,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 190.0
+                },
+                {
+                    "batsman": "Dewald Brevis",
+                    "dismissal": "c Singh b Varun",
+                    "runs": 52,
+                    "balls": 25,
+                    "fours": 4,
+                    "sixes": 4,
+                    "strike_rate": 208.0
+                },
+                {
+                    "batsman": "Shivam Dube",
+                    "dismissal": "c Singh b Arora",
+                    "runs": 45,
+                    "balls": 40,
+                    "fours": 2,
+                    "sixes": 3,
+                    "strike_rate": 112.5
+                },
+                {
+                    "batsman": "MS Dhoni (c)†",
+                    "dismissal": "not out",
+                    "runs": 17,
+                    "balls": 18,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 94.44
+                },
+                {
+                    "batsman": "Noor Ahmad",
+                    "dismissal": "c Singh b Arora",
+                    "runs": 2,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Anshul Kamboj",
+                    "dismissal": "not out",
+                    "runs": 4,
+                    "balls": 1,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 400.0
+                }
+            ],
+            "extras": {
+                "total": 5,
+                "detail": "(lb 1, w 4)"
+            },
+            "total": {
+                "runs": "183/8",
+                "detail": "19.4 Ov (RR: 9.30)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "VG Arora",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 48,
+                    "wickets": 3,
+                    "economy": 16.0
+                },
+                {
+                    "bowler": "MM Ali",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 23,
+                    "wickets": 1,
+                    "economy": 11.5
+                },
+                {
+                    "bowler": "Harshit Rana",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 43,
+                    "wickets": 2,
+                    "economy": 10.75
+                },
+                {
+                    "bowler": "CV Varun",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 18,
+                    "wickets": 2,
+                    "economy": 4.5
+                },
+                {
+                    "bowler": "SP Narine",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 28,
+                    "wickets": 0,
+                    "economy": 7.0
+                },
+                {
+                    "bowler": "AD Russell",
+                    "overs": 2.4,
+                    "maidens": 0,
+                    "runs": 22,
+                    "wickets": 0,
+                    "economy": 8.25
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Kolkata Knight Riders, elected to bat first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Noor Ahmad",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "07 May 2025 - night (20-over match)",
+        "kkr_player_replacement": "Impact player:  Harshit Rana in,  Manish Pandey  out (1st innings, 19.6 ov)",
+        "csk_player_replacement": "Impact player:  Shivam Dube in,  Matheesha Pathirana  out (2nd innings, 5.2 ov)",
+        "umpires": "Adrian Holdstock DRS Anish Sahasrabudhe DRS",
+        "tv_umpire": "Rohan Pandit",
+        "reserve_umpire": "Amit Rana",
+        "match_referee": "Amit Sharma",
+        "points": "Chennai Super Kings 2, Kolkata Knight Riders 0",
+        "extras": "(lb 1, w 4)",
+        "total": "183(8 wkts; 19.4 ovs)"
+    }
+}

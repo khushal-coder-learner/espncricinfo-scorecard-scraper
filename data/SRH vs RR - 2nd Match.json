@@ -1,0 +1,306 @@
+{
+    "teams": {
+        "Sunrisers Hyderabad": {
+            "batting": [
+                {
+                    "batsman": "Abhishek Sharma",
+                    "dismissal": "c Jaiswal b Theekshana",
+                    "runs": 24,
+                    "balls": 11,
+                    "fours": 5,
+                    "sixes": 0,
+                    "strike_rate": 218.18
+                },
+                {
+                    "batsman": "Travis Head",
+                    "dismissal": "c Hetmyer b Deshpande",
+                    "runs": 67,
+                    "balls": 31,
+                    "fours": 9,
+                    "sixes": 3,
+                    "strike_rate": 216.12
+                },
+                {
+                    "batsman": "Ishan Kishan",
+                    "dismissal": "not out",
+                    "runs": 106,
+                    "balls": 47,
+                    "fours": 11,
+                    "sixes": 6,
+                    "strike_rate": 225.53
+                },
+                {
+                    "batsman": "Nitish Kumar Reddy",
+                    "dismissal": "c Jaiswal b Theekshana",
+                    "runs": 30,
+                    "balls": 15,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Heinrich Klaasen †",
+                    "dismissal": "c Parag b Sandeep Sharma",
+                    "runs": 34,
+                    "balls": 14,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 242.85
+                },
+                {
+                    "batsman": "Aniket Verma",
+                    "dismissal": "c Archer b Deshpande",
+                    "runs": 7,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 233.33
+                },
+                {
+                    "batsman": "Abhinav Manohar",
+                    "dismissal": "c Parag b Deshpande",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Pat Cummins (c)",
+                    "dismissal": "not out",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 18,
+                "detail": "(b 4, lb 1, nb 3, w 10)"
+            },
+            "total": {
+                "runs": "286/6",
+                "detail": "20 Ov (RR: 14.30)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-45",
+                    "player": "Abhishek Sharma",
+                    "over": "3.1"
+                },
+                {
+                    "score": "2-130",
+                    "player": "Travis Head",
+                    "over": "9.3"
+                },
+                {
+                    "score": "3-202",
+                    "player": "Nitish Kumar Reddy",
+                    "over": "14.2"
+                },
+                {
+                    "score": "4-258",
+                    "player": "Heinrich Klaasen",
+                    "over": "18.2"
+                },
+                {
+                    "score": "5-279",
+                    "player": "Aniket Verma",
+                    "over": "19.2"
+                },
+                {
+                    "score": "6-279",
+                    "player": "Abhinav Manohar",
+                    "over": "19.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Fazalhaq Farooqi",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "49",
+                    "wickets": "0",
+                    "economy": "16.33"
+                },
+                {
+                    "bowler": "Maheesh Theekshana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "52",
+                    "wickets": "2",
+                    "economy": "13.00"
+                },
+                {
+                    "bowler": "Jofra Archer",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "76",
+                    "wickets": "0",
+                    "economy": "19.00"
+                },
+                {
+                    "bowler": "Sandeep Sharma",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "51",
+                    "wickets": "1",
+                    "economy": "12.75"
+                },
+                {
+                    "bowler": "Nitish Rana",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "9",
+                    "wickets": "0",
+                    "economy": "9.00"
+                },
+                {
+                    "bowler": "Tushar Deshpande",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "44",
+                    "wickets": "3",
+                    "economy": "11.00"
+                }
+            ]
+        },
+        "Rajasthan Royals": {
+            "batting": [
+                {
+                    "batsman": "Yashasvi Jaiswal",
+                    "dismissal": "c Manohar b Simarjeet Singh",
+                    "runs": 1,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 20.0
+                },
+                {
+                    "batsman": "Sanju Samson",
+                    "dismissal": "c †Klaasen b Patel",
+                    "runs": 66,
+                    "balls": 37,
+                    "fours": 7,
+                    "sixes": 4,
+                    "strike_rate": 178.37
+                },
+                {
+                    "batsman": "Riyan Parag (c)",
+                    "dismissal": "c Cummins b Simarjeet Singh",
+                    "runs": 4,
+                    "balls": 2,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Nitish Rana",
+                    "dismissal": "c Cummins b Mohammed Shami",
+                    "runs": 11,
+                    "balls": 8,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 137.5
+                },
+                {
+                    "batsman": "Dhruv Jurel †",
+                    "dismissal": "c Ishan Kishan b Zampa",
+                    "runs": 70,
+                    "balls": 35,
+                    "fours": 5,
+                    "sixes": 6,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Shimron Hetmyer",
+                    "dismissal": "c Manohar b Patel",
+                    "runs": 42,
+                    "balls": 23,
+                    "fours": 1,
+                    "sixes": 4,
+                    "strike_rate": 182.6
+                },
+                {
+                    "batsman": "Shubham Dubey",
+                    "dismissal": "not out",
+                    "runs": 34,
+                    "balls": 11,
+                    "fours": 1,
+                    "sixes": 4,
+                    "strike_rate": 309.09
+                },
+                {
+                    "batsman": "Jofra Archer",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 13,
+                "detail": "(b 4, nb 2, w 7)"
+            },
+            "total": {
+                "runs": "242/6",
+                "detail": "20 Ov (RR: 12.10)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Shami",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 33,
+                    "wickets": 1,
+                    "economy": "11"
+                },
+                {
+                    "bowler": "Abhishek Sharma",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 17,
+                    "wickets": 0,
+                    "economy": "8.5"
+                },
+                {
+                    "bowler": "A Zampa",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 48,
+                    "wickets": 1,
+                    "economy": "12"
+                },
+                {
+                    "bowler": "HV Patel",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 34,
+                    "wickets": 2,
+                    "economy": "8.5"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Rajasthan Royals, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Ishan Kishan",
+        "hours_of_play_local_time": "15.30 start, First Session 15.30-17.00, Interval 17.00-17.20, Second Session 17.20-18.50",
+        "match_days": "23 March 2025 - daynight (20-over match)",
+        "srh_player_replacement": "Impact player:  Adam Zampa in,  Travis Head  out (2nd innings, 6.6 ov)",
+        "rr_player_replacement": "Impact player:  Sanju Samson in,  Fazalhaq Farooqi  out (1st innings, 19.6 ov)",
+        "umpires": "Adrian Holdstock DRS Akshay Totre DRS",
+        "tv_umpire": "Rohan Pandit",
+        "reserve_umpire": "Keyur Kelkar",
+        "match_referee": "Shakti Singh",
+        "points": "Sunrisers Hyderabad 2, Rajasthan Royals 0",
+        "extras": "(b 4, nb 2, w 7)",
+        "total": "242(6 wkts; 20 ovs)"
+    }
+}

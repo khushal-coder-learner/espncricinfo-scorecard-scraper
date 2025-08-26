@@ -1,0 +1,284 @@
+{
+    "teams": {
+        "Lucknow Super Giants": {
+            "batting": [
+                {
+                    "batsman": "Aiden Markram",
+                    "dismissal": "c Shahrukh Khan b Sai Kishore",
+                    "runs": 36,
+                    "balls": 24,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Mitchell Marsh",
+                    "dismissal": "c Rutherford b Arshad Khan",
+                    "runs": 117,
+                    "balls": 64,
+                    "fours": 10,
+                    "sixes": 8,
+                    "strike_rate": 182.81
+                },
+                {
+                    "batsman": "Nicholas Pooran",
+                    "dismissal": "not out",
+                    "runs": 56,
+                    "balls": 27,
+                    "fours": 4,
+                    "sixes": 5,
+                    "strike_rate": 207.4
+                },
+                {
+                    "batsman": "Rishabh Pant (c)†",
+                    "dismissal": "not out",
+                    "runs": 16,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 266.66
+                }
+            ],
+            "extras": {
+                "total": 10,
+                "detail": "(b 1, lb 2, nb 1, w 6)"
+            },
+            "total": {
+                "runs": "235/2",
+                "detail": "20 Ov (RR: 11.75)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-91",
+                    "player": "Aiden Markram",
+                    "over": "9.5"
+                },
+                {
+                    "score": "2-212",
+                    "player": "Mitchell Marsh",
+                    "over": "18.2"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Siraj",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "37",
+                    "wickets": "0",
+                    "economy": "9.25"
+                },
+                {
+                    "bowler": "Arshad Khan",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "36",
+                    "wickets": "1",
+                    "economy": "12.00"
+                },
+                {
+                    "bowler": "Kagiso Rabada",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "45",
+                    "wickets": "0",
+                    "economy": "11.25"
+                },
+                {
+                    "bowler": "Prasidh Krishna",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "44",
+                    "wickets": "0",
+                    "economy": "11.00"
+                },
+                {
+                    "bowler": "Sai Kishore",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "34",
+                    "wickets": "1",
+                    "economy": "11.33"
+                },
+                {
+                    "bowler": "Rashid Khan",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "36",
+                    "wickets": "0",
+                    "economy": "18.00"
+                }
+            ]
+        },
+        "Gujarat Titans": {
+            "batting": [
+                {
+                    "batsman": "Sai Sudharsan",
+                    "dismissal": "c Markram b O'Rourke",
+                    "runs": 21,
+                    "balls": 16,
+                    "fours": 4,
+                    "sixes": 0,
+                    "strike_rate": 131.25
+                },
+                {
+                    "batsman": "Shubman Gill (c)",
+                    "dismissal": "c Abdul Samad b Avesh Khan",
+                    "runs": 35,
+                    "balls": 20,
+                    "fours": 7,
+                    "sixes": 0,
+                    "strike_rate": 175.0
+                },
+                {
+                    "batsman": "Jos Buttler †",
+                    "dismissal": "b Akash Singh",
+                    "runs": 33,
+                    "balls": 18,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 183.33
+                },
+                {
+                    "batsman": "Sherfane Rutherford",
+                    "dismissal": "c sub (Ravi Bishnoi) b O'Rourke",
+                    "runs": 38,
+                    "balls": 22,
+                    "fours": 1,
+                    "sixes": 3,
+                    "strike_rate": 172.72
+                },
+                {
+                    "batsman": "M Shahrukh Khan",
+                    "dismissal": "c sub (Ravi Bishnoi) b Avesh Khan",
+                    "runs": 57,
+                    "balls": 29,
+                    "fours": 5,
+                    "sixes": 3,
+                    "strike_rate": 196.55
+                },
+                {
+                    "batsman": "Rahul Tewatia",
+                    "dismissal": "c Himmat Singh b O'Rourke",
+                    "runs": 2,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Arshad Khan",
+                    "dismissal": "c O'Rourke b Shahbaz Ahmed",
+                    "runs": 1,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Rashid Khan",
+                    "dismissal": "not out",
+                    "runs": 4,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Kagiso Rabada",
+                    "dismissal": "b Badoni",
+                    "runs": 2,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Sai Kishore",
+                    "dismissal": "b Badoni",
+                    "runs": 1,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                }
+            ],
+            "extras": {
+                "total": 8,
+                "detail": "(lb 1, w 7)"
+            },
+            "total": {
+                "runs": "202/9",
+                "detail": "20 Ov (RR: 10.10)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Akash Singh",
+                    "overs": 3.1,
+                    "maidens": 0,
+                    "runs": 29,
+                    "wickets": 1,
+                    "economy": 9.15
+                },
+                {
+                    "bowler": "Akash Deep",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 49,
+                    "wickets": 0,
+                    "economy": 12.25
+                },
+                {
+                    "bowler": "W O'Rourke",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 27,
+                    "wickets": 3,
+                    "economy": 6.75
+                },
+                {
+                    "bowler": "Avesh Khan",
+                    "overs": 3.5,
+                    "maidens": 0,
+                    "runs": 51,
+                    "wickets": 2,
+                    "economy": 13.3
+                },
+                {
+                    "bowler": "Shahbaz Ahmed",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 41,
+                    "wickets": 1,
+                    "economy": 10.25
+                },
+                {
+                    "bowler": "A Badoni",
+                    "overs": 1.0,
+                    "maidens": 0,
+                    "runs": 4,
+                    "wickets": 2,
+                    "economy": 4.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Gujarat Titans, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Mitchell Marsh",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.15, Second Session 21.15-22.45",
+        "match_days": "22 May 2025 - night (20-over match)",
+        "lsg_player_replacement": "Impact player:  Akash Singh in,  Mitchell Marsh  out (1st innings, 19.6 ov)",
+        "gt_player_replacement": "Impact player:  Sai Sudharsan in,  Prasidh Krishna  out (1st innings, 19.6 ov)",
+        "umpires": "KN Ananthapadmanabhan DRS Mohit Krishnadas DRS",
+        "tv_umpire": "Nitin Menon",
+        "reserve_umpire": "Kaushik Gandhi",
+        "match_referee": "Amit Sharma",
+        "points": "Lucknow Super Giants 2, Gujarat Titans 0",
+        "extras": "(lb 1, w 7)",
+        "total": "202(9 wkts; 20 ovs)"
+    }
+}

@@ -1,0 +1,333 @@
+{
+    "teams": {
+        "Lucknow Super Giants": {
+            "batting": [
+                {
+                    "batsman": "Mitchell Marsh",
+                    "dismissal": "c & b Puthur",
+                    "runs": 60,
+                    "balls": 31,
+                    "fours": 9,
+                    "sixes": 2,
+                    "strike_rate": 193.54
+                },
+                {
+                    "batsman": "Aiden Markram",
+                    "dismissal": "c Bawa b Pandya",
+                    "runs": 53,
+                    "balls": 38,
+                    "fours": 2,
+                    "sixes": 4,
+                    "strike_rate": 139.47
+                },
+                {
+                    "batsman": "Nicholas Pooran",
+                    "dismissal": "c Chahar b Pandya",
+                    "runs": 12,
+                    "balls": 6,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Rishabh Pant (c)†",
+                    "dismissal": "c sub (C Bosch) b Pandya",
+                    "runs": 2,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Ayush Badoni",
+                    "dismissal": "c †Rickelton b Ashwani Kumar",
+                    "runs": 30,
+                    "balls": 19,
+                    "fours": 4,
+                    "sixes": 0,
+                    "strike_rate": 157.89
+                },
+                {
+                    "batsman": "David Miller",
+                    "dismissal": "c Naman Dhir b Pandya",
+                    "runs": 27,
+                    "balls": 14,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 192.85
+                },
+                {
+                    "batsman": "Abdul Samad",
+                    "dismissal": "c Naman Dhir b Boult",
+                    "runs": 4,
+                    "balls": 2,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Shardul Thakur",
+                    "dismissal": "not out",
+                    "runs": 5,
+                    "balls": 2,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 250.0
+                },
+                {
+                    "batsman": "Akash Deep",
+                    "dismissal": "c Santner b Pandya",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Avesh Khan",
+                    "dismissal": "not out",
+                    "runs": 2,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 200.0
+                }
+            ],
+            "extras": {
+                "total": 8,
+                "detail": "(w 8)"
+            },
+            "total": {
+                "runs": "203/8",
+                "detail": "20 Ov (RR: 10.15)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-76",
+                    "player": "Mitchell Marsh",
+                    "over": "6.6"
+                },
+                {
+                    "score": "2-91",
+                    "player": "Nicholas Pooran",
+                    "over": "8.5"
+                },
+                {
+                    "score": "3-107",
+                    "player": "Rishabh Pant",
+                    "over": "10.4"
+                },
+                {
+                    "score": "4-158",
+                    "player": "Ayush Badoni",
+                    "over": "15.5"
+                },
+                {
+                    "score": "5-173",
+                    "player": "Aiden Markram",
+                    "over": "17.5"
+                },
+                {
+                    "score": "6-182",
+                    "player": "Abdul Samad",
+                    "over": "18.3"
+                },
+                {
+                    "score": "7-200",
+                    "player": "David Miller",
+                    "over": "19.4"
+                },
+                {
+                    "score": "8-200",
+                    "player": "Akash Deep",
+                    "over": "19.5"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Trent Boult",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "28",
+                    "wickets": "1",
+                    "economy": "9.33"
+                },
+                {
+                    "bowler": "Deepak Chahar",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "23",
+                    "wickets": "0",
+                    "economy": "11.50"
+                },
+                {
+                    "bowler": "Ashwani Kumar",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "1",
+                    "economy": "13.00"
+                },
+                {
+                    "bowler": "Mitchell Santner",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "46",
+                    "wickets": "0",
+                    "economy": "11.50"
+                },
+                {
+                    "bowler": "Vignesh Puthur",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "31",
+                    "wickets": "1",
+                    "economy": "7.75"
+                },
+                {
+                    "bowler": "Hardik Pandya",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "36",
+                    "wickets": "5",
+                    "economy": "9.00"
+                }
+            ]
+        },
+        "Mumbai Indians": {
+            "batting": [
+                {
+                    "batsman": "Will Jacks",
+                    "dismissal": "c Ravi Bishnoi b Akash Deep",
+                    "runs": 5,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 71.42
+                },
+                {
+                    "batsman": "Ryan Rickelton †",
+                    "dismissal": "c Ravi Bishnoi b Thakur",
+                    "runs": 10,
+                    "balls": 5,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Naman Dhir",
+                    "dismissal": "b Rathi",
+                    "runs": 46,
+                    "balls": 24,
+                    "fours": 4,
+                    "sixes": 3,
+                    "strike_rate": 191.66
+                },
+                {
+                    "batsman": "Suryakumar Yadav",
+                    "dismissal": "c Abdul Samad b Avesh Khan",
+                    "runs": 67,
+                    "balls": 43,
+                    "fours": 9,
+                    "sixes": 1,
+                    "strike_rate": 155.81
+                },
+                {
+                    "batsman": "Tilak Varma",
+                    "dismissal": "retired out",
+                    "runs": 25,
+                    "balls": 23,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 108.69
+                },
+                {
+                    "batsman": "Hardik Pandya (c)",
+                    "dismissal": "not out",
+                    "runs": 28,
+                    "balls": 16,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 175.0
+                },
+                {
+                    "batsman": "Mitchell Santner",
+                    "dismissal": "not out",
+                    "runs": 2,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 8,
+                "detail": "(lb 4, w 4)"
+            },
+            "total": {
+                "runs": "191/5",
+                "detail": "20 Ov (RR: 9.55)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "SN Thakur",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 40,
+                    "wickets": 1,
+                    "economy": 10.0
+                },
+                {
+                    "bowler": "Akash Deep",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 46,
+                    "wickets": 1,
+                    "economy": 11.5
+                },
+                {
+                    "bowler": "Avesh Khan",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 40,
+                    "wickets": 1,
+                    "economy": 10.0
+                },
+                {
+                    "bowler": "DS Rathi",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 21,
+                    "wickets": 1,
+                    "economy": 5.25
+                },
+                {
+                    "bowler": "Ravi Bishnoi",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 40,
+                    "wickets": 0,
+                    "economy": 10.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Mumbai Indians, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Digvesh Rathi",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "04 April 2025 - night (20-over match)",
+        "lsg_player_replacement": "Impact player:  Ravi Bishnoi in,  Mitchell Marsh  out (1st innings, 19.6 ov)",
+        "mi_player_replacement": "Impact player:  Tilak Varma in,  Vignesh Puthur  out (2nd innings, 8.1 ov)",
+        "umpires": "Nitin Menon DRS Saidharshan Kumar DRS",
+        "tv_umpire": "KN Ananthapadmanabhan",
+        "reserve_umpire": "Saiyed Khalid",
+        "match_referee": "Javagal Srinath",
+        "points": "Lucknow Super Giants 2, Mumbai Indians 0",
+        "extras": "(lb 4, w 4)",
+        "total": "191(5 wkts; 20 ovs)"
+    }
+}

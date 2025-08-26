@@ -1,0 +1,321 @@
+{
+    "teams": {
+        "Gujarat Titans": {
+            "batting": [
+                {
+                    "batsman": "Sai Sudharsan",
+                    "dismissal": "c †Klaasen b Zeeshan Ansari",
+                    "runs": 48,
+                    "balls": 23,
+                    "fours": 9,
+                    "sixes": 0,
+                    "strike_rate": 208.69
+                },
+                {
+                    "batsman": "Shubman Gill (c)",
+                    "dismissal": "run out (Patel/†Klaasen)",
+                    "runs": 76,
+                    "balls": 38,
+                    "fours": 10,
+                    "sixes": 2,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Jos Buttler †",
+                    "dismissal": "c Abhishek Sharma b Cummins",
+                    "runs": 64,
+                    "balls": 37,
+                    "fours": 3,
+                    "sixes": 4,
+                    "strike_rate": 172.97
+                },
+                {
+                    "batsman": "Washington Sundar",
+                    "dismissal": "c Nitish Kumar Reddy b Unadkat",
+                    "runs": 21,
+                    "balls": 16,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 131.25
+                },
+                {
+                    "batsman": "M Shahrukh Khan",
+                    "dismissal": "not out",
+                    "runs": 6,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 300.0
+                },
+                {
+                    "batsman": "Rahul Tewatia",
+                    "dismissal": "c Verma b Unadkat",
+                    "runs": 6,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Rashid Khan",
+                    "dismissal": "c & b Unadkat",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 3,
+                "detail": "(w 3)"
+            },
+            "total": {
+                "runs": "224/6",
+                "detail": "20 Ov (RR: 11.20)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-87",
+                    "player": "Sai Sudharsan",
+                    "over": "6.5"
+                },
+                {
+                    "score": "2-149",
+                    "player": "Shubman Gill",
+                    "over": "12.6"
+                },
+                {
+                    "score": "3-206",
+                    "player": "Jos Buttler",
+                    "over": "18.4"
+                },
+                {
+                    "score": "4-218",
+                    "player": "Washington Sundar",
+                    "over": "19.2"
+                },
+                {
+                    "score": "5-224",
+                    "player": "Rahul Tewatia",
+                    "over": "19.5"
+                },
+                {
+                    "score": "6-224",
+                    "player": "Rashid Khan",
+                    "over": "19.6"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Shami",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "48",
+                    "wickets": "0",
+                    "economy": "16.00"
+                },
+                {
+                    "bowler": "Jaydev Unadkat",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "35",
+                    "wickets": "3",
+                    "economy": "8.75"
+                },
+                {
+                    "bowler": "Pat Cummins",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "40",
+                    "wickets": "1",
+                    "economy": "10.00"
+                },
+                {
+                    "bowler": "Harshal Patel",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "41",
+                    "wickets": "0",
+                    "economy": "13.66"
+                },
+                {
+                    "bowler": "Zeeshan Ansari",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "42",
+                    "wickets": "1",
+                    "economy": "10.50"
+                },
+                {
+                    "bowler": "Kamindu Mendis",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "18",
+                    "wickets": "0",
+                    "economy": "9.00"
+                }
+            ]
+        },
+        "Sunrisers Hyderabad": {
+            "batting": [
+                {
+                    "batsman": "Travis Head",
+                    "dismissal": "c Rashid Khan b Prasidh Krishna",
+                    "runs": 20,
+                    "balls": 16,
+                    "fours": 4,
+                    "sixes": 0,
+                    "strike_rate": 125.0
+                },
+                {
+                    "batsman": "Abhishek Sharma",
+                    "dismissal": "c Mohammed Siraj b Sharma",
+                    "runs": 74,
+                    "balls": 41,
+                    "fours": 4,
+                    "sixes": 6,
+                    "strike_rate": 180.48
+                },
+                {
+                    "batsman": "Ishan Kishan",
+                    "dismissal": "c Prasidh Krishna b Coetzee",
+                    "runs": 13,
+                    "balls": 17,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 76.47
+                },
+                {
+                    "batsman": "Heinrich Klaasen †",
+                    "dismissal": "c †Buttler b Prasidh Krishna",
+                    "runs": 23,
+                    "balls": 18,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 127.77
+                },
+                {
+                    "batsman": "Aniket Verma",
+                    "dismissal": "c Shahrukh Khan b Mohammed Siraj",
+                    "runs": 3,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 42.85
+                },
+                {
+                    "batsman": "Nitish Kumar Reddy",
+                    "dismissal": "not out",
+                    "runs": 21,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strike_rate": 210.0
+                },
+                {
+                    "batsman": "Kamindu Mendis",
+                    "dismissal": "c †Buttler b Mohammed Siraj",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Pat Cummins (c)",
+                    "dismissal": "not out",
+                    "runs": 19,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 190.0
+                }
+            ],
+            "extras": {
+                "total": 13,
+                "detail": "(lb 6, w 7)"
+            },
+            "total": {
+                "runs": "186/6",
+                "detail": "20 Ov (RR: 9.30)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Siraj",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 33,
+                    "wickets": 2,
+                    "economy": 8.25
+                },
+                {
+                    "bowler": "I Sharma",
+                    "overs": 3.2,
+                    "maidens": 0,
+                    "runs": 35,
+                    "wickets": 1,
+                    "economy": 10.5
+                },
+                {
+                    "bowler": "M Prasidh Krishna",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 19,
+                    "wickets": 2,
+                    "economy": 4.75
+                },
+                {
+                    "bowler": "G Coetzee",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 36,
+                    "wickets": 1,
+                    "economy": 9.0
+                },
+                {
+                    "bowler": "Washington Sundar",
+                    "overs": 1.0,
+                    "maidens": 0,
+                    "runs": 6,
+                    "wickets": 0,
+                    "economy": 6.0
+                },
+                {
+                    "bowler": "Rashid Khan",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 50,
+                    "wickets": 0,
+                    "economy": 16.66
+                },
+                {
+                    "bowler": "R Sai Kishore",
+                    "overs": 0.4,
+                    "maidens": 0,
+                    "runs": 1,
+                    "wickets": 0,
+                    "economy": 1.5
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Sunrisers Hyderabad, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Prasidh Krishna",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "02 May 2025 - night (20-over match)",
+        "gt_player_replacement": "Impact player:  Ishant Sharma in,  Sai Sudharsan  out (1st innings, 19.6 ov)",
+        "srh_player_replacement": "Impact player:  Travis Head in,  Mohammed Shami  out (1st innings, 16.6 ov)",
+        "umpires": "Kannur Swaroopanand DRS Virender Sharma DRS",
+        "tv_umpire": "Michael Gough",
+        "reserve_umpire": "Abhijit Bhattacharya",
+        "match_referee": "Pankaj Dharmani",
+        "points": "Gujarat Titans 2, Sunrisers Hyderabad 0",
+        "extras": "(lb 6, w 7)",
+        "total": "186(6 wkts; 20 ovs)"
+    }
+}

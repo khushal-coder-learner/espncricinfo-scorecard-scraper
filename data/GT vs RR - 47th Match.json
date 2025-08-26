@@ -1,0 +1,265 @@
+{
+    "teams": {
+        "Gujarat Titans": {
+            "batting": [
+                {
+                    "batsman": "Sai Sudharsan",
+                    "dismissal": "c Parag b Theekshana",
+                    "runs": 39,
+                    "balls": 30,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strike_rate": 130.0
+                },
+                {
+                    "batsman": "Shubman Gill (c)",
+                    "dismissal": "c Parag b Theekshana",
+                    "runs": 84,
+                    "balls": 50,
+                    "fours": 5,
+                    "sixes": 4,
+                    "strike_rate": 168.0
+                },
+                {
+                    "batsman": "Jos Buttler †",
+                    "dismissal": "not out",
+                    "runs": 50,
+                    "balls": 26,
+                    "fours": 3,
+                    "sixes": 4,
+                    "strike_rate": 192.3
+                },
+                {
+                    "batsman": "Washington Sundar",
+                    "dismissal": "c Hetmyer b Sandeep Sharma",
+                    "runs": 13,
+                    "balls": 8,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 162.5
+                },
+                {
+                    "batsman": "Rahul Tewatia",
+                    "dismissal": "lbw b Archer",
+                    "runs": 9,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 225.0
+                },
+                {
+                    "batsman": "M Shahrukh Khan",
+                    "dismissal": "not out",
+                    "runs": 5,
+                    "balls": 2,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 250.0
+                }
+            ],
+            "extras": {
+                "total": 9,
+                "detail": "(lb 1, w 8)"
+            },
+            "total": {
+                "runs": "209/4",
+                "detail": "20 Ov (RR: 10.45)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-93",
+                    "player": "Sai Sudharsan",
+                    "over": "10.2"
+                },
+                {
+                    "score": "2-167",
+                    "player": "Shubman Gill",
+                    "over": "16.4"
+                },
+                {
+                    "score": "3-193",
+                    "player": "Washington Sundar",
+                    "over": "18.4"
+                },
+                {
+                    "score": "4-202",
+                    "player": "Rahul Tewatia",
+                    "over": "19.2"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Jofra Archer",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "49",
+                    "wickets": "1",
+                    "economy": "12.25"
+                },
+                {
+                    "bowler": "Maheesh Theekshana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "35",
+                    "wickets": "2",
+                    "economy": "8.75"
+                },
+                {
+                    "bowler": "Yudhvir Singh",
+                    "overs": "3",
+                    "maidens": "0",
+                    "runs": "38",
+                    "wickets": "0",
+                    "economy": "12.66"
+                },
+                {
+                    "bowler": "Sandeep Sharma",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "33",
+                    "wickets": "1",
+                    "economy": "8.25"
+                },
+                {
+                    "bowler": "Riyan Parag",
+                    "overs": "1",
+                    "maidens": "0",
+                    "runs": "14",
+                    "wickets": "0",
+                    "economy": "14.00"
+                },
+                {
+                    "bowler": "Wanindu Hasaranga",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "39",
+                    "wickets": "0",
+                    "economy": "9.75"
+                }
+            ]
+        },
+        "Rajasthan Royals": {
+            "batting": [
+                {
+                    "batsman": "Yashasvi Jaiswal",
+                    "dismissal": "not out",
+                    "runs": 70,
+                    "balls": 40,
+                    "fours": 9,
+                    "sixes": 2,
+                    "strike_rate": 175.0
+                },
+                {
+                    "batsman": "Vaibhav Suryavanshi",
+                    "dismissal": "b Prasidh Krishna",
+                    "runs": 101,
+                    "balls": 38,
+                    "fours": 7,
+                    "sixes": 11,
+                    "strike_rate": 265.78
+                },
+                {
+                    "batsman": "Nitish Rana",
+                    "dismissal": "lbw b Rashid Khan",
+                    "runs": 4,
+                    "balls": 2,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 200.0
+                },
+                {
+                    "batsman": "Riyan Parag (c)",
+                    "dismissal": "not out",
+                    "runs": 32,
+                    "balls": 15,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 213.33
+                }
+            ],
+            "extras": {
+                "total": 5,
+                "detail": "(lb 1, w 4)"
+            },
+            "total": {
+                "runs": "212/2",
+                "detail": "15.5 Ov (RR: 13.38)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "Mohammed Siraj",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 24,
+                    "wickets": 0,
+                    "economy": 12.0
+                },
+                {
+                    "bowler": "I Sharma",
+                    "overs": 2.0,
+                    "maidens": 0,
+                    "runs": 36,
+                    "wickets": 0,
+                    "economy": 18.0
+                },
+                {
+                    "bowler": "Washington Sundar",
+                    "overs": 1.5,
+                    "maidens": 0,
+                    "runs": 34,
+                    "wickets": 0,
+                    "economy": 18.54
+                },
+                {
+                    "bowler": "M Prasidh Krishna",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 47,
+                    "wickets": 1,
+                    "economy": 11.75
+                },
+                {
+                    "bowler": "Rashid Khan",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 24,
+                    "wickets": 1,
+                    "economy": 6.0
+                },
+                {
+                    "bowler": "Karim Janat",
+                    "overs": 1.0,
+                    "maidens": 0,
+                    "runs": 30,
+                    "wickets": 0,
+                    "economy": 30.0
+                },
+                {
+                    "bowler": "R Sai Kishore",
+                    "overs": 1.0,
+                    "maidens": 0,
+                    "runs": 16,
+                    "wickets": 0,
+                    "economy": 16.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Rajasthan Royals, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Vaibhav Suryavanshi",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "28 April 2025 - night (20-over match)",
+        "gt_player_replacement": "Impact player:  Ishant Sharma in,  Shubman Gill  out (1st innings, 19.6 ov)",
+        "umpires": "Michael Gough DRS Virender Sharma DRS",
+        "tv_umpire": "Ulhas Gandhe",
+        "reserve_umpire": "Abhijit Bhattacharya",
+        "match_referee": "Rajiv Seth",
+        "points": "Rajasthan Royals 2, Gujarat Titans 0",
+        "extras": "(lb 1, w 4)",
+        "total": "212(2 wkts; 15.5 ovs)"
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "teams": {
+        "Mumbai Indians": {
+            "batting": [
+                {
+                    "batsman": "Ryan Rickelton †",
+                    "dismissal": "c Tiwari b Kuldeep Yadav",
+                    "runs": 25,
+                    "balls": 18,
+                    "fours": 0,
+                    "sixes": 2,
+                    "strike_rate": 138.88
+                },
+                {
+                    "batsman": "Rohit Sharma",
+                    "dismissal": "c †Abishek Porel b Mustafizur Rahman",
+                    "runs": 5,
+                    "balls": 5,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Will Jacks",
+                    "dismissal": "c Nigam b Mukesh Kumar",
+                    "runs": 21,
+                    "balls": 13,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 161.53
+                },
+                {
+                    "batsman": "Suryakumar Yadav",
+                    "dismissal": "not out",
+                    "runs": 73,
+                    "balls": 43,
+                    "fours": 7,
+                    "sixes": 4,
+                    "strike_rate": 169.76
+                },
+                {
+                    "batsman": "Tilak Varma",
+                    "dismissal": "c Sameer Rizvi b Mukesh Kumar",
+                    "runs": 27,
+                    "balls": 27,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Hardik Pandya (c)",
+                    "dismissal": "c Mukesh Kumar b Chameera",
+                    "runs": 3,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Naman Dhir",
+                    "dismissal": "not out",
+                    "runs": 24,
+                    "balls": 8,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 300.0
+                }
+            ],
+            "extras": {
+                "total": 2,
+                "detail": "(lb 1, w 1)"
+            },
+            "total": {
+                "runs": "180/5",
+                "detail": "20 Ov (RR: 9.00)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-23",
+                    "player": "Rohit Sharma",
+                    "over": "2.2"
+                },
+                {
+                    "score": "2-48",
+                    "player": "Will Jacks",
+                    "over": "5.3"
+                },
+                {
+                    "score": "3-58",
+                    "player": "Ryan Rickelton",
+                    "over": "6.4"
+                },
+                {
+                    "score": "4-113",
+                    "player": "Tilak Varma",
+                    "over": "14.5"
+                },
+                {
+                    "score": "5-123",
+                    "player": "Hardik Pandya",
+                    "over": "16.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Mukesh Kumar",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "48",
+                    "wickets": "2",
+                    "economy": "12.00"
+                },
+                {
+                    "bowler": "Dushmantha Chameera",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "54",
+                    "wickets": "1",
+                    "economy": "13.50"
+                },
+                {
+                    "bowler": "Mustafizur Rahman",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "30",
+                    "wickets": "1",
+                    "economy": "7.50"
+                },
+                {
+                    "bowler": "Vipraj Nigam",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "25",
+                    "wickets": "0",
+                    "economy": "6.25"
+                },
+                {
+                    "bowler": "Kuldeep Yadav",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "22",
+                    "wickets": "1",
+                    "economy": "5.50"
+                }
+            ]
+        },
+        "Delhi Capitals": {
+            "batting": [
+                {
+                    "batsman": "KL Rahul",
+                    "dismissal": "c †Rickelton b Boult",
+                    "runs": 11,
+                    "balls": 6,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 183.33
+                },
+                {
+                    "batsman": "Faf du Plessis (c)",
+                    "dismissal": "c Santner b Chahar",
+                    "runs": 6,
+                    "balls": 7,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 85.71
+                },
+                {
+                    "batsman": "Abishek Porel †",
+                    "dismissal": "st †Rickelton b Jacks",
+                    "runs": 6,
+                    "balls": 9,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Sameer Rizvi",
+                    "dismissal": "b Santner",
+                    "runs": 39,
+                    "balls": 35,
+                    "fours": 6,
+                    "sixes": 1,
+                    "strike_rate": 111.42
+                },
+                {
+                    "batsman": "Vipraj Nigam",
+                    "dismissal": "c & b Santner",
+                    "runs": 20,
+                    "balls": 11,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 181.81
+                },
+                {
+                    "batsman": "Tristan Stubbs",
+                    "dismissal": "lbw b Bumrah",
+                    "runs": 2,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Ashutosh Sharma",
+                    "dismissal": "st †Rickelton b Santner",
+                    "runs": 18,
+                    "balls": 16,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 112.5
+                },
+                {
+                    "batsman": "Madhav Tiwari",
+                    "dismissal": "b Bumrah",
+                    "runs": 3,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 75.0
+                },
+                {
+                    "batsman": "Dushmantha Chameera",
+                    "dismissal": "not out",
+                    "runs": 8,
+                    "balls": 10,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 80.0
+                },
+                {
+                    "batsman": "Kuldeep Yadav",
+                    "dismissal": "c sub (RA Bawa) b KV Sharma",
+                    "runs": 7,
+                    "balls": 8,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 87.5
+                },
+                {
+                    "batsman": "Mustafizur Rahman",
+                    "dismissal": "b Bumrah",
+                    "runs": 0,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                }
+            ],
+            "extras": {
+                "total": 1,
+                "detail": "(nb 1)"
+            },
+            "total": {
+                "runs": "121",
+                "detail": "18.2 Ov (RR: 6.60)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "TA Boult",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 29,
+                    "wickets": 1,
+                    "economy": "7.25"
+                },
+                {
+                    "bowler": "DL Chahar",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 22,
+                    "wickets": 1,
+                    "economy": "7.33"
+                },
+                {
+                    "bowler": "MJ Santner",
+                    "overs": 4.0,
+                    "maidens": 0,
+                    "runs": 11,
+                    "wickets": 3,
+                    "economy": "2.75"
+                },
+                {
+                    "bowler": "JJ Bumrah",
+                    "overs": 3.2,
+                    "maidens": 0,
+                    "runs": 12,
+                    "wickets": 3,
+                    "economy": "3.6"
+                },
+                {
+                    "bowler": "KV Sharma",
+                    "overs": 3.0,
+                    "maidens": 0,
+                    "runs": 31,
+                    "wickets": 1,
+                    "economy": "10.33"
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Delhi Capitals, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Suryakumar Yadav",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.15, Second Session 21.15-22.45",
+        "match_days": "21 May 2025 - night (20-over match)",
+        "mi_player_replacement": "Impact player:  Karn Sharma in,  Rohit Sharma  out (2nd innings, 6.6 ov)",
+        "dc_player_replacement": "Impact player:  KL Rahul in,  Mukesh Kumar  out (1st innings, 19.6 ov)",
+        "t20_debut": "Madhav Tiwari",
+        "umpires": "Abhijeet Bengeri DRS Jayaraman Madanagopal DRS",
+        "tv_umpire": "Chris Gaffaney",
+        "reserve_umpire": "Parashar Joshi",
+        "match_referee": "Daniel Manohar",
+        "points": "Mumbai Indians 2, Delhi Capitals 0",
+        "extras": "(nb 1)",
+        "total": "121(10 wkts; 18.2 ovs)"
+    }
+}

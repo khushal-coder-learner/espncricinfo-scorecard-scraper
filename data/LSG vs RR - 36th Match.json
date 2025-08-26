@@ -1,0 +1,291 @@
+{
+    "teams": {
+        "Lucknow Super Giants": {
+            "batting": [
+                {
+                    "batsman": "Mitchell Marsh",
+                    "dismissal": "c Hetmyer b Archer",
+                    "runs": 4,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 66.66
+                },
+                {
+                    "batsman": "Aiden Markram",
+                    "dismissal": "c Parag b Hasaranga",
+                    "runs": 66,
+                    "balls": 45,
+                    "fours": 5,
+                    "sixes": 3,
+                    "strike_rate": 146.66
+                },
+                {
+                    "batsman": "Nicholas Pooran",
+                    "dismissal": "lbw b Sandeep Sharma",
+                    "runs": 11,
+                    "balls": 8,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 137.5
+                },
+                {
+                    "batsman": "Rishabh Pant (c)†",
+                    "dismissal": "c †Jurel b Hasaranga",
+                    "runs": 3,
+                    "balls": 9,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 33.33
+                },
+                {
+                    "batsman": "Ayush Badoni",
+                    "dismissal": "c Dubey b Deshpande",
+                    "runs": 50,
+                    "balls": 34,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strike_rate": 147.05
+                },
+                {
+                    "batsman": "David Miller",
+                    "dismissal": "not out",
+                    "runs": 7,
+                    "balls": 8,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 87.5
+                },
+                {
+                    "batsman": "Abdul Samad",
+                    "dismissal": "not out",
+                    "runs": 30,
+                    "balls": 10,
+                    "fours": 0,
+                    "sixes": 4,
+                    "strike_rate": 300.0
+                }
+            ],
+            "extras": {
+                "total": 9,
+                "detail": "(lb 4, w 5)"
+            },
+            "total": {
+                "runs": "180/5",
+                "detail": "20 Ov (RR: 9.00)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-16",
+                    "player": "Mitchell Marsh",
+                    "over": "2.2"
+                },
+                {
+                    "score": "2-46",
+                    "player": "Nicholas Pooran",
+                    "over": "5.2"
+                },
+                {
+                    "score": "3-54",
+                    "player": "Rishabh Pant",
+                    "over": "7.4"
+                },
+                {
+                    "score": "4-130",
+                    "player": "Aiden Markram",
+                    "over": "15.5"
+                },
+                {
+                    "score": "5-143",
+                    "player": "Ayush Badoni",
+                    "over": "17.3"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Jofra Archer",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "32",
+                    "wickets": "1",
+                    "economy": "8.00"
+                },
+                {
+                    "bowler": "Maheesh Theekshana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "32",
+                    "wickets": "0",
+                    "economy": "8.00"
+                },
+                {
+                    "bowler": "Sandeep Sharma",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "55",
+                    "wickets": "1",
+                    "economy": "13.75"
+                },
+                {
+                    "bowler": "Tushar Deshpande",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "26",
+                    "wickets": "1",
+                    "economy": "6.50"
+                },
+                {
+                    "bowler": "Wanindu Hasaranga",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "31",
+                    "wickets": "2",
+                    "economy": "7.75"
+                }
+            ]
+        },
+        "Rajasthan Royals": {
+            "batting": [
+                {
+                    "batsman": "Yashasvi Jaiswal",
+                    "dismissal": "b Avesh Khan",
+                    "runs": 74,
+                    "balls": 52,
+                    "fours": 5,
+                    "sixes": 4,
+                    "strike_rate": 142.3
+                },
+                {
+                    "batsman": "Vaibhav Suryavanshi",
+                    "dismissal": "st †Pant b Markram",
+                    "runs": 34,
+                    "balls": 20,
+                    "fours": 2,
+                    "sixes": 3,
+                    "strike_rate": 170.0
+                },
+                {
+                    "batsman": "Nitish Rana",
+                    "dismissal": "c Avesh Khan b Thakur",
+                    "runs": 8,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 114.28
+                },
+                {
+                    "batsman": "Riyan Parag (c)",
+                    "dismissal": "lbw b Avesh Khan",
+                    "runs": 39,
+                    "balls": 26,
+                    "fours": 3,
+                    "sixes": 2,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Dhruv Jurel †",
+                    "dismissal": "not out",
+                    "runs": 6,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 120.0
+                },
+                {
+                    "batsman": "Shimron Hetmyer",
+                    "dismissal": "c Thakur b Avesh Khan",
+                    "runs": 12,
+                    "balls": 7,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strike_rate": 171.42
+                },
+                {
+                    "batsman": "Shubham Dubey",
+                    "dismissal": "not out",
+                    "runs": 3,
+                    "balls": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                }
+            ],
+            "extras": {
+                "total": 2,
+                "detail": "(lb 1, w 1)"
+            },
+            "total": {
+                "runs": "178/5",
+                "detail": "20 Ov (RR: 8.90)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "SN Thakur",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 34,
+                    "wickets": 1,
+                    "economy": 11.33
+                },
+                {
+                    "bowler": "Avesh Khan",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 37,
+                    "wickets": 3,
+                    "economy": 9.25
+                },
+                {
+                    "bowler": "DS Rathi",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 30,
+                    "wickets": 0,
+                    "economy": 7.5
+                },
+                {
+                    "bowler": "AK Markram",
+                    "overs": 2,
+                    "maidens": 0,
+                    "runs": 18,
+                    "wickets": 1,
+                    "economy": 9.0
+                },
+                {
+                    "bowler": "Prince Yadav",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 39,
+                    "wickets": 0,
+                    "economy": 9.75
+                },
+                {
+                    "bowler": "Ravi Bishnoi",
+                    "overs": 3,
+                    "maidens": 0,
+                    "runs": 19,
+                    "wickets": 0,
+                    "economy": 6.33
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Lucknow Super Giants, elected to bat first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Avesh Khan",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "19 April 2025 - night (20-over match)",
+        "lsg_player_replacement": "Impact player:  Ayush Badoni in,  Mitchell Marsh  out (1st innings, 7.4 ov)",
+        "rr_player_replacement": "Impact player:  Vaibhav Suryavanshi in,  Sandeep Sharma  out (1st innings, 19.6 ov)",
+        "umpires": "Jayaraman Madanagopal DRS Vinod Seshan DRS",
+        "tv_umpire": "Chris Gaffaney",
+        "reserve_umpire": "Parashar Joshi",
+        "match_referee": "Prakash Bhatt",
+        "points": "Lucknow Super Giants 2, Rajasthan Royals 0",
+        "extras": "(lb 1, w 1)",
+        "total": "178(5 wkts; 20 ovs)"
+    }
+}

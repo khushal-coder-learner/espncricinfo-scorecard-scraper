@@ -1,0 +1,364 @@
+{
+    "teams": {
+        "Rajasthan Royals": {
+            "batting": [
+                {
+                    "batsman": "Yashasvi Jaiswal",
+                    "dismissal": "c Ashwin b Ahmed",
+                    "runs": 4,
+                    "balls": 3,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strike_rate": 133.33
+                },
+                {
+                    "batsman": "Sanju Samson",
+                    "dismissal": "c Ravindra b Noor Ahmad",
+                    "runs": 20,
+                    "balls": 16,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 125.0
+                },
+                {
+                    "batsman": "Nitish Rana",
+                    "dismissal": "st †Dhoni b Ashwin",
+                    "runs": 81,
+                    "balls": 36,
+                    "fours": 10,
+                    "sixes": 5,
+                    "strike_rate": 225.0
+                },
+                {
+                    "batsman": "Riyan Parag (c)",
+                    "dismissal": "b Pathirana",
+                    "runs": 37,
+                    "balls": 28,
+                    "fours": 2,
+                    "sixes": 2,
+                    "strike_rate": 132.14
+                },
+                {
+                    "batsman": "Dhruv Jurel †",
+                    "dismissal": "c Pathirana b Noor Ahmad",
+                    "runs": 3,
+                    "balls": 7,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 42.85
+                },
+                {
+                    "batsman": "Wanindu Hasaranga",
+                    "dismissal": "c Shankar b Jadeja",
+                    "runs": 4,
+                    "balls": 5,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 80.0
+                },
+                {
+                    "batsman": "Shimron Hetmyer",
+                    "dismissal": "c Ashwin b Pathirana",
+                    "runs": 19,
+                    "balls": 16,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 118.75
+                },
+                {
+                    "batsman": "Jofra Archer",
+                    "dismissal": "c Gaikwad b Ahmed",
+                    "runs": 0,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Kumar Kartikeya",
+                    "dismissal": "run out (Ahmed)",
+                    "runs": 1,
+                    "balls": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 100.0
+                },
+                {
+                    "batsman": "Maheesh Theekshana",
+                    "dismissal": "not out",
+                    "runs": 2,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                },
+                {
+                    "batsman": "Tushar Deshpande",
+                    "dismissal": "not out",
+                    "runs": 1,
+                    "balls": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 50.0
+                }
+            ],
+            "extras": {
+                "total": 10,
+                "detail": "(b 2, w 8)"
+            },
+            "total": {
+                "runs": "182/9",
+                "detail": "20 Ov (RR: 9.10)"
+            },
+            "fall_of_wickets": [
+                {
+                    "score": "1-4",
+                    "player": "Yashasvi Jaiswal",
+                    "over": "0.3"
+                },
+                {
+                    "score": "2-86",
+                    "player": "Sanju Samson",
+                    "over": "7.3"
+                },
+                {
+                    "score": "3-124",
+                    "player": "Nitish Rana",
+                    "over": "11.3"
+                },
+                {
+                    "score": "4-134",
+                    "player": "Dhruv Jurel",
+                    "over": "13.1"
+                },
+                {
+                    "score": "5-140",
+                    "player": "Wanindu Hasaranga",
+                    "over": "14.1"
+                },
+                {
+                    "score": "6-166",
+                    "player": "Riyan Parag",
+                    "over": "17.5"
+                },
+                {
+                    "score": "7-174",
+                    "player": "Jofra Archer",
+                    "over": "18.3"
+                },
+                {
+                    "score": "8-175",
+                    "player": "Kumar Kartikeya",
+                    "over": "18.5"
+                },
+                {
+                    "score": "9-176",
+                    "player": "Shimron Hetmyer",
+                    "over": "19.1"
+                }
+            ],
+            "bowling": [
+                {
+                    "bowler": "Khaleel Ahmed",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "38",
+                    "wickets": "2",
+                    "economy": "9.50"
+                },
+                {
+                    "bowler": "Jamie Overton",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "30",
+                    "wickets": "0",
+                    "economy": "15.00"
+                },
+                {
+                    "bowler": "Ravichandran Ashwin",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "46",
+                    "wickets": "1",
+                    "economy": "11.50"
+                },
+                {
+                    "bowler": "Noor Ahmad",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "28",
+                    "wickets": "2",
+                    "economy": "7.00"
+                },
+                {
+                    "bowler": "Matheesha Pathirana",
+                    "overs": "4",
+                    "maidens": "0",
+                    "runs": "28",
+                    "wickets": "2",
+                    "economy": "7.00"
+                },
+                {
+                    "bowler": "Ravindra Jadeja",
+                    "overs": "2",
+                    "maidens": "0",
+                    "runs": "10",
+                    "wickets": "1",
+                    "economy": "5.00"
+                }
+            ]
+        },
+        "Chennai Super Kings": {
+            "batting": [
+                {
+                    "batsman": "Rachin Ravindra",
+                    "dismissal": "c †Jurel b Archer",
+                    "runs": 0,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strike_rate": 0.0
+                },
+                {
+                    "batsman": "Rahul Tripathi",
+                    "dismissal": "c Hetmyer b Hasaranga",
+                    "runs": 23,
+                    "balls": 19,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strike_rate": 121.05
+                },
+                {
+                    "batsman": "Ruturaj Gaikwad (c)",
+                    "dismissal": "c Jaiswal b Hasaranga",
+                    "runs": 63,
+                    "balls": 44,
+                    "fours": 7,
+                    "sixes": 1,
+                    "strike_rate": 143.18
+                },
+                {
+                    "batsman": "Shivam Dube",
+                    "dismissal": "c Parag b Hasaranga",
+                    "runs": 18,
+                    "balls": 10,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strike_rate": 180.0
+                },
+                {
+                    "batsman": "Vijay Shankar",
+                    "dismissal": "b Hasaranga",
+                    "runs": 9,
+                    "balls": 6,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 150.0
+                },
+                {
+                    "batsman": "Ravindra Jadeja",
+                    "dismissal": "not out",
+                    "runs": 32,
+                    "balls": 22,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strike_rate": 145.45
+                },
+                {
+                    "batsman": "MS Dhoni †",
+                    "dismissal": "c Hetmyer b Sandeep Sharma",
+                    "runs": 16,
+                    "balls": 11,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strike_rate": 145.45
+                },
+                {
+                    "batsman": "Jamie Overton",
+                    "dismissal": "not out",
+                    "runs": 11,
+                    "balls": 4,
+                    "fours": 0,
+                    "sixes": 1,
+                    "strike_rate": 275.0
+                }
+            ],
+            "extras": {
+                "total": 4,
+                "detail": "(lb 1, w 3)"
+            },
+            "total": {
+                "runs": "176/6",
+                "detail": "20 Ov (RR: 8.80)"
+            },
+            "fall_of_wickets": [],
+            "bowling": [
+                {
+                    "bowler": "JC Archer",
+                    "overs": 3,
+                    "maidens": 1,
+                    "runs": 13,
+                    "wickets": 1,
+                    "economy": 4.33
+                },
+                {
+                    "bowler": "TU Deshpande",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 45,
+                    "wickets": 0,
+                    "economy": 11.25
+                },
+                {
+                    "bowler": "Sandeep Sharma",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 42,
+                    "wickets": 1,
+                    "economy": 10.5
+                },
+                {
+                    "bowler": "M Theekshana",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 30,
+                    "wickets": 0,
+                    "economy": 7.5
+                },
+                {
+                    "bowler": "PW Hasaranga",
+                    "overs": 4,
+                    "maidens": 0,
+                    "runs": 35,
+                    "wickets": 4,
+                    "economy": 8.75
+                },
+                {
+                    "bowler": "K Kartikeya",
+                    "overs": 1,
+                    "maidens": 0,
+                    "runs": 10,
+                    "wickets": 0,
+                    "economy": 10.0
+                }
+            ]
+        }
+    },
+    "match_info": {
+        "toss": "Chennai Super Kings, elected to field first",
+        "series": "Indian Premier League",
+        "season": "2025",
+        "player_of_the_match": "Nitish Rana",
+        "hours_of_play_local_time": "19.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50",
+        "match_days": "30 March 2025 - night (20-over match)",
+        "rr_player_replacement": "Impact player:  Kumar Kartikeya in,  Sanju Samson  out (1st innings, 18.3 ov)",
+        "csk_player_replacement": "Impact player:  Shivam Dube in,  Matheesha Pathirana  out (2nd innings, 7.1 ov)",
+        "umpires": "Adrian Holdstock DRS Akshay Totre DRS",
+        "tv_umpire": "Rohan Pandit",
+        "reserve_umpire": "Keyur Kelkar",
+        "match_referee": "Shakti Singh",
+        "points": "Rajasthan Royals 2, Chennai Super Kings 0",
+        "extras": "(lb 1, w 3)",
+        "total": "176(6 wkts; 20 ovs)"
+    }
+}
