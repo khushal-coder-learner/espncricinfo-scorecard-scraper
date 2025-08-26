@@ -195,7 +195,7 @@ Here’s a snippet from [DC vs RR – 32nd Match (super over match), IPL 2025](d
 
 More outputs:
 
-* [RCB vs KKR – 58th Match (No result match)](espncricinfo-scorecard-scraper/data/RCB%20vs%20KKR%20-%2058th%20Match.json)
+* [RCB vs KKR – 58th Match (No result match)](data/RCB%20vs%20KKR%20-%2058th%20Match.json)
 
 * [RCB vs PBKS – Final](data/RCB%20vs%20PBKS%20-%20Final.json)
 
