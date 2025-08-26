@@ -16,7 +16,7 @@ This project is built **for educational purposes only** — it’s not affiliate
 
 ## 📊 Example Output
 
-Here’s a snippet from [DC vs RR – 32nd Match (super over match), IPL 2025](data\DC%20vs%20RR%20-%2032nd%20Match.json):
+Here’s a snippet from [DC vs RR – 32nd Match (super over match), IPL 2025](data/DC%20vs%20RR%20-%2032nd%20Match.json):
 
 ```json
  {
@@ -195,7 +195,7 @@ Here’s a snippet from [DC vs RR – 32nd Match (super over match), IPL 2025](d
 
 More outputs:
 
-* [RCB vs KKR – 58th Match (No result match)](data/RCB%20vs%20KKR%20-%2058th%20Match.json)
+* [RCB vs KKR – 58th Match (No result match)](espncricinfo-scorecard-scraper/data/RCB%20vs%20KKR%20-%2058th%20Match.json)
 
 * [RCB vs PBKS – Final](data/RCB%20vs%20PBKS%20-%20Final.json)
 
