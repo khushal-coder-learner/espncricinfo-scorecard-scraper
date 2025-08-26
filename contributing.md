@@ -1,96 +1,102 @@
-Contributing to Cricinfo Scorecard Scraper 🏏
+# Contributing to Cricinfo Scorecard Scraper 🏏
 
-Thanks for checking out this project! This scraper is built for educational purposes only and is still evolving. Contributions of all shapes and sizes are welcome — bug fixes, docs, new ideas, or even reporting what didn’t work.
+Thanks for checking out this project! This scraper is built for **educational purposes only** and is still evolving. Contributions of all shapes and sizes are welcome — bug fixes, docs, new ideas, or even reporting what didn’t work.
 
-🏃 Getting Started
+---
 
-Fork the repo and clone your fork:
+## 🏃 Getting Started
 
-git clone https://github.com/<your-username>/cricscraper.git
-cd cricscraper
+1. **Fork the repo** and clone your fork:
 
+   ```bash
+   git clone https://github.com/<your-username>/cricscraper.git
+   cd cricscraper
+   ```
 
-Set up a virtual environment:
+2. **Set up a virtual environment**:
 
-python -m venv .venv
-source .venv/bin/activate   # macOS/Linux
-.venv\Scripts\Activate.ps1  # Windows
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate   # macOS/Linux
+   .venv\Scripts\Activate.ps1  # Windows
+   ```
 
+3. **Install dependencies**:
 
-Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-pip install -r requirements.txt
+4. **Run a test scrape**:
 
+   ```bash
+   python -m cricscraper --url <scorecard-url>
+   ```
 
-Run a test scrape:
+Outputs will appear under `data/`.
 
-python -m cricscraper --url <scorecard-url>
+---
 
+## 🚀 How to Contribute
 
-Outputs will appear under data/.
+* **Bug Fixes** → Example: parsing fails for Super Overs, or player roles leak into `match_info`.
+* **Features** → Example: CSV/Excel export, caching, retries, or better logging.
+* **Docs** → Improve README, add examples, or explain tricky selectors.
+* **Examples** → Add JSON outputs from more matches so others can see edge cases.
 
-🚀 How to Contribute
+---
 
-Bug Fixes → Example: parsing fails for Super Overs, or player roles leak into match_info.
+## 📌 Workflow
 
-Features → Example: CSV/Excel export, caching, retries, or better logging.
+1. Create a branch for your change:
 
-Docs → Improve README, add examples, or explain tricky selectors.
+   ```bash
+   git checkout -b fix/fow-parsing
+   ```
+2. Make your changes and test them.
+3. Run basic checks:
 
-Examples → Add JSON outputs from more matches so others can see edge cases.
+   ```bash
+   pytest -q
+   ```
+4. Commit with a clear message (try `feat:`, `fix:`, or `docs:`):
 
-📌 Workflow
+   ```bash
+   git commit -m "fix: handle NaN in Super Over totals"
+   ```
+5. Push your branch and open a Pull Request. 🎉
 
-Create a branch for your change:
+---
 
-git checkout -b fix/fow-parsing
+## 🔍 Reporting Issues
 
+If you hit a bug, please [open an issue](../../issues/new) and include:
 
-Make your changes and test them.
+* The URL you tried.
+* What you expected vs what you got.
+* Any console errors or JSON output.
 
-Run basic checks:
+---
 
-pytest -q
+## 📋 Code Style
 
+* Follow Python best practices (PEP8-ish).
+* Keep functions **short and focused**.
+* If you add logic, also add a **unit test** (even a tiny one).
+* Use meaningful variable names (no `x`, `y` for players 😉).
 
-Commit with a clear message (try feat:, fix:, or docs:):
+---
 
-git commit -m "fix: handle NaN in Super Over totals"
+## 💡 Tips for First-Time Contributors
 
+* Check the [good first issue](../../labels/good%20first%20issue) label.
+* Don’t be afraid to ask questions in [Discussions](../../discussions).
+* Even small fixes (like improving logging) are valuable.
 
-Push your branch and open a Pull Request. 🎉
+---
 
-🔍 Reporting Issues
-
-If you hit a bug, please open an issue
- and include:
-
-The URL you tried.
-
-What you expected vs what you got.
-
-Any console errors or JSON output.
-
-📋 Code Style
-
-Follow Python best practices (PEP8-ish).
-
-Keep functions short and focused.
-
-If you add logic, also add a unit test (even a tiny one).
-
-Use meaningful variable names (no x, y for players 😉).
-
-💡 Tips for First-Time Contributors
-
-Check the good first issue
- label.
-
-Don’t be afraid to ask questions in Discussions
-.
-
-Even small fixes (like improving logging) are valuable.
-
-❤️ Code of Conduct
+## ❤️ Code of Conduct
 
 Be kind, respectful, and assume good intent. Disagree with ideas, not people.
+
+---
